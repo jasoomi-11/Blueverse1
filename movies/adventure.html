@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WZZV77N219"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WZZV77N219');
+</script>
+  
+  
+  
+  
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Movies Page</title>
+
+<style>
+/* ===== GLOBAL THEME ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #000;
+  color: white;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* ===== HEADER (Modified: Logo Left, Hamburger Right, No Search Bar) ===== */
+header {
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%) scale(0.9);
+  width: 90%;
+  max-width: 1100px;
+  height: 70px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 999px;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 0 25px rgba(0, 100, 255, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 1.6s cubic-bezier(0.77,0,0.175,1);
+  z-index: 1000;
+  opacity: 0;
+  padding: 0 1.5rem;
+  animation: headerGlow 4s infinite alternate ease-in-out;
+}
+header.show { opacity: 1; }
+header.expanded { transform: translateX(-50%) scale(1); }
+
+@keyframes headerGlow {
+  from { box-shadow: 0 0 20px rgba(0,150,255,0.4), 0 0 40px rgba(0,50,150,0.3); }
+  to { box-shadow: 0 0 30px rgba(0,200,255,0.7), 0 0 60px rgba(0,100,255,0.5); }
+}
+
+.logo {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: cyan;
+  background: rgba(255,255,255,0.07);
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 15px cyan;
+  transition: transform 1s ease;
+  flex-shrink: 0;
+}
+
+.logo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover; /* ensures full coverage inside circle */
+}
+
+.logo:hover { transform: rotate(360deg) scale(1.1); }
+
+.hamburger {
+  width: 30px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  z-index: 1100;
+  flex-shrink: 0;
+}
+.hamburger span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: cyan;
+  border-radius: 3px;
+  transition: all 0.4s ease;
+}
+.hamburger.active span:nth-child(1) { transform: rotate(45deg) translate(5px,5px); }
+.hamburger.active span:nth-child(2) { opacity: 0; }
+.hamburger.active span:nth-child(3) { transform: rotate(-45deg) translate(6px,-6px); }
+
+/* ===== MENU (SIDEBAR) ===== */
+/* ===== SIDEBAR MENU ===== */
+.menu {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 270px;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(15px);
+  border-right: 2px solid rgba(0, 255, 255, 0.3);
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
+  transition: left 0.6s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
+  z-index: 999;
+}
+
+.menu.active {
+  left: 0;
+}
+
+.sidebar-content {
+  text-align: center;
+  padding: 2rem 1rem;
+  width: 100%;
+}
+
+.sidebar-title {
+  color: cyan;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+  text-shadow: 0 0 12px cyan;
+}
+
+.menu a {
+  display: block;
+  color: cyan;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0.6rem 0;
+  padding: 0.7rem 1rem;
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.menu a:hover {
+  background: cyan;
+  color: #000;
+  box-shadow: 0 0 15px cyan;
+  transform: translateY(-2px);
+}
+
+/* Subtitles */
+.sidebar-sub {
+  color: #00e6e6;
+  font-size: 1.1rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 6px cyan;
+  border-bottom: 1px solid rgba(0,255,255,0.3);
+  display: inline-block;
+  padding-bottom: 4px;
+}
+
+/* Tags section */
+.sidebar-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin-bottom: 2rem;
+}
+
+.sidebar-tags a {
+  font-size: 0.9rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid rgba(0,255,255,0.3);
+  border-radius: 6px;
+  background: rgba(255,255,255,0.05);
+  transition: all 0.3s ease;
+}
+
+.sidebar-tags a:hover {
+  background: cyan;
+  color: black;
+  box-shadow: 0 0 10px cyan;
+}
+
+/* Social Links */
+.sidebar-social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+.sidebar-social a {
+  width: 80%;
+}
+
+.sidebar-social a:hover {
+  background: cyan;
+  color: black;
+  transform: translateY(-2px);
+}
+
+/* ===== BODY BASE ===== */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #000;
+  color: white;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* ===== HERO SECTION ===== */
+.hero {
+  margin-top: 100px;
+  background: linear-gradient(135deg, #001f3f, #000);
+  text-align: center;
+  padding: 3rem 1rem;
+  color: cyan;
+  box-shadow: 0 0 25px cyan;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero h1 {
+  font-size: 2.3rem;
+  color: cyan;
+  text-shadow: 0 0 20px cyan;
+}
+.hero p { color: #ccc; margin-top: 0.8rem; }
+
+/* ===== MOVIE GRID ===== */
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  width: 90%;
+  max-width: 1100px;
+  margin: 2rem auto;
+}
+.movie-card {
+  background: #0a0a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 15px cyan;
+  position: relative;
+  transition: transform 0.4s ease, box-shadow 0.4s ease, filter 0.6s ease;
+  filter: blur(8px);
+  opacity: 0;
+  transform: translateY(30px);
+}
+.movie-card.visible {
+  filter: blur(0);
+  opacity: 1;
+  transform: translateY(0);
+}
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px cyan;
+}
+.movie-card img {
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+}
+.movie-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: lime;
+  color: #000;
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  border-radius: 4px;
+  box-shadow: 0 0 6px lime;
+}
+.movie-info {
+  padding: 0.7rem 0.9rem 1rem;
+}
+.movie-info h3 {
+  font-size: 1rem;
+  color: cyan;
+  margin-bottom: 4px;
+}
+.movie-info p {
+  color: #999;
+  font-size: 0.85rem;
+}
+
+/* ===== PAGINATION PLACEHOLDER ===== */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+  gap: 1rem;
+}
+.pagination button {
+  background: cyan;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 0 10px cyan;
+}
+.pagination span {
+  font-weight: bold;
+  color: cyan;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .movie-grid { grid-template-columns: repeat(2, 1fr); }
+  .hero h1 { font-size: 1.8rem; }
+}
+@media (max-width: 480px) {
+  .movie-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+
+/* ===== PAGINATION ===== */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.page-link, .page-next, .page-prev {
+  text-decoration: none;
+  background: rgba(0,255,255,0.1);
+  color: cyan;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px cyan;
+  transition: all 0.3s ease;
+}
+
+.page-link:hover, .page-next:hover, .page-prev:hover {
+  background: cyan;
+  color: #000;
+  box-shadow: 0 0 15px cyan;
+}
+
+/* Active page */
+.page-link.active {
+  background: cyan;
+  color: #000;
+  box-shadow: 0 0 20px cyan, 0 0 40px cyan;
+  pointer-events: none;
+}
+
+
+
+
+/* ===== FILTER SECTION ===== */
+.filter-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 1100px;
+  padding: 1rem 0;
+  background: rgba(255,255,255,0.05);
+  border-radius: 15px;
+  backdrop-filter: blur(15px);
+  box-shadow: 0 0 20px rgba(0,255,255,0.3);
+  /* animation removed to improve LCP */
+}
+
+.filter-btn {
+  text-decoration: none;
+  background: rgba(0,255,255,0.1);
+  color: cyan;
+  border: 1px solid cyan;
+  border-radius: 20px;
+  padding: 0.5rem 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 8px cyan;
+}
+
+.filter-btn:hover {
+  background: cyan;
+  color: #000;
+  box-shadow: 0 0 15px cyan;
+}
+
+.filter-btn.active {
+  background: cyan;
+  color: #000;
+  box-shadow: 0 0 25px cyan, 0 0 45px cyan;
+}
+
+
+
+
+/* ===== FOOTER SECTION ===== */
+.footer {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(15px);
+  color: cyan;
+  text-align: center;
+  padding: 2rem 1rem;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.4);
+  border-top: 1px solid rgba(0, 255, 255, 0.2);
+  animation: footerGlow 4s infinite alternate ease-in-out;
+  margin-top: 4rem;
+}
+
+@keyframes footerGlow {
+  from { box-shadow: 0 0 15px rgba(0,255,255,0.3), 0 0 30px rgba(0,100,255,0.2); }
+  to { box-shadow: 0 0 25px rgba(0,255,255,0.6), 0 0 50px rgba(0,150,255,0.4); }
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: cyan;
+  background: rgba(255,255,255,0.07);
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 15px cyan;
+  transition: transform 1s ease;
+}
+
+.footer-logo:hover {
+  transform: rotate(360deg) scale(1.1);
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: cyan;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #000;
+  background: cyan;
+  padding: 0.3rem 0.7rem;
+  border-radius: 8px;
+  box-shadow: 0 0 12px cyan;
+}
+
+.footer-socials {
+  display: flex;
+  gap: 1rem;
+  font-size: 1.4rem;
+}
+
+.footer-socials a {
+  color: cyan;
+  transition: all 0.3s ease;
+}
+
+.footer-socials a:hover {
+  color: #000;
+  background: cyan;
+  border-radius: 50%;
+  padding: 0.4rem;
+  box-shadow: 0 0 15px cyan;
+}
+
+.footer-bottom {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+
+.footer-attribution {
+  margin-top: 1.2rem;
+  color: #888;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-attribution a {
+  color: cyan;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-attribution a:hover {
+  color: #000;
+  background: cyan;
+  padding: 0 4px;
+  border-radius: 4px;
+  box-shadow: 0 0 8px cyan;
+}
+
+/* ===== TFooter Ends===== */
+
+
+
+
+/* ===== TRENDING SECTION ===== */
+.trending-section {
+  width: 100%;
+  background: linear-gradient(135deg, #001a33, #000814);
+  padding: 2rem 1rem 3rem;
+  box-shadow: 0 0 40px rgba(0, 255, 255, 0.2);
+  border-top: 1px solid rgba(0, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(0, 255, 255, 0.2);
+}
+
+.trending-title {
+  font-size: 1.9rem;
+  color: cyan;
+  text-shadow: 0 0 20px cyan;
+  margin-bottom: 1.2rem;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 1rem;
+}
+
+.trending-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 0 1rem 1rem;
+}
+
+.trending-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.trending-container::-webkit-scrollbar-thumb {
+  background: cyan;
+  border-radius: 10px;
+  box-shadow: 0 0 10px cyan;
+}
+
+.trending-card {
+  min-width: 180px;
+  max-width: 200px;
+  border-radius: 15px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  flex-shrink: 0;
+  background: rgba(0, 255, 255, 0.05);
+  backdrop-filter: blur(6px);
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.25);
+}
+
+.trending-card:hover {
+  transform: scale(1.06);
+  box-shadow: 0 0 30px cyan;
+}
+
+.trending-card img {
+  width: 100%;
+  height: 270px;
+  object-fit: cover;
+  display: block;
+}
+
+.trending-card .movie-info {
+  background: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  padding: 0.6rem;
+  color: cyan;
+}
+
+.trending-card .movie-info h3 {
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.trending-card .movie-info p {
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+
+/* Container for search bar */
+.search-container {
+  position: sticky;       /* sticky below header */
+  top: 90px;              /* adjust according to your header height */
+  max-width: 650px;
+  margin: 10px auto;      /* center horizontally */
+  z-index: 999;
+  background: #0d1b2a;   /* Blueverse dark blue background */
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Search input field */
+#universal-search {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #1b263b; /* subtle border */
+  border-radius: 8px;
+  outline: none;
+  box-sizing: border-box;
+  background: #1b263b;  /* input dark blue */
+  color: #e0e1dd;       /* light text */
+}
+
+/* Placeholder color */
+#universal-search::placeholder {
+  color: #8da0b8;
+}
+
+/* Search results dropdown */
+.search-results {
+  position: absolute;
+  top: 50px;               /* below the search input */
+  width: 100%;
+  background: #0d1b2a;     /* match container */
+  border: 1px solid #1b263b;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1000;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Individual search item card */
+.search-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px;
+  border-bottom: 1px solid #1b263b;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+/* Hover or active item */
+.search-item:hover,
+.search-item.active {
+  background: #274156; /* highlight hover */
+}
+
+/* Thumbnail image */
+.search-item img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #1b263b;
+}
+
+/* Title */
+.search-item h4 {
+  margin: 0;
+  font-size: 16px;
+  color: #e0e1dd;  /* light text */
+}
+
+/* Description */
+.search-item p {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: #8da0b8;  /* subtle text */
+}
+
+/* No results message */
+.search-results p {
+  padding: 12px;
+  margin: 0;
+  font-size: 14px;
+  color: #e0e1dd;
+  text-align: center;
+}
+
+/* Scrollbar styling */
+.search-results::-webkit-scrollbar {
+  width: 6px;
+}
+
+.search-results::-webkit-scrollbar-thumb {
+  background-color: #415a77;  /* blueverse scrollbar thumb */
+  border-radius: 3px;
+}
+
+.search-results::-webkit-scrollbar-track {
+  background: #0d1b2a;  /* track matches container */
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 480px) {
+  .search-container {
+    max-width: 70%;
+    top: 90px;
+  }
+
+  .search-item img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .search-item h4 {
+    font-size: 14px;
+  }
+
+  .search-item p {
+    font-size: 11px;
+  }
+}
+
+
+
+</style>
+</head>
+<body>
+
+<header class="show expanded">
+  <div class="logo">
+    <img src="/assets/thumb/logo.png" alt="blueverse logo">
+  </div>
+  
+  <div class="hamburger"><span></span><span></span><span></span></div>
+</header>
+
+ <!-- Search Bar Container -->
+<div class="search-container">
+  <input type="text" id="universal-search" placeholder="Search movies or games..." autocomplete="off"/>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+<!-- Sidebar -->
+<nav class="menu">
+  <div class="sidebar-content">
+    <h2 class="sidebar-title">MENU</h2>
+    <a href="/index.html">🏠 Home</a>
+    <a href="/movies/movies.html">🎬 Movies</a>
+    <a href="/Game/all-games.html">Top Games List</a>
+    <a href="/games.html">Play Games </a>
+    <a href="/blog.html">Blog Page</a>
+   
+    
+
+    <h3 class="sidebar-sub">Genres</h3>
+    <div class="sidebar-tags">
+      <a href="/movies/action.html">Action</a>
+      
+      <a href="/movies/horror.html">Horror</a>
+      
+    </div>
+
+    <h3 class="sidebar-sub">Connect</h3>
+    <div class="sidebar-social">
+      <a href="#">YouTube</a>
+      <a href="#">Telegram</a>
+      <a href="#">Instagram</a>
+      <a href="#">Twitter</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <h1>Featured Movies</h1>
+  <p>Watch the latest blockbusters and trending titles</p>
+</section>
+
+
+
+<!-- ===== FILTER SECTION ===== -->
+<section class="filter-section">
+  <a href="/movies/movie.html" class="filter-btn active">All</a>
+  <a href="/movies/action.html" class="filter-btn">Action</a>
+  <a href="/movies/adventure.html" class="filter-btn">Adventure</a>
+  <a href="/movies/romance.html" class="filter-btn">Romance</a>
+  <a href="/movies/horror.html" class="filter-btn">Horror</a>
+  
+  <nav class="breadcrumb" id="breadcrumb"></nav>
+  
+</section>
+
+<!-- ===== MOVIE GRID ===== -->
+<div class="movie-grid">
+  <!-- Movie cards yahan JS se add honge -->
+</div>
+
+
+<!-- ================= Coming Soon Notice ================= -->
+<div id="comingSoonNotice" style="display:none; text-align:center; padding:2rem; background:#001a4d; color:cyan; font-size:1.5rem; border-radius:12px; margin:1rem 0;">
+  🎬 Coming Soon!
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  // Example: check if upcoming movies section is empty
+  const upcomingContainer = document.getElementById('upcoming-carousel');
+  
+  if (!upcomingContainer || upcomingContainer.children.length === 0) {
+    document.getElementById('comingSoonNotice').style.display = 'block';
+  }
+});
+</script>
+
+
+
+<!-- ===== FOOTER SECTION ===== -->
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-logo">M</div>
+
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="movies.html">Movies</a>
+      <a href="series.html">Series</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+
+    <div class="footer-socials">
+      <a href="#" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+      <a href="#" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+      <a href="#" title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="#" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
+    </div>
+  </div>
+
+  <div class="footer-attribution">
+    <p>
+      Movie data, posters, and cast details provided by 
+      <a href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer">TMDb</a>.
+      Icons by 
+      <a href="https://www.flaticon.com/" target="_blank" rel="noopener noreferrer">Flaticon</a>.
+    </p>
+    <p>
+      This site is not endorsed or certified by TMDb or Flaticon.  
+      All trademarks and copyrights belong to their respective owners.
+    </p>
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2025 MovieZone. All rights reserved.</p>
+  </div>
+</footer>
+
+<!-- Font Awesome for icons -->
+<script src="https://kit.fontawesome.com/a2e0e6c61f.js" crossorigin="anonymous"></script>
+
+
+
+<script>
+/* MENU TOGGLE */
+const hamburger = document.querySelector('.hamburger');
+const menu = document.querySelector('.menu');
+hamburger.addEventListener('click', () => {
+  hamburger.classList.toggle('active');
+  menu.classList.toggle('active');
+});
+
+/* SCROLL ANIMATION */
+const cards = document.querySelectorAll('.movie-card');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) entry.target.classList.add('visible');
+  });
+}, { threshold: 0.2 });
+cards.forEach(card => observer.observe(card));
+
+
+
+
+
+
+
+const movieGrid = document.querySelector(".movie-grid");
+
+// Genre for this page
+const selectedGenre = "Adventure"; // Action movies only
+
+// Fetch movies from local JSON
+fetch("/assets/data/movies.json")
+  .then(res => res.json())
+  .then(data => {
+    // Filter movies by genre
+    const filteredMovies = data.filter(movie => 
+      movie.genre && movie.genre.includes(selectedGenre)
+    );
+
+    // Create cards for filtered movies
+    filteredMovies.forEach(movie => {
+      const card = document.createElement("div");
+      card.className = "movie-card";
+
+      card.innerHTML = `
+        <span class="movie-badge">${movie.badge}</span>
+        <img src="${movie.image}" alt="${movie.title}" loading="lazy" onerror="this.src='/images/placeholder.jpg'">
+        <div class="movie-info">
+          <h3>${movie.title}</h3>
+          <p>${movie.year}</p>
+        </div>
+      `;
+
+      card.addEventListener("click", () => window.location.href = movie.url);
+      movieGrid.appendChild(card);
+
+      // Scroll animation
+      setTimeout(() => card.classList.add("visible"), 50);
+    });
+  })
+  .catch(err => console.error("Error loading movies:", err));
+
+
+
+
+
+
+</script>
+
+
+
+
+<script>
+let movies = [];
+let games = [];
+let currentFocus = -1; // for keyboard navigation
+
+// Load JSON data
+async function loadData() {
+  try {
+    const moviesResp = await fetch('/assets/data/movies.json');
+    movies = await moviesResp.json();
+
+    const gamesResp = await fetch('/assets/data/games.json');
+    games = await gamesResp.json();
+  } catch (error) {
+    console.error("Error loading JSON data:", error);
+  }
+}
+
+// Search function for both formats
+function searchContent(query) {
+  query = query.toLowerCase();
+
+  // Movies: title, url, image
+  const movieResults = movies.filter(item =>
+    (item.title && item.title.toLowerCase().includes(query)) ||
+    (item.url && item.url.toLowerCase().includes(query)) ||
+    (item.image && item.image.toLowerCase().includes(query))
+  );
+
+  // Games: title, path, thumb
+  const gameResults = games.filter(item =>
+    (item.title && item.title.toLowerCase().includes(query)) ||
+    (item.path && item.path.toLowerCase().includes(query)) ||
+    (item.thumb && item.thumb.toLowerCase().includes(query))
+  );
+
+  return [...movieResults, ...gameResults];
+}
+
+// Render search results
+function renderResults(results) {
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = '';
+
+  if (results.length === 0) {
+    resultsContainer.innerHTML = '<p style="padding:10px;">No results found</p>';
+    return;
+  }
+
+  results.forEach(item => {
+    const isMovie = item.url !== undefined;
+    const link = isMovie ? item.url : item.path;
+    const thumb = isMovie ? item.image : item.thumb;
+    const desc = isMovie
+      ? (item.year ? `Year: ${item.year}` : '') + (item.badge ? ` | ${item.badge}` : '')
+      : (item.platforms ? `Platforms: ${item.platforms.join(', ')}` : '') + (item.badge ? ` | ${item.badge}` : '');
+
+    const div = document.createElement('div');
+    div.classList.add('search-item');
+
+    div.innerHTML = `
+      <img src="${thumb}" alt="${item.title}" />
+      <div>
+        <h4>${item.title}</h4>
+        <p>${desc}</p>
+      </div>
+    `;
+
+    // Clickable card
+    div.addEventListener('click', () => {
+      window.location.href = link;
+    });
+
+    resultsContainer.appendChild(div);
+  });
+}
+
+// Keyboard navigation
+function addKeyboardNavigation() {
+  const items = document.querySelectorAll('.search-item');
+  document.getElementById('universal-search').addEventListener('keydown', function(e) {
+    if (!items.length) return;
+
+    if (e.key === "ArrowDown") {
+      currentFocus++;
+      if (currentFocus >= items.length) currentFocus = 0;
+      setActive(items);
+    } else if (e.key === "ArrowUp") {
+      currentFocus--;
+      if (currentFocus < 0) currentFocus = items.length - 1;
+      setActive(items);
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      if (currentFocus > -1) items[currentFocus].click();
+    }
+  });
+}
+
+function setActive(items) {
+  items.forEach(i => i.classList.remove('active'));
+  if (currentFocus >= 0) items[currentFocus].classList.add('active');
+}
+
+// Input listener
+document.getElementById('universal-search').addEventListener('input', (e) => {
+  const query = e.target.value.trim();
+  currentFocus = -1;
+
+  if (query.length > 0) {
+    const results = searchContent(query);
+    renderResults(results);
+    addKeyboardNavigation();
+  } else {
+    document.getElementById('search-results').innerHTML = '';
+  }
+});
+
+// Close dropdown if clicked outside
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.search-container')) {
+    document.getElementById('search-results').innerHTML = '';
+  }
+});
+
+window.addEventListener('DOMContentLoaded', loadData);
+
+</script>
+
+
+</body>
+</html>

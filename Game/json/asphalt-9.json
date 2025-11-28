@@ -1,0 +1,178 @@
+{
+  "game": {
+    "name": "Asphalt Legends",
+    "title": "Asphalt 9: Legends",
+    "platform": "Android | iOS | Windows | Steam | Nintendo Switch | Xbox One | Xbox Series X/S | macOS",
+
+    "banner": "https://img.youtube.com/vi/ot63S91Ihwk/maxresdefault.jpg",
+    "thumbnail": "https://img.youtube.com/vi/ot63S91Ihwk/maxresdefault.jpg",
+
+    "trailers": [
+      {
+        "url": "https://youtu.be/ot63S91Ihwk",
+        "thumb": "https://img.youtube.com/vi/ot63S91Ihwk/maxresdefault.jpg"
+      },
+      {
+        "url": "https://youtu.be/Mw0h0jLpoqQ",
+        "thumb": "https://img.youtube.com/vi/Mw0h0jLpoqQ/maxresdefault.jpg"
+      }
+    ],
+
+    "about": {
+      "short": "Asphalt 9: Legends is a high-speed arcade racing game with licensed hypercars, cinematic tracks, and the TouchDrive control system.",
+      "full": "Asphalt 9: Legends delivers console-quality graphics, an extensive selection of licensed supercars and hypercars, and fast-paced arcade racing. Players race on global tracks, perform aerial stunts, and compete in events, career mode, and online multiplayer. TouchDrive provides an assisted driving option for strategic route choice, while manual controls allow full precision. The game supports cross-play and cross-save across several platforms, and continues to receive seasonal updates, new cars, and live events."
+    },
+
+    "platforms": [
+      {
+        "name": "Android (Google Play)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg",
+        "link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM"
+      },
+      {
+        "name": "iOS (App Store)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg",
+        "link": "https://apps.apple.com/app/asphalt-9-legends/id805603214"
+      },
+      {
+        "name": "Windows (Microsoft Store)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg",
+        "link": "https://apps.microsoft.com/store/detail/asphalt-9-legends/9P6CH8V0K8B3"
+      },
+      {
+        "name": "Steam (PC)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+        "link": "https://store.steampowered.com/app/1815780/Asphalt_9_Legends"
+      },
+      {
+        "name": "Nintendo Switch",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/NintendoSwitchLogo.svg",
+        "link": "https://www.nintendo.com/store/products/asphalt-9-legends-switch"
+      },
+      {
+        "name": "Xbox One",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Xbox_one_logo.svg",
+        "link": "https://www.xbox.com/en-US/games/store/asphalt-9-legends"
+      },
+      {
+        "name": "Xbox Series X/S",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Xbox_series_X_logo.svg",
+        "link": "https://www.xbox.com/en-US/games/store/asphalt-9-legends"
+      },
+      {
+        "name": "macOS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg",
+        "link": "https://apps.apple.com/app/asphalt-9-legends/id1496558789"
+      }
+    ],
+
+    "tabs": {
+      "tips": [
+        "Use TouchDrive for smart route choices and consistent racing.",
+        "Drift to refill nitro quickly and maintain high speed.",
+        "Learn track shortcuts to stay ahead of opponents.",
+        "Join a Club to access club rewards and leaderboard bonuses.",
+        "Upgrade cars starting from your most competitive class.",
+        "Use nitro shockwave to gain maximum acceleration.",
+        "Participate in limited-time events to unlock rare cars.",
+        "Improve graphics settings based on your device for smoother racing."
+      ],
+
+      "updates": [
+        "New events and car releases frequently.",
+        "Seasonal updates with themed rewards.",
+        "Improved multiplayer balance systems.",
+        "Graphical enhancements and performance improvements.",
+        "Club features expanded with new reward paths.",
+        "Cross-play improvements and syncing options."
+      ],
+
+      "features": [
+        "Licensed supercars and hypercars including Ferrari, Lamborghini, Bugatti, and W Motors.",
+        "Console-quality graphics with HDR and advanced lighting.",
+        "TouchDrive control system for assisted racing.",
+        "Manual control mode for full precision.",
+        "Online multiplayer with up to eight players.",
+        "Clubs with leaderboards and weekly rewards.",
+        "Career mode with hundreds of races.",
+        "Limited-time events and seasonal challenges.",
+        "Cross-save support across selected platforms."
+      ],
+
+      "features_ps5": [
+        "PlayStation version not available at this time."
+      ],
+
+      "features_pc": [
+        "Full native PC support through Microsoft Store and Steam.",
+        "Cross-play available with many platforms.",
+        "HDR and high-frame-rate options available.",
+        "Keyboard or controller support."
+      ],
+
+      "faq": [
+        {
+          "q": "Is Asphalt 9 free?",
+          "a": "Yes, the game is free-to-play with optional purchases."
+        },
+        {
+          "q": "Does Asphalt 9 support cross-play?",
+          "a": "Yes, several platforms support cross-play and cross-progress."
+        },
+        {
+          "q": "Can Asphalt 9 be played offline?",
+          "a": "No, the game requires an active internet connection."
+        },
+        {
+          "q": "How many cars are available?",
+          "a": "The game features many licensed vehicles, including supercars, hypercars, and concept cars."
+        }
+      ],
+
+      "whyplay": [
+        "High-end mobile graphics with console-like visuals.",
+        "Dynamic racing with nitro shockwaves and aerial stunts.",
+        "Large garage of famous hypercars.",
+        "Frequent updates, events, and seasonal gameplay.",
+        "Accessible controls suitable for all skill levels."
+      ]
+    },
+
+    "requirements": {
+      "android": [
+        "OS: Android 9.0 or newer recommended",
+        "RAM: At least 2 GB recommended",
+        "Storage: Several GB depending on updates",
+        "Internet required"
+      ],
+
+      "ios": [
+        "OS: iOS 11 or newer",
+        "Storage: Several GB required",
+        "Internet required"
+      ],
+
+      "pc": [
+        "OS: Windows 10 or later",
+        "RAM: 4–8 GB",
+        "GPU: Integrated or mid-range GPU",
+        "Storage: ~10 GB",
+        "Internet required"
+      ],
+
+      "console": [
+        "Nintendo Switch supported",
+        "Xbox One and Xbox Series X/S supported",
+        "macOS supported"
+      ]
+    },
+
+    "info": {
+      "rating": "ESRB E10+",
+      "developer": "Gameloft Barcelona",
+      "publisher": "Gameloft",
+      "year": "Worldwide Release: July 25, 2018",
+      "genre": "Arcade Racing"
+    }
+  }
+}

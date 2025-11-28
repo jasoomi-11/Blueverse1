@@ -1,0 +1,195 @@
+{
+  "game": {
+    "name": "Asphalt 8: Airborne",
+    "title": "Asphalt 8: Airborne",
+    "platform": "Android | iOS | Windows | macOS",
+
+    "banner": "https://img.youtube.com/vi/jpSGZsgga_I/maxresdefault.jpg",
+    "thumbnail": "https://img.youtube.com/vi/jpSGZsgga_I/maxresdefault.jpg",
+
+    "trailers": [
+  {
+    "url": "https://www.youtube.com/watch?v=jpSGZsgga_I",
+    "thumb": "https://img.youtube.com/vi/jpSGZsgga_I/maxresdefault.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kNrp9cuehS0",
+    "thumb": "https://img.youtube.com/vi/kNrp9cuehS0/maxresdefault.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=h8aI--orPv0",
+    "thumb": "https://img.youtube.com/vi/h8aI--orPv0/maxresdefault.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bwKl4KXQ0RI",
+    "thumb": "https://img.youtube.com/vi/bwKl4KXQ0RI/maxresdefault.jpg"
+  }
+],
+
+    "about": {
+      "short": "Asphalt 8: Airborne is an arcade racing game with gravity-defying stunts, over 300 vehicles, and high-speed aerial action.",
+      "full": "Asphalt 8: Airborne, developed by Gameloft Barcelona, features intense high-speed arcade racing across exotic tracks with jumps, barrel rolls, and 360° stunts. Players choose from hundreds of licensed cars and motorcycles, upgrade their rides, and compete in solo career or multiplayer events. The game supports cross-play on mobile and PC, and regularly receives seasonal updates and new content. With a dynamic physics engine, multiple control schemes, and deep customization, Asphalt 8 delivers an adrenaline-fueled racing experience."
+    },
+
+    "platforms": [
+  {
+    "name": "Android (Google Play)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg",
+    "link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM"
+  },
+  {
+    "name": "Android (Gameloft Store)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gameloft_logo_2010.svg",
+    "link": "https://store.gameloft.com/game/asphalt-8/"
+  },
+  {
+    "name": "iOS (App Store)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg",
+    "link": "https://apps.apple.com/app/asphalt-8-airborne/id610391947"
+  },
+  {
+    "name": "Windows (Microsoft Store)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg",
+    "link": "https://apps.microsoft.com/detail/9wzdncrd1g6d"
+  },
+  {
+    "name": "macOS (Mac App Store)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg",
+    "link": "https://apps.apple.com/app/asphalt-8-airborne/id610391947"
+  },
+  {
+    "name": "Steam (Windows)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+    "link": "https://store.steampowered.com/app/1815780/Asphalt_8_Airborne/"
+  }
+],
+
+    "tabs": {
+      "tips": [
+        "Use ramps strategically to perform mid-air stunts and refill nitro.",
+        "Master different control schemes like tilt, tap, or on-screen icons.",
+        "Upgrade acceleration and nitro parts first to boost your airborne performance.",
+        "Drift carefully to charge nitro and maintain control around corners.",
+        "Join multiplayer events to farm rewards and climb leaderboards.",
+        "Use hidden shortcuts on tracks for a competitive edge.",
+        "Customize your car with tuning kits for better handling and performance.",
+        "Balance risk vs reward – longer jumps give more nitro, but are risky."
+      ],
+
+      "updates": [
+        "Regular seasonal updates with new cars and events.",
+        "New limited-time event modes like special cup races.",
+        "Performance optimizations and graphical improvements.",
+        "New car classes and tuning upgrades added periodically."
+      ],
+
+      "features": [
+        "300+ licensed cars and motorbikes from top manufacturers. ",
+        "50+ high-speed tracks in exotic locations. ",
+        "Gravity-defying jumps and 360° barrel rolls. ",
+        "Multiplayer mode with up to 8 real opponents. ",
+        "Career mode with 8 seasons and 180+ events. ",
+        "Cross-platform play (mobile / Windows). ",
+        "Multiple control options: tilt, touch icons, on-screen steering. 6",
+        "Customization and progression through upgrades and tuning.",
+        "Realistic damage system and high-fidelity car sounds. "
+      ],
+
+      "features_pc": [
+        "Support for keyboard or controller input.",
+        "Optimized graphics for Windows desktop.",
+        "Online multiplayer with desktop performance."
+      ],
+
+      "faq": [
+        {
+          "q": "Is Asphalt 8 free to play?",
+          "a": "Yes — the game is free-to-play with in-app purchases."
+        },
+        {
+          "q": "Can I play multiplayer on Windows?",
+          "a": "Yes — Asphalt 8 supports online multiplayer on Windows."
+        },
+        {
+          "q": "Are there offline modes?",
+          "a": "Yes, career mode and free races can be played offline."
+        },
+        {
+          "q": "Can I use tilt controls?",
+          "a": "Yes — you can choose from tilt steering, on-screen icons, or tap steering. "
+        }
+      ],
+
+      "whyplay": [
+        "Insane aerial stunts and gravity-defying racing.",
+        "Huge roster of real cars and bikes to unlock.",
+        "Deep progression with career mode and upgrades.",
+        "Competitive multiplayer with real players.",
+        "Cross-platform play between mobile and PC.",
+        "Regular events and seasonal content to keep things fresh."
+      ]
+    },
+
+ "requirements": {
+  "ios": [
+    "Requires iOS 10.0 or later",
+    "Compatible with iPhone, iPad, and iPod touch",
+    "Minimum RAM: 2 GB",
+    "Download Size: ~2.5 GB (additional data may be required)",
+    "Recommended Device: iPhone 8 or later"
+  ],
+
+  "android": [
+    "Android 5.0 (Lollipop) or higher",
+    "Minimum RAM: 2 GB",
+    "Recommended RAM: 3–4 GB",
+    "CPU: Quad-core 1.8 GHz or above",
+    "GPU: Adreno 506 / Mali-T830 or better",
+    "Storage Required: ~2.5 GB free space"
+  ],
+
+  "pc": [
+    "OS: Windows 8.1 / 10 / 11 (64-bit)",
+    "Processor: Intel Core i3 or equivalent",
+    "Recommended: Intel Core i5",
+    "RAM: 2 GB minimum (Recommended: 4–6 GB)",
+    "Graphics: Intel HD 4000 / NVIDIA GTX 550 / AMD HD 7750 or better",
+    "Architecture: x86, x64, ARM supported",
+    "DirectX: Version 10 or later",
+    "Storage: 3 GB available space",
+    "Internet connection required for online features"
+  ],
+
+  "xbox": [
+    "Supported Platforms: Xbox One, Xbox One S/X, Xbox Series X/S (via backward compatibility)",
+    "Storage Required: ~2.5 GB installation size",
+    "HDR10 Compatible on supported consoles",
+    "Online Multiplayer Requires Xbox Network Account",
+    "Optimized load times on Xbox Series X/S"
+  ],
+
+  "playstation": [
+    "Supported Platforms: PS4, PS4 Pro, PS5 (via backward compatibility)",
+    "Storage Required: ~2.5 GB free space",
+    "Enhanced Performance on PS4 Pro and PS5",
+    "Online Multiplayer Requires PlayStation Network Account",
+    "Runs up to 60 FPS on PS5 (backward compatibility)"
+  ],
+
+  "others": [
+    "Nintendo Switch: Requires ~2.5 GB free space, supports handheld & docked mode",
+    "macOS (App Store Version): Requires macOS 10.9 or later, 2 GB RAM minimum",
+    "Amazon Fire Tablets: Fire OS 7 or higher, 2 GB RAM minimum",
+    "Steam Deck: Playable only via Windows installation (not officially supported)"
+  ]
+},
+
+    "info": {
+      "rating": "PEGI 3 / ESRB E",
+      "developer": "Gameloft Barcelona",
+      "publisher": "Gameloft",
+      "year": "2013",
+      "genre": "Arcade Racing"
+    }
+  }
+}

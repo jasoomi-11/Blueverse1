@@ -1,0 +1,228 @@
+{
+  "game": {
+    "name": "Marvel’s Spider-Man 2",
+    "title": "Marvel’s Spider-Man 2",
+    "platform": "PS5 | PC | Epic Games",
+
+    "banner": "https://img.youtube.com/vi/HdzlOQoG8TE/maxresdefault.jpg",
+    "thumbnail": "https://img.youtube.com/vi/HdzlOQoG8TE/maxresdefault.jpg",
+
+
+
+
+
+
+
+"trailers": [
+  {
+    "url": "https://youtu.be/HdzlOQoG8TE",
+    "thumb": "https://img.youtube.com/vi/HdzlOQoG8TE/maxresdefault.jpg"
+  },
+  {
+    "url": "https://youtu.be/ZRhJT2nmvA4",
+    "thumb": "https://img.youtube.com/vi/ZRhJT2nmvA4/maxresdefault.jpg"
+  },
+  {
+    "url": "https://youtu.be/ayeQ3CTLlMU",
+    "thumb": "https://img.youtube.com/vi/ayeQ3CTLlMU/maxresdefault.jpg"
+  },
+  {
+    "url": "https://youtu.be/nTW3QlsHZWc",
+    "thumb": "https://img.youtube.com/vi/nTW3QlsHZWc/maxresdefault.jpg"
+  }
+],
+
+    "about": {
+      "short": "Spider-Man 2 brings Peter Parker and Miles Morales together in a thrilling new adventure, facing Venom and other iconic villains.",
+      "full": "In Marvel’s Spider-Man 2, developed by Insomniac Games, players can quickly switch between Peter Parker and Miles Morales as they fight to save New York City. With the rise of the symbiote threat, the two Spider-Men must balance their lives, friendships, and the responsibility of being heroes. Explore a larger New York, including Brooklyn and Queens, wield new powers like Web Wings and Symbiote Surge, and face iconic villains like Venom, Kraven the Hunter, and Lizard."
+    },
+
+"platforms": [
+  {
+    "name": "PlayStation 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/PS5_logo.svg",
+    "link": "https://www.playstation.com/en-us/games/marvels-spider-man-2/"
+  },
+  {
+    "name": "PC (Steam)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+    "link": "https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/"
+  },
+  {
+    "name": "Epic Games Store",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+    "link": "https://www.epicgames.com/store/p/marvels-spider-man-2"
+  },
+  {
+    "name": "PlayStation Store (Digital)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/PlayStation_Store_logo_2020.svg",
+    "link": "https://store.playstation.com/en-us/product/UP9000-PPSA01567_00-MARVELSSM2GAME00"
+  },
+  {
+    "name": "Amazon (Physical Copy)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "link": "https://www.amazon.com/"
+  },
+  {
+    "name": "Best Buy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Best_Buy_Logo.svg",
+    "link": "https://www.bestbuy.com/"
+  }
+],
+
+    "tabs": {
+  "tips": [
+    "Use Web Wings to glide across NYC for massive speed boosts, especially when chaining wind tunnels.",
+    "Switch between Peter and Miles during free roam to take advantage of their unique abilities.",
+    "Use Symbiote Surge (Peter) and Chain Lightning (Miles) to clear large enemy groups quickly.",
+    "Complete FNSM App missions early to unlock powerful gadgets and suits.",
+    "Use stealth arenas to perform perch takedowns and web lines for silent multi-enemy takedowns.",
+    "Upgrade traversal abilities early to unlock faster movement and smoother parkour transitions.",
+    "Complete Hunter Blinds and Symbiote Nests as soon as they appear for ability points.",
+    "Use Perfect Dodge windows to activate high-damage counterattacks.",
+    "Visit the Friendly Neighborhood Spider-Man App often for city-wide events that reward tech parts."
+  ],
+
+  "updates": [
+    "PC launch: January 30, 2025 with enhanced ray-tracing, DLSS 3, FSR 3 & frame generation.",
+    "New Game+ update includes 12 new suits, Ultimate Levels, Golden Gadget skins, and mission replay.",
+    "Stability improvements for PS5: December 2024 update improved performance mode’s frame pacing.",
+    "Photo Mode overhaul with new lighting tools, stickers, advanced camera controls.",
+    "Accessibility update introduced more colorblind options and customizable web-swinging speed.",
+    "PC Patch 1.2 adds HDR calibration, improved DualSense adaptive trigger support, and shader optimization."
+  ],
+
+  "features": [
+    "Play as both Peter Parker and Miles Morales, each with unique abilities, gadgets, and skill trees.",
+    "Expanded open-world New York including Manhattan, Queens, Brooklyn, and Coney Island.",
+    "New Web-Wing gliding mechanics with wind tunnels for high-speed traversal.",
+    "Symbiote abilities for Peter including tendril attacks, Symbiote Surge, and rage-powered combos.",
+    "Bio-electric venom powers for Miles like Chain Lightning, Thunderburst, and Venom Punch.",
+    "Dynamic crime events that evolve depending on player progression.",
+    "Advanced boss battles featuring Venom, Lizard, Kraven, Mysterio, and more.",
+    "Near-instant character switching between Peter and Miles during open-world gameplay.",
+    "Suit Tech system for upgrading traversal, combat, and stealth efficiency.",
+    "Over 70 suits, including Original, Comic, Film, and Symbiote variants.",
+    "Expanded Photo Mode with depth-of-field, custom lighting, stickers, frames, and suit expression controls."
+  ],
+
+  "features_ps5": [
+    "Ultra-fast SSD loading enabling near-instant character swapping.",
+    "DualSense adaptive triggers simulate web tension and Symbiote power resistance.",
+    "Haptic feedback for environmental effects like thunder, explosions, and gliding air pressure.",
+    "Three graphical modes: Fidelity (4K/30RT), Performance (4K/60), and Performance RT (40–60FPS with ray-tracing).",
+    "Tempest 3D audio for directional combat and city ambience."
+  ],
+
+  "features_pc": [
+    "Unlocked framerates with DLSS 3, DLAA, XeSS, and FSR 3 support.",
+    "Ray-Traced Reflections, Ray-Traced Shadows, and Ray-Traced Global Illumination.",
+    "Multi-monitor & Ultra-wide support: 21:9, 32:9, 48:9 and triple-monitor modes.",
+    "Full keyboard/mouse remapping with customizable sensitivity curves.",
+    "Native support for DualSense (wired), Xbox controllers, and Steam Input.",
+    "Optional frame generation and upscaling for high-end GPUs.",
+    "Optimized CPU thread scheduling for stable high-FPS open-world traversal."
+  ],
+
+  "faq": [
+    {
+      "q": "When was Spider-Man 2 released?",
+      "a": "PS5: October 20, 2023 — PC: January 30, 2025."
+    },
+    {
+      "q": "Who handled the PC port?",
+      "a": "Nixxes Software, in collaboration with Insomniac Games."
+    },
+    {
+      "q": "Is the game open world?",
+      "a": "Yes, featuring Manhattan, Queens, Brooklyn, and Coney Island."
+    },
+    {
+      "q": "Is there story DLC?",
+      "a": "No story DLC is planned, but suit and feature updates may continue."
+    },
+    {
+      "q": "Can you switch characters?",
+      "a": "Yes, Peter and Miles can be switched seamlessly during free roam."
+    },
+    {
+      "q": "Does the game support New Game+?",
+      "a": "Yes, including Ultimate Levels, suit unlocks, and mission replay."
+    },
+    {
+      "q": "Does the PC version support ray-tracing?",
+      "a": "Yes, with RTGI, RT shadows, and multiple reflection quality tiers."
+    },
+    {
+      "q": "Are PC features different from PS5?",
+      "a": "Yes — PC adds ultra-wide support, unlocked FPS, and DLSS/FSR/XeSS."
+    }
+  ],
+
+  "whyplay": [
+    "Massive open world with seamless character switching between Peter and Miles.",
+    "Dynamic and emotional story featuring the Symbiote saga and iconic villains.",
+    "Most advanced traversal system in any Spider-Man game: swinging + gliding.",
+    "Huge roster of suits with deep customization and Photo Mode options.",
+    "Replay-friendly with New Game+, Ultimate Levels, and mission replay.",
+    "PC version delivers the most graphically advanced Spider-Man experience ever."
+  ]
+},
+
+
+
+
+
+
+   "requirements": {
+  "android": [
+    "<strong>Not supported — Spider-Man 2 has NO Android or mobile version.</strong>"
+  ],
+
+  "console": [
+    "Platform: PlayStation 5 (Required)",
+    "Resolution: Up to 4K",
+    "Modes:",
+    "• Fidelity – 30 FPS with ray tracing",
+    "• Performance – 60 FPS",
+    "• 40 FPS mode for 120Hz displays",
+    "<strong>No PS4 version available.</strong>",
+    "<strong>No Xbox version available.</strong>",
+    "<strong>No Nintendo Switch version available.</strong>"
+  ],
+
+  "playstation": [
+    "Console: PlayStation 5",
+    "Storage: 98 GB required",
+    "Ray Tracing: Enabled in all modes",
+    "Performance Options:",
+    "• 30 FPS (Fidelity)",
+    "• 60 FPS (Performance)",
+    "• 40 FPS for 120Hz TVs",
+    "<strong>PS4 not supported.</strong>"
+  ],
+
+  "pc": [
+    "OS: Windows 10/11 64-bit",
+    "CPU (Minimum): Intel Core i3-8100 / Ryzen 3 3100",
+    "CPU (Recommended): Intel Core i5-11600K / Ryzen 5 5600",
+    "RAM: 16 GB",
+    "GPU (Minimum): GTX 1650 / RX 5500 XT",
+    "GPU (Recommended): RTX 3060 / RX 6700 XT",
+    "GPU (Ultra RT): RTX 4080 / RX 7900 XTX",
+    "Storage: 150 GB SSD required",
+    "DirectX: DX12",
+    "Upscaling Support: DLSS, FSR, XeSS",
+    "<strong>No Linux native version.</strong>"
+  ]
+},
+
+   "info": {
+  "rating": "T for Teen (ESRB)",
+  "developer": "Insomniac Games (PS5) / Nixxes Software (PC Port)",
+  "publisher": "Sony Interactive Entertainment",
+  "year": "PS5: October 20, 2023 | PC: January 30, 2025",
+  "genre": "Action-Adventure, Open World, Superhero"
+}
+  }
+}

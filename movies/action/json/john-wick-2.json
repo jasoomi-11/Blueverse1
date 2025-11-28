@@ -1,0 +1,126 @@
+{
+  "background": "https://media.themoviedb.org/t/p/w440_and_h660_face/1QOlwRxKa10Icyc2COEOmDB9KuJ.jpg",
+  "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+
+
+  "title": "John Wick: Chapter 2",
+  "sub": "A Blood Oath, A Global Hunt",
+
+  "director": "Chad Stahelski",
+  "writers": "Derek Kolstad",
+  "runtime": "2h 2m",
+  "budget": "US$ 40 million",
+  "boxOffice": "US$ 171.54 million (worldwide)",
+  "releaseDate": "2017 (Feb 10, USA)"
+,
+
+ "ratings": {
+  "imdb": 7.4,
+  "rt": 89,
+  "meta": 75
+},
+
+"summary": "After fulfilling a blood oath, legendary hitman John Wick is pulled back into the violent world he tried to leave behind. His forced mission triggers a chain of betrayals, setting him on a collision course with a global network of assassins.",
+
+  "story": "After returning to a quiet life, John Wick is confronted by Santino D’Antonio, who holds a 'marker'—a blood oath that John must honor. Santino commands John to assassinate his sister, Gianna D’Antonio, so he can claim her High Table seat. John travels to Rome and completes the mission, but Santino betrays him, placing a $7 million bounty on his head to cover his tracks. Forced to fight off relentless assassins, John returns to New York to confront Santino. In a desperate act, John kills him inside the Continental—violating the sacred rules of sanctuary. Winston declares John 'excommunicado,' stripping him of all privileges and leaving him hunted by the entire global assassin network.",
+
+  "details": "John Wick: Chapter 2 (2017) expands the mythology of the franchise, revealing the High Table, the rules of the Continental, and the global reach of the assassin world. The film is known for its precise gun-fu choreography, world-building, and stylish cinematography. Keanu Reeves performed most of his own stunts, adding realism to the action sequences. The movie deepens the emotional weight of John’s struggle while building the foundations for Chapter 3 and Chapter 4.",
+
+  "awards": [
+  { "title": "BMI Film & TV Awards", "result": "Won – Film Music" },
+  { "title": "Golden Trailer Awards", "result": "Won – Best Action TV Spot" },
+  { "title": "Golden Trailer Awards", "result": "Nominated – Best Action" },
+  { "title": "Empire Awards", "result": "Nominated – Best Thriller" },
+  { "title": "MTV Movie + TV Awards", "result": "Nominated – Best Action Sequence" },
+  { "title": "Teen Choice Awards", "result": "Nominated – Choice: Fight" },
+  { "title": "IGN Summer Movie Awards", "result": "Nominated – Best Action Movie" },
+  { "title": "Golden Schmoes Awards", "result": "Won – Coolest Character of the Year" },
+  { "title": "Davey Awards", "result": "Won – Social Content: Entertainment" },
+  { "title": "Los Angeles Online Film Critics Society Awards", "result": "Nominated – Best Stunt Work" },
+  { "title": "Hawaii Film Critics Society Awards", "result": "Nominated – Best Stunts" },
+  { "title": "Hollywood Professional Association Awards", "result": "Nominated – Outstanding Sound – Feature Film" },
+  { "title": "Taurus World Stunt Awards", "result": "Nominated – Best Stunt Coordinator / 2nd Unit Director" }
+],
+
+"trailer": "https://www.youtube.com/embed/XGk2EfbD_Ps",
+
+"production": [
+  { "title": "Produced By", "value": "Basil Iwanyk, Erica Lee" },
+  { "title": "Executive Producers", "value": "David Leitch, Kevin Scott Frakes, Jennifer Madeloff" },
+  { "title": "Music By", "value": "Tyler Bates, Joel J. Richard" },
+  { "title": "Cinematography", "value": "Dan Laustsen" },
+  { "title": "Edited By", "value": "Evan Schiff" },
+  { "title": "Production Companies", "value": "Summit Entertainment, TIK Films, Thunder Road Pictures, 87Eleven Productions" },
+  { "title": "Distributed By", "value": "Lionsgate" }
+],
+
+  "screenshots": [
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/fa3RimYkZ0LqTJkk0PeYXIHZRrn.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/iU7LAN59vwKyaYta1FjjCXRRdrr.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/rf7i8UVbBJ45b1u5aDYqlgPU1G3.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/76d1A7p9CYLjXhhovWvGi1LBQN6.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/nZmTkrY1fbiKWiFP6PiaIpLz9Rw.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/oE7hmEKnmIHYKicbl6lggPdP1Sc.jpg"
+],
+
+ "cast": [
+  { "name": "Keanu Reeves", "role": "John Wick", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg" },
+
+  { "name": "Common", "role": "Cassian", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/eggJAnJxpn8wYraX7ea5svETB54.jpg" },
+
+  { "name": "Laurence Fishburne", "role": "The Bowery King", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/2GbXERENPpl5MmlqOLlPVaVtifD.jpg" },
+
+  { "name": "Riccardo Scamarcio", "role": "Santino D’Antonio", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg" },
+
+  { "name": "Ruby Rose", "role": "Ares", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/djhT0A2hZxpYKPnCeRtim8qUdPi.jpg" },
+
+  { "name": "Lance Reddick", "role": "Charon", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg" },
+
+  { "name": "Bridget Moynahan", "role": "Helen Wick", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg" }
+],
+
+  "platforms": [
+  { "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfkwpZjA5Gpf5nkp9CpCbR70Rz38Xdd0WkrmcSM8TjQ&s=10", "name": "Peacock" },
+  { "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/FuboTV_logo.svg", "name": "FuboTV" },
+  { "logo": "https://cdn-icons-png.flaticon.com/128/15376/15376915.png", "name": "Amazon Prime Video" },
+  { "logo": "https://cdn-icons-png.flaticon.com/128/831/831330.png", "name": "Apple TV" },
+  { "logo": "https://cdn-icons-png.flaticon.com/128/1384/1384060.png", "name": "YouTube Movies / Rent" }
+],
+
+ "tags": [
+  "action",
+  "thriller",
+  "assassin",
+  "hitman",
+  "gun-fu",
+  "martial-arts",
+  "neo-noir",
+  "crime",
+  "underworld",
+  "continental",
+  "bounty",
+  "excommunicado",
+  "revenge",
+  "high-table",
+  "contract-killer",
+  "stylized-action",
+  "violent",
+  "crime-syndicate",
+  "world-building"
+],
+
+  "locations": [
+  { "title": "New York City, USA", "sub": "Wick’s home, Chop Shop, Museum, Continental Hotel, Subway Tunnels" },
+  { "title": "Rome, Italy", "sub": "Continental Rome, Gianna’s Coronation Bath House, Catacombs, Ruins" },
+  { "title": "Abruzzo, Italy", "sub": "Santino D’Antonio’s family estate" }
+],
+
+  "timeline": [
+  { "year": "2015", "text": "Filming for John Wick: Chapter 2 begins in October." },
+  { "year": "2016", "text": "Production continues in New York and Rome, including catacomb and Continental sequences." },
+  { "year": "2017", "text": "John is forced to honor Santino’s marker → Travels to Rome and assassinates Gianna D’Antonio." },
+  { "year": "2017", "text": "Santino betrays John → Massive hit contract is placed → Rome & NYC fights follow." },
+  { "year": "2017", "text": "John kills Santino inside the Continental → Violates the sacred rules." },
+  { "year": "2017", "text": "Winston declares John 'Excommunicado' → All global assassins activated." }
+]
+}

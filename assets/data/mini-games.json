@@ -1,0 +1,107 @@
+[
+  {
+    "title": "3 Dash",
+    "slug": "3-dash",
+    "badge": "Endless Runner",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/3-dash.png",
+    "url": "/games/3-dash.html"
+  },
+  {
+    "title": "See Lord",
+    "slug": "see-lord",
+    "badge": "Action",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/see-lord.png",
+    "url": "/games/see-lord.html"
+  },
+  {
+    "title": "Monster Dash",
+    "slug": "monster-dash",
+    "badge": "Endless Runner",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/monster-dash.png",
+    "url": "/games/monster-dash.html"
+  },
+  {
+    "title": "Unstack Tower",
+    "slug": "unstack-tower",
+    "badge": "Puzzle",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/unstack-tower.png",
+    "url": "/games/unstack-tower.html"
+  },
+  {
+    "title": "Word Seasons",
+    "slug": "word-seasons",
+    "badge": "Word",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/word-seasons-thumb.png",
+    "url": "/games/word-seasons.html"
+  },
+  {
+    "title": "Tropical Match 2",
+    "slug": "tropical-match-2",
+    "badge": "Match-3",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/tropical-match-2.png",
+    "url": "/games/tropical-match-2.html"
+  },
+  {
+    "title": "Twilight Solitaire",
+    "slug": "twilight-solitaire",
+    "badge": "Card",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/twilight.png",
+    "url": "/games/twilight-solitaire.html"
+  },
+  {
+    "title": "Two Stunt Racers",
+    "slug": "two-stunt-racers",
+    "badge": "Racing",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/two-stunt-racers.png",
+    "url": "/games/two-stunt-racers.html"
+  },
+  {
+    "title": "Zero to Millionaire",
+    "slug": "zero-to-millionaire",
+    "badge": "Trivia",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/Zero.png",
+    "url": "/games/zero-to-millionaire.html"
+  },
+  {
+    "title": "Brawl Stars Brave Adventure",
+    "slug": "brawl-stars-brave-adventure",
+    "badge": "Action",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/brawlstars.png",
+    "url": "/games/brawl-stars-brave-adventure.html"
+  },
+  {
+    "title": "Bubble Shooter Temple Jewels",
+    "slug": "bubble-shooter-temple-jewels",
+    "badge": "Shooter",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/bubble-shooter-temple-jewels.png",
+    "url": "/games/bubble-shooter-temple-jewels.html"
+  },
+  {
+    "title": "Italian Brainrot Baby Clicker",
+    "slug": "italian-brainrot-baby-clicker",
+    "badge": "Clicker",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/italian-brainrot-baby-clicker.png",
+    "url": "/games/italian-brainrot-baby-clicker.html"
+  },
+  {
+    "title": "Juicy Match",
+    "slug": "juicy-match",
+    "badge": "Puzzle",
+    "thumb": "https://img.gamedistribution.com/335518c5b7b145288276a0b003dce76f-512x512.jpg",
+    "url": "/games/juicy-match.html"
+  },
+  {
+    "title": "Hypermarket 3D",
+    "slug": "hypermarket-3d",
+    "badge": "Simulation",
+    "thumb": "https://img.gamedistribution.com/32ce4093ac7d48db80abc6befccfca46-512x512.jpg",
+    "url": "/games/hypermarket-3D.html"
+  },
+  {
+  "title": "Four Colors Multiplayer",
+  "slug": "four-colors-multiplayer",
+  "badge": "Card Game",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/four-color.jpg",
+  "url": "/games/four-colors-multiplayer.html"
+}
+]

@@ -1,0 +1,159 @@
+{
+  
+  
+  "game": {
+  "name": "Brawl Stars",
+  "title": "Brawl Stars",
+  "platform": "Android | iOS",
+
+  "banner": "https://img.youtube.com/vi/CaryjOdYFa0/maxresdefault.jpg",
+"thumbnail": "https://img.youtube.com/vi/CaryjOdYFa0/maxresdefault.jpg",
+
+ "trailers": [
+  {
+    "url": "https://youtu.be/_06XGXIRqgU",
+    "thumb": "https://img.youtube.com/vi/_06XGXIRqgU/maxresdefault.jpg"
+  },
+  {
+    "url": "https://youtu.be/BP-3RWglUjM",
+    "thumb": "https://img.youtube.com/vi/BP-3RWglUjM/maxresdefault.jpg"
+  },
+  {
+    "url": "https://youtu.be/x9I7MKAn3Yo",
+    "thumb": "https://img.youtube.com/vi/x9I7MKAn3Yo/maxresdefault.jpg"
+  }
+],
+
+  "about": {
+    "short": "Brawl Stars is a fast-paced 3v3 multiplayer and battle royale game from Supercell, featuring unique brawlers, game modes, and constant live updates.",
+    "full": "Brawl Stars is a multiplayer action game developed by Supercell, known for its fast-paced battles, unique roster of brawlers, and constantly evolving gameplay. Players engage in various game modes including 3v3 objective modes, solo/duo Showdown, and limited-time seasonal events. Each brawler has their own abilities, super attacks, gadgets, star powers, and hypercharges, offering deep customization and strategy. Regular seasons, balance changes, new brawlers, and events keep the game fresh and competitive."
+  },
+
+  "platforms": [
+    {
+      "name": "Android (Google Play)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Play_Arrow_logo.svg",
+      "link": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars"
+    },
+    {
+      "name": "iOS (App Store)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg",
+      "link": "https://apps.apple.com/app/brawl-stars/id1229016807"
+    },
+    {
+      "name": "Supercell Store",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Supercell-logo.svg",
+      "link": "https://store.supercell.com/"
+    }
+  ],
+
+  "tabs": {
+    "tips": [
+      "Use cover and walls to avoid enemy fire and peek-shoot safely.",
+      "Master at least one brawler for each class: Tank, Assassin, Support, Marksman.",
+      "Save your Super for key moments like escaping or securing kills.",
+      "Check enemy team composition before choosing a brawler.",
+      "Use gadgets and star powers that complement your team's playstyle.",
+      "Always control bushes and vision—ambushes decide matches.",
+      "Play with teammates in 3v3 to coordinate strategies better.",
+      "Use Hypercharges wisely—they give massive temporary boosts.",
+      "Upgrade brawlers gradually instead of rushing all upgrades."
+    ],
+
+    "updates": [
+      "New Brawlers added in 2024–2025 seasonal updates.",
+      "Hypercharges expanded to more brawlers with balance reworks.",
+      "New game modes, including rotating limited-time events.",
+      "Club League & Club Games improvements for rewards.",
+      "Visual overhaul of UI and battle screen.",
+      "Ranked progression, balance patches, and matchmaking improvements."
+    ],
+
+    "features": [
+      "Over 70 unique brawlers with distinct abilities.",
+      "Multiple game modes: Gem Grab, Showdown, Brawl Ball, Heist, Knockout, Hot Zone, Siege (legacy), and seasonal modes.",
+      "Ranked play system with skill-based matchmaking.",
+      "Daily, weekly, and seasonal quests for progression.",
+      "Club League, Club Games, and Power League competitive modes.",
+      "Cosmetic skins, animated skins, and exclusive seasonal cosmetics.",
+      "Gears, Gadgets, Star Powers, and Hypercharges for advanced builds.",
+      "Regular updates introducing new content and balance changes.",
+      "Cross-platform play on Android and iOS."
+    ],
+
+    "features_ps5": [
+      "<strong>Not available — Brawl Stars does NOT have a console version.</strong>"
+    ],
+
+    "features_pc": [
+      "<strong>No official PC version — playable only via Android emulators.</strong>"
+    ],
+
+    "faq": [
+      {
+        "q": "Is Brawl Stars free?",
+        "a": "Yes, it is free-to-play with optional in-game purchases."
+      },
+      {
+        "q": "Does Brawl Stars have crossplay?",
+        "a": "Yes — Android and iOS players can play together."
+      },
+      {
+        "q": "Is there a PC version?",
+        "a": "No official PC version, but you can play via Android emulators."
+      },
+      {
+        "q": "What type of game is Brawl Stars?",
+        "a": "A fast-paced multiplayer action game with 3v3 battles and battle royale modes."
+      },
+      {
+        "q": "Does the game receive updates?",
+        "a": "Yes — new seasons, brawlers, skins, and balance updates are added frequently."
+      }
+    ],
+
+    "whyplay": [
+      "Fast-paced battles perfect for mobile gaming.",
+      "Deep roster of unique brawlers with varied playstyles.",
+      "Constant seasonal updates with new modes and characters.",
+      "Competitive ranked system for high-skill players.",
+      "Fun team-based gameplay with friends or clubs.",
+      "Easy to learn, hard to master — high replay value."
+    ]
+  },
+
+  "requirements": {
+    "android": [
+      "OS: Android 7.0 or higher",
+      "RAM: 2 GB minimum (4 GB recommended)",
+      "Storage: 1 GB free space",
+      "Internet: Required for all modes"
+    ],
+
+    "console": [
+      "<strong>Not available — Brawl Stars has no console version.</strong>"
+    ],
+
+    "playstation": [
+      "<strong>Not supported — No PS4 or PS5 release exists.</strong>"
+    ],
+
+    "pc": [
+      "<strong>No native PC version.</strong>",
+      "Playable via emulators like BlueStacks or LDPlayer.",
+      "RAM: 4 GB minimum",
+      "Storage: 1 GB local files",
+      "CPU: Any modern dual-core",
+      "GPU: Integrated is enough"
+    ]
+  },
+
+  "info": {
+    "rating": "Age 9+ / PEGI 7 / ESRB E10+",
+    "developer": "Supercell",
+    "publisher": "Supercell",
+    "year": "Global Release: December 12, 2018",
+    "genre": "Multiplayer, Action, Hero Shooter, Battle Royale"
+  }
+}
+}

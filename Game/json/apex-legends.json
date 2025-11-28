@@ -1,0 +1,175 @@
+{
+  "game": {
+    "name": "Apex Legends",
+    "title": "Apex Legends",
+    "platform": "PC | PlayStation 4 | PlayStation 5 | Xbox One | Xbox Series X/S | Nintendo Switch",
+
+    "banner": "https://img.youtube.com/vi/ThSKocfe5QE/maxresdefault.jpg",
+    "thumbnail": "https://img.youtube.com/vi/ThSKocfe5QE/maxresdefault.jpg",
+
+    "trailers": [
+      {
+        "url": "https://youtu.be/ThSKocfe5QE",
+        "thumb": "https://img.youtube.com/vi/ThSKocfe5QE/maxresdefault.jpg"
+      },
+      {
+        "url": "https://youtu.be/NzRYoatN6Jo",
+        "thumb": "https://img.youtube.com/vi/NzRYoatN6Jo/maxresdefault.jpg"
+      },
+      {
+        "url": "https://youtu.be/kEdm9QnjtLw",
+        "thumb": "https://img.youtube.com/vi/kEdm9QnjtLw/maxresdefault.jpg"
+      }
+    ],
+
+    "about": {
+      "short": "Apex Legends is a fast-paced free-to-play battle royale featuring unique legends, squad-based combat, and tactical hero abilities.",
+      "full": "Apex Legends is a free-to-play hero-based battle royale developed by Respawn Entertainment. Players compete in squads of three (and limited-time modes) using a diverse roster of legends, each with tactical, passive, and ultimate abilities. The game features large dynamic maps, intense gunplay, movement mechanics, and strategic teamwork. Apex continually evolves with seasonal updates, new legends, rotating maps, events, balance patches, and battle passes. Cross-play support allows players across platforms to compete together."
+    },
+
+    "platforms": [
+  {
+    "name": "PC (EA App)",
+    "logo": "https://cdn-icons-png.flaticon.com/128/10740/10740609.png",
+    "link": "https://www.ea.com/games/apex-legends"
+  },
+  {
+    "name": "Steam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+    "link": "https://store.steampowered.com/app/1172470/Apex_Legends"
+  },
+  {
+    "name": "PlayStation 4",
+    "logo": "https://cdn-icons-png.flaticon.com/128/871/871382.png",
+    "link": "https://store.playstation.com/product/EP0006-CUSA12540_00-APEXLEGENDS00000"
+  },
+  {
+    "name": "PlayStation 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/PlayStation_logo.svg",
+    "link": "https://store.playstation.com/product/EP0006-CUSA12540_00-APEXLEGENDS00000"
+  },
+  {
+    "name": "Xbox One",
+    "logo": "https://cdn-icons-png.flaticon.com/128/732/732260.png",
+    "link": "https://www.xbox.com/en-US/games/store/apex-legends"
+  },
+  {
+    "name": "Xbox Series X/S",
+    "logo": "https://cdn-icons-png.flaticon.com/128/732/732260.png",
+    "link": "https://www.xbox.com/en-US/games/store/apex-legends"
+  },
+  {
+    "name": "Nintendo Switch",
+    "logo": "https://cdn-icons-png.flaticon.com/128/15031/15031451.png",
+    "link": "https://www.nintendo.com/store/products/apex-legends-switch/"
+  }
+],
+
+    "tabs": {
+      "tips": [
+        "Use movement techniques like sliding and bunny-hopping for better positioning.",
+        "Communicate using the ping system for fast teamwork without voice chat.",
+        "Pick legends that complement your squad's style and abilities.",
+        "Armor swap during fights to stay alive longer.",
+        "Use high ground advantages for easier fights.",
+        "Master recoil patterns for weapons like R-301, Flatline, and R-99.",
+        "Learn map rotations to avoid third-party attacks.",
+        "Use ultimate accelerants strategically depending on your legend."
+      ],
+
+      "updates": [
+        "New legends introduced every major season.",
+        "Frequent balance changes for weapons and abilities.",
+        "Map rotations with seasonal terrain changes.",
+        "Ranked system updated with new scoring calculations.",
+        "Limited-time events with exclusive rewards.",
+        "Improved matchmaking and cross-play stability.",
+        "New cosmetic collections and mythic skins released regularly."
+      ],
+
+      "features": [
+        "Unique legends with tactical, passive, and ultimate abilities.",
+        "Fast-paced squad battle royale gameplay.",
+        "Dynamic maps like Kings Canyon, World’s Edge, and Storm Point.",
+        "Ping communication system.",
+        "Weapon attachments, hop-ups, and evolving loot.",
+        "Ranked mode with divisions and competitive rewards.",
+        "Cross-platform multiplayer.",
+        "Seasonal battle passes and limited-time events.",
+        "Advanced movement mechanics for skilled players."
+      ],
+
+      "features_ps5": [
+        "Native 4K support.",
+        "Up to 120 FPS performance mode (selected maps).",
+        "Haptic feedback and adaptive triggers.",
+        "Faster loading using SSD."
+      ],
+
+      "features_pc": [
+        "Unlocked frame rates.",
+        "Ultra graphics settings and FOV slider.",
+        "Mouse + keyboard or full controller support.",
+        "Cross-play with console players."
+      ],
+
+      "faq": [
+        {
+          "q": "Is Apex Legends free?",
+          "a": "Yes, Apex Legends is free-to-play across all platforms."
+        },
+        {
+          "q": "Does Apex support cross-play?",
+          "a": "Yes, players on all major platforms can play together."
+        },
+        {
+          "q": "Are there solo modes?",
+          "a": "Apex Legends is primarily squad-based but sometimes includes limited-time solo events."
+        },
+        {
+          "q": "How many legends are in the game?",
+          "a": "Over 20 legends, with new ones added every season."
+        }
+      ],
+
+      "whyplay": [
+        "Fast-paced tactical battle royale gameplay.",
+        "Unique hero abilities create deep strategies.",
+        "Dynamic movement and gunplay.",
+        "Cross-play across all platforms.",
+        "Constant updates, seasons, and new content.",
+        "Huge esports presence and competitive modes."
+      ]
+    },
+
+   "requirements": {
+  "android": [
+    "Not supported — Apex Legends Mobile has been discontinued."
+  ],
+  "console": [
+    "Supported on: PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch",
+    "Internet connection required",
+    "Dual-stick controller or compatible gamepad required"
+  ],
+  "pc": [
+    "OS: 64-bit Windows 10",  
+    "CPU (Minimum): Intel Core i3-6300 / AMD FX-4350",  
+    "CPU (Recommended): Intel Core i5-3570K / AMD Ryzen 5",  
+    "RAM: 6 GB (Minimum) / 8 GB (Recommended)",  
+    "GPU (Minimum): NVIDIA GTX 950 / AMD Radeon HD 7790",  
+    "GPU (Recommended): NVIDIA GTX 970 / AMD Radeon R9 290",  
+    "DirectX: Version 12",  
+    "Storage: 75 GB free space required",  
+    "Online: Broadband connection required"
+  ]
+},
+
+    "info": {
+      "rating": "ESRB T (Teen)",
+      "developer": "Respawn Entertainment",
+      "publisher": "Electronic Arts",
+      "year": "Worldwide Release: February 4, 2019",
+      "genre": "Battle Royale | Hero Shooter"
+    }
+  }
+}

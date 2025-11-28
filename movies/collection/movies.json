@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "title": "John wick: All Movies Collection",
+      "url": "movies/collection/john-wick.html",
+      "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "year": "2023",
+      "badge": "Action",
+      "genre": ["Action", "Thriller", "Crime"],
+      "director": "Chad Stahelski",
+      "platforms": ["Lionsgate Play"],
+      "primary_platform": "Lionsgate Play"
+    },
+    
+     {
+      "title": "Baaghi All movies collection",
+      "url": "/movies/collection/baghi.html",
+      "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/u2YEFW5o2Y7RAw2K4hSA4TEXF3Q.jpg",
+      "year": "2023",
+      "badge": "Action",
+      "genre": ["Action", "Thriller"],
+      "director": "Chad Stahelski",
+      "platforms": ["Lionsgate Play"],
+      "primary_platform": "Lionsgate Play"
+    }
+   
+  ]
+}

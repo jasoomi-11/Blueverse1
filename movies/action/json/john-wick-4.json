@@ -1,0 +1,173 @@
+{
+  "background": "https://media.themoviedb.org/t/p/w440_and_h660_face/b1ifiHhXhYRNMENhc2UITHQgjLU.jpg",
+  "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/uzHPb0rITwa44KkhX5Z27cXwmL1.jpg",
+
+
+ 
+
+  "title": "John Wick: Chapter 4",
+  "sub": "No Way Back. One Last War.",
+  
+  "director": "Chad Stahelski",
+  "writers": "Shay Hatten, Michael Finch",
+  "runtime": "2h 49m",
+  
+  "budget": "US$ 100 million",
+  "boxOffice": "US$ 440.1 million (worldwide)",
+  
+  "releaseDate": "2023 (March 24, USA)",
+
+"ratings": {
+  "imdb": 7.6,
+  "rt": 94,
+  "meta":78
+
+},
+
+
+ 
+  "summary": "John Wick wages his final and most far-reaching war against the High Table, forcing the criminal world to its limits as he hunts for true freedom while the consequences of his past close in from every direction.",
+
+  "story": "After surviving his fall and recovering under the Bowery King, John Wick chooses to strike the High Table directly, starting with the Elder. His retaliation triggers an even harsher response, placing the sadistic Marquis Vincent de Gramont in charge of eliminating him. The Marquis tears apart everything connected to John — including the New York Continental — and recruits Caine, a blind assassin and John’s old friend, to carry out the hit. John seeks allies in Osaka, Berlin, and finally Paris, battling through waves of assassins as the bounty on him grows. With Winston’s help, John invokes an ancient rule that allows him to challenge the Marquis to a duel. As dawn breaks at Sacré-Cœur, John fights for his freedom, outmaneuvering both the Marquis and the High Table. Though he wins the duel, the wounds he sustained bring him to his knees, leaving the world questioning whether John Wick has finally met his end.",
+
+  "details": "John Wick: Chapter 4 (2023) is the largest and most ambitious entry in the franchise, blending martial arts, gun-fu, sword combat, stunt driving, and long-take choreography across multiple countries. The film is known for its neon-lit style, mythic symbolism, and its focus on honor, debt, and consequences. Keanu Reeves performed an enormous amount of physical work, including nunchaku sequences, horseback fighting, and the now-famous Arc de Triomphe car battle. Director Chad Stahelski balances emotional stakes with operatic action, closing John Wick’s arc while expanding the world of the High Table.",
+
+  "awards": [
+    { "title": "Golden Trailer Awards", "result": "Won – Best Action Trailer" },
+    { "title": "IGN Awards", "result": "Won – Best Action Movie" },
+    { "title": "HCA Stunt Achievement Awards", "result": "Won – Best Stunt Ensemble" },
+    { "title": "SAG Awards", "result": "Nominated – Outstanding Stunt Ensemble" },
+    { "title": "Saturn Awards", "result": "Nominated – Best Action/Adventure Film" }
+  ],
+
+
+
+
+
+"trailer": "https://www.youtube.com/embed/qEVUtrk8_B4",
+
+
+
+"production": [
+  { "title": "Produced By", "value": "Basil Iwanyk, Erica Lee, Chad Stahelski" },
+  { "title": "Executive Producers", "value": "Louise Rosner, David Leitch" },
+  { "title": "Music By", "value": "Tyler Bates, Joel J. Richard" },
+  { "title": "Cinematography", "value": "Dan Laustsen" },
+  { "title": "Edited By", "value": "Nathan Orloff" },
+  { "title": "Production Companies", "value": "Thunder Road Pictures, 87Eleven Productions, Summit Entertainment, Lionsgate" },
+  { "title": "Distributed By", "value": "Lionsgate" }
+],
+
+
+
+
+ "screenshots": [
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/e8BCc8Jk11dnSffI6ElICLePvLZ.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/tVFnAuwRmyezTTiwuSxQm9Kycl5.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/bIGvhH7QhohjZ0es8RhopSGsreF.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/kShG5rvuK4N7KUqEoCknNqwhQyY.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/cX0DOYXZDnXEsUbDJwcE7PlwoqS.jpg"
+],
+
+
+
+
+
+"cast": [
+  { "name": "Keanu Reeves", "role": "John Wick", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg" },
+  { "name": "Donnie Yen", "role": "Caine", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg" },
+  { "name": "Bill Skarsgård", "role": "Marquis Vincent de Gramont", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg" },
+  { "name": "Laurence Fishburne", "role": "The Bowery King", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/2GbXERENPpl5MmlqOLlPVaVtifD.jpg" },
+  { "name": "Hiroyuki Sanada", "role": "Shimazu Koji", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg" },
+  
+  { "name": "Lance Reddick", "role": "Charon", "img": "https://media.themoviedb.org/t/p/w132_and_h132_face/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg" },
+  { "name": "Rina Sawayama", "role": "Akira Shimazu", "img": "https://media.themoviedb.org/t/p/w132_and_h132_face/yoo4ZcHjF4G51UDBj7omUQrClYI.jpg" },
+  { "name": "Scott Adkins", "role": "Killa Harkan", "img": "https://media.themoviedb.org/t/p/w132_and_h132_face/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg" },
+  { "name": "Clancy Brown", "role": "The Harbinger", "img": "https://media.themoviedb.org/t/p/w132_and_h132_face/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg" }
+  
+],
+
+
+
+
+
+
+
+  
+"platforms": [
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Netflix_2015_logo.svg",
+    "name": "Netflix"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Prime_Video.png",
+    "name": "Amazon Prime Video"
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/128/1384/1384060.png",
+    "name": "YouTube Movies / Rent"
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/128/831/831330.png",
+    "name": "Apple TV / iTunes"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Starz_logo.svg",
+    "name": "Starz"
+  }
+],
+"tags": [
+  "action",
+  "thriller",
+  "assassin",
+  "hitman",
+  "martial-arts",
+  "crime",
+  "neo-noir",
+  "bounty",
+  "revenge",
+  "high-table",
+  "underworld",
+  "world-building",
+  "global conflict",
+  "duel",
+  "loyalty",
+  "power struggle"
+],
+
+
+"locations": [
+  { 
+    "title": "New York City, USA", 
+    "sub": "Roosevelt Island (Four Freedoms Park), city streets"
+  },
+  { 
+    "title": "Paris, France", 
+    "sub": "Montmartre (Rue Foyatier, Sacré-Cœur), Arc de Triomphe, Palais Garnier, Saint-Eustache Church, Luxembourg Gardens" 
+  },
+  { 
+    "title": "Berlin, Germany", 
+    "sub": "Sacred Heart Church, Krematorium Baumschulenweg, Gendarmenmarkt, Studio Babelsberg" 
+  },
+  { 
+    "title": "Jordan", 
+    "sub": "Wadi Rum Desert (Aqaba area)" 
+  },
+  { 
+    "title": "Tokyo & Osaka, Japan", 
+    "sub": "National Art Center (Tokyo), themed Continental-style sets for Osaka scenes" 
+  }
+],
+
+"timeline": [
+  { "year": "2019", "text": "Lionsgate officially announces development of John Wick: Chapter 4." },  
+  { "year": "2020", "text": "Early pre-production begins; planning delayed due to COVID-19 pandemic." },  
+  { "year": "2021", "text": "Principal photography begins on June 28, 2021 in Paris and Berlin." },  
+  { "year": "2021", "text": "Additional filming in Jordan (Wadi Rum), New York, and Japan." },  
+  { "year": "2021", "text": "Filming wraps on October 27, 2021." },  
+  { "year": "2022", "text": "Post-production continues: editing, visual effects, sound design." },  
+  { "year": "2023", "text": "John Wick: Chapter 4 is released theatrically on March 24, 2023." }
+]
+}
