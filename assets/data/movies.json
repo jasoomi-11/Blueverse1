@@ -373,7 +373,7 @@
   },
   {
     "title": "John Wick: Chapter 2",
-    "url": "/movies/action/john-wick-2.html",
+    "url": "/movies/action/john-wick-chapter-2.html",
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
     "year": "2017",
     "badge": "Action",
@@ -385,7 +385,7 @@
   },
   {
     "title": "John Wick: Chapter 3 – Parabellum",
-    "url": "/movies/action/john-wick-3.html",
+    "url": "/movies/action/john-wick-chapter-3.html",
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ebusUSzWT1tHwaHIPLlRxIPG0OP.jpg",
     "year": "2019",
     "badge": "Action",
@@ -397,7 +397,7 @@
   },
   {
     "title": "John Wick: Chapter 4",
-    "url": "/movies/action/john-wick-4.html",
+    "url": "/movies/action/john-wick-chapter-4.html",
     "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/uzHPb0rITwa44KkhX5Z27cXwmL1.jpg",
     "year": "2023",
     "badge": "Action",
@@ -418,5 +418,24 @@
     "platforms": ["Theatrical Release"],
     "primary_platform": "Theatrical Release",
     "industry": "Bollywood"
-  }
+  },
+  
+  {
+  "title": "Avatar",
+  "url": "/movies/action/avatar-2009.html",
+  "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/pxbrFOTV2j8MmZQlfin3dwz5cXV.jpg",
+  "year": "2009",
+  "badge": "Sci-Fi",
+  "genre": ["Action", "Adventure", "Sci-Fi"],
+  "director": "James Cameron",
+  "platforms": [
+    "Disney+",
+    "Amazon Prime Video",
+    "Apple TV / iTunes",
+    "YouTube Movies / Rent",
+    "Google Play Movies"
+  ],
+  "primary_platform": "Disney+",
+  "industry": "Hollywood"
+}
 ]
