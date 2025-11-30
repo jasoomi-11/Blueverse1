@@ -437,5 +437,43 @@
   ],
   "primary_platform": "Disney+",
   "industry": "Hollywood"
+},
+{
+  "title": "Avatar: The Way of Water",
+  "url": "/movies/action/avatar-way-of-water.html",
+  "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "year": "2022",
+  "badge": "Sci-Fi",
+  "genre": ["Action", "Adventure", "Sci-Fi", "Fantasy"],
+  "director": "James Cameron",
+  "platforms": [
+    "Disney+",
+    "Amazon Prime Video",
+    "Apple TV / iTunes",
+    "YouTube Movies / Rent",
+    "Google Play Movies",
+    "Vudu"
+  ],
+  "primary_platform": "Disney+",
+  "industry": "Hollywood"
+},
+
+{
+  "title": "Frankenstein",
+  "url": "/movies/horror/frankenstein.html",
+  "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jJ8AiqKKiZWZaiYMyhlF0FNH4xJ.jpg",
+  "year": "2025",
+  "badge": "Horror",
+  "genre": ["Horror", "Sci-Fi", "Thriller"],
+  "director": "Guillermo del toro",
+  "platforms": [
+    "Netflix",
+    "Amazon Prime Video",
+    "Apple TV / iTunes",
+    "YouTube Movies / Rent",
+    "Google Play Movies"
+  ],
+  "primary_platform": "Netflix",
+  "industry": "Hollywood"
 }
 ]

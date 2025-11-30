@@ -1,0 +1,149 @@
+{
+  "background": "https://media.themoviedb.org/t/p/w440_and_h660_face/jJId1jo46922s58Pfwk0xSly0Ic.jpg",
+  "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/jJ8AiqKKiZWZaiYMyhlF0FNH4xJ.jpg",
+
+
+ 
+
+"title": "Frankenstein",
+"sub": "A dark reimagining of Mary Shelley's classic tale of creation and horror.",
+
+"director": "Guillermo del Toro",
+"writers": ["Guillermo del Toro", "Mary Shelley"],
+"runtime": "2h 29m",
+
+"budget": "US$ 35–40 million",
+"boxOffice": "Not released in theaters (Netflix release)",
+
+"releaseDate": "2025 (November 7, Worldwide)",
+
+"ratings": {
+  "imdb": 7.5,
+  "rt": 85,
+  "meta": 77
+},
+
+
+ 
+
+  "summary": "In Guillermo del Toro’s Frankenstein (2025), a brilliant but tormented scientist resurrects life — only to watch his monstrous creation become something far more tragic than frightening. Caught between ambition, guilt, and the burden of creation, the monster struggles to find identity and humanity in a world that rejects him. The film reimagines the classic novel as a gothic sci-fi drama about creation, compassion, and the cost of playing God.",
+  "story": "The story unfolds in three chapters: a frozen Arctic prelude, followed by the rise of scientist Victor Frankenstein and his experiments, and finally the creature’s own tale. Victor, cast out from the Royal College for unholy experiments, becomes obsessed with defying death — harvesting bodies and using electricity to reanimate a corpse. The result is not salvation but horror: his creation is alive, but tortured, intelligent, and longing for acceptance. As the creature learns to speak and understand the world, Victor rejects and abuses him. Deeply wounded by cruelty and rejection, the creature demands justice for his pain. Their conflict spirals into tragedy and self-destruction as creator and creation hunt each other across icy wastes. The creature’s heartbreak and Victor’s downfall force the audience to question who the real monster is.",
+  "details": "This 2025 adaptation of Frankenstein returns the story to its gothic-Victorian roots while adding a sweeping emotional scope. Directed, written, and produced by Guillermo del Toro, the film blends horror, sci-fi, and gothic drama to explore themes of identity, loneliness, grief and redemption. The production design, led by period-accurate sets, atmospheric lighting, and detailed costume work, creates a palpable 19th-century world of mist, candle-lit labs, and storm-tossed seas. The creature — played by Jacob Elordi — is not a mindless monster but a tragic being capable of love, pain, and longing; his performance highlights the humanity in the creature, inviting sympathy rather than fear. The emotional core of the movie — between father and son, creator and creation — turns a well-known horror yarn into a meditation on guilt, otherness, and the cost of ambition. Critics praised the film for balancing gruesome horror elements with heartbreaking humanity and for delivering one of the most visually striking and emotionally rich adaptations of the classic novel since its first publication.",
+  "genre": ["Horror", "Drama", "Sci-Fi"],
+
+
+"awards": [
+  { "title": "Sloan Science in Cinema Prize", "result": "Won – SFFILM / Alfred P. Sloan Foundation" }
+],
+
+
+
+
+
+"trailer": "https://www.youtube.com/embed/8aulMPhE12g",
+
+
+
+"production": [
+  { "title": "Produced By", "value": "Guillermo del Toro, J. Miles Dale, Scott Stuber" },
+  { "title": "Music By", "value": "Alexandre Desplat" },
+  { "title": "Cinematography", "value": "Dan Laustsen" },
+  { "title": "Edited By", "value": "Evan Schiff" },
+  { "title": "Production Companies", "value": "Double Dare You; Demilo Films; Bluegrass 7" },
+  { "title": "Distributed By", "value": "Netflix" }
+],
+
+
+
+
+"screenshots": [
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/vrjRcY43fHBNQqx0El0ZZzo7HZb.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/i9JWf8ivhykQzQZNwp2qdwExdhd.jpg",
+  "https://media.themoviedb.org/t/p/w1000_and_h563_face/62ipVbLX66G6XW6AXWtdi18iv21.jpg"
+],
+
+
+
+
+
+"cast": [
+  { "name": "Oscar Isaac", "role": "Victor Frankenstein", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg" },
+  { "name": "Jacob Elordi", "role": "The Creature", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/lC9pK3ADyPpH4dRo2BKZBaTZPfu.jpg" },
+  { "name": "Mia Goth", "role": "Elizabeth Harlander / Claire Frankenstein", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg" },
+  { "name": "Felix Kammerer", "role": "William Frankenstein", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/T12faHW0QXunSZbv6YNmDWG7bC.jpg" },
+  { "name": "Lars Mikkelsen", "role": "Captain Anderson", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/xw3bJxjf8yT8TS8zigEGWQYSaXH.jpg" },
+  { "name": "Christoph Waltz", "role": "Heinrich Harlander", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg" },
+  { "name": "Charles Dance", "role": "Leopold Frankenstein", "img": "https://media.themoviedb.org/t/p/w240_and_h266_face/3xHwq5lchAI6mfW0aGQOEijexv6.jpg" }
+  
+],
+
+
+
+
+
+
+
+  
+"platforms": [
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "name": "Netflix"
+  }
+],
+"tags": [
+  "horror",
+  "sci-fi",
+  "gothic",
+  "drama",
+  "monster movie",
+  "Victorian era",
+  "creation",
+  "science",
+  "ethics",
+  "tragedy",
+  "gore",
+  "suspense",
+  "psychological horror",
+  "adaptation",
+  "classic literature"
+],
+
+
+"locations": [
+  {
+    "title": "Toronto, Ontario, Canada",
+    "sub": "Cinespace Studios and other sets — indoor and outdoor shooting including the large ship set and studio backlots."
+  },
+  {
+    "title": "North Bay / Ontario, Canada",
+    "sub": "Lake/Nipissing region — icy, snow-covered landscapes used for Arctic / frozen exterior scenes."
+  },
+  {
+    "title": "Edinburgh, Scotland, UK",
+    "sub": "Historic Old Town / Royal Mile (Canongate, Bakehouse Close, Lady Stair’s Close, Makars’ Court, etc.) — used for many gothic city & street sequences."
+  },
+  {
+    "title": "Glasgow, Scotland, UK",
+    "sub": "Glasgow Cathedral and nearby exteriors — used for darker, medieval/gothic sequences."
+  },
+  {
+    "title": "Burghley House, Lincolnshire, England, UK",
+    "sub": "Stately-home interiors/exteriors — used for mansion / aristocratic home scenes."
+  },
+  {
+    "title": "Hospitalfield House / Arbroath / Angus / Scotland, UK",
+    "sub": "Historic estate settings — for key interior scenes needing gothic-Victorian ambience."
+  }
+],
+
+"timeline": [
+  { "date": "2023", "text": "Project revived by Netflix after earlier development; pre-production and casting ramp up." },
+  { "date": "2024-02-12", "text": "Principal photography begins in Toronto, Canada." },
+  { "date": "2024-09-30", "text": "Principal photography wraps (additional filming in September took place in Edinburgh, Arbroath and Burghley House in Stamford, Lincolnshire)."},
+  { "date": "2025-08-30", "text": "World premiere — Venice International Film Festival (82nd edition), main competition." },
+  { "date": "2025-09-08", "text": "North American premiere screening — Toronto International Film Festival (Special Presentations)."},
+  { "date": "2025-09-18", "text": "Presented at Busan International Film Festival (Gala / festival screening)."},
+  { "date": "2025-10-17", "text": "Limited theatrical release begins (select cinemas, including IMAX / 35mm special screenings in some markets)."},
+  { "date": "2025-11-07", "text": "Global streaming release on Netflix (added to Netflix catalogue worldwide)."}
+]
+}

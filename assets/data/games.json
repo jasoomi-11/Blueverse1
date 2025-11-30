@@ -396,5 +396,34 @@
   ],
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/games/resident7.webp",
   "path": "/Game/resident-evil-7-biohazard.html"
+},
+{
+  "title": "Resident Evil 6",
+  "slug": "resident-evil-6",
+  "badge": "Action Horror | Third-Person",
+  "platforms": [
+    "PlayStation 3",
+    "PlayStation 4 (Remastered)",
+    "Xbox 360",
+    "Xbox One (Remastered)",
+    "Windows (Steam)",
+    "Nintendo Switch"
+  ],
+  "developer": "Capcom",
+  "tags": [
+    "horror",
+    "survival",
+    "third-person shooter",
+    "resident evil",
+    "capcom",
+    "story rich",
+    "coop",
+    "action horror",
+    "zombies",
+    "infected",
+    "thriller"
+  ],
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/games/resident6.webp",
+  "path": "/Game/resident-evil-6.html"
 }
 ]

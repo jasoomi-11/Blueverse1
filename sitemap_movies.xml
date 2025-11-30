@@ -4,14 +4,14 @@
   <!-- ================= MAIN MOVIE PAGES ================= -->
   <url>
     <loc>https://blueverse.space/movies/action.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
 
 <url>
     <loc>https://blueverse.space/movies/romance.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
@@ -20,14 +20,14 @@
 
   <url>
     <loc>https://blueverse.space/movies/horror.html</loc>
-    <lastmod>2025-11-14</lastmod>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://blueverse.space/movies/adventure.html</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
@@ -369,6 +369,19 @@
    <url>
     <loc>https://blueverse.space/movies/action/avatar-2009.html</loc>
     <lastmod>2025-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://blueverse.space/movies/action/avatar-way-of-water.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  
+   <url>
+    <loc>https://blueverse.space/movies/horror/frankenstein.html</loc>
+    <lastmod>2025-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
