@@ -1,31 +1,33 @@
 [
  
+
+
 {
-  "title": "Resident Evil 5",
-  "slug": "resident-evil-5",
-  "badge": "Action Horror | Third-Person",
+  "title": "PUBG Mobile",
+  "slug": "pubg-mobile",
+  "badge": "Battle Royale | Multiplayer Shooter",
   "platforms": [
-    "PlayStation 3",
-    "PlayStation 4 (Remastered)",
-    "Xbox 360",
-    "Xbox One (Remastered)",
-    "Windows (Steam)",
-    "Nintendo Switch"
+    "Android",
+    "iOS"
   ],
-  "developer": "Capcom",
+  "developer": "Tencent Games / Krafton",
   "tags": [
-    "horror",
+    "pubg",
+    "pubg mobile",
+    "battle royale",
+    "fps",
+    "tps",
+    "shooter",
     "survival",
-    "third-person shooter",
-    "resident evil",
-    "capcom",
-    "coop",
-    "action",
-    "zombies",
-    "uroboros",
-    "thriller"
+    "multiplayer",
+    "online game",
+    "tencent",
+    "krafton"
   ],
-  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/games/resident5.webp",
-  "path": "/Game/resident-evil-5.html"
+  "thumb": "/assets/thumb/pubg-mobile.webp",
+  "path": "/Game/pubg-mobile.html"
 }
+
+
+
 ]

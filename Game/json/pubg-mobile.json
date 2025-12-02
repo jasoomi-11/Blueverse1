@@ -1,0 +1,143 @@
+{
+  "title": "PUBG Mobile",
+  "subtitle": "The global battle royale phenomenon — intense survival, realistic combat, and tactical mobile gameplay.",
+  "trailer": "https://youtube.com/embed/eFRcy0Bcqtc",
+
+
+
+
+
+
+
+  "developer": "Level Infinite (Tencent Games)",
+  "releaseYear": "2018",
+  "genre": "Battle Royale / Shooter / Multiplayer",
+
+  "about": "<p>PUBG Mobile is one of the most influential and widely played battle royale games ever released on mobile devices, combining tactical survival gameplay, intense gunfights, realistic environments, and fast-paced competitive action. The game drops 100 players onto a massive open-world map where everyone must scavenge for weapons, attachments, healing items, vehicles, and armor while navigating a shrinking safe zone. Its signature experience comes from unpredictable encounters, dynamic strategies, and the constant pressure of being the last person or squad alive. With over a billion downloads globally, PUBG Mobile has become a cultural and esports icon, offering millions of players competitive modes, seasonal events, ranked play, and rich customization options.</p><p>Over time, PUBG Mobile has evolved far beyond a simple battle royale. It now includes multiple maps such as Erangel, Miramar, Sanhok, Vikendi, Livik, and themed modes featuring collaborations with global brands, movies, and anime franchises. The game also features Arcade modes, TDM (Team Deathmatch), Payload, Metro Royale, and special EvoGround events that provide diverse gameplay styles for casual players, pro players, and competitive teams. Its high-quality graphics, realistic gun physics, extensive weapon catalogue, and optimized mobile controls make it one of the deepest mobile shooters available today.</p><p>The game’s esports presence is massive, with global tournaments such as PMGC, PMWI, PMPL, and various regional championships. These tournaments offer multi-million dollar prize pools and have helped PUBG Mobile build a dedicated competitive ecosystem. The constant updates, balanced weapon tuning, anti-cheat systems, and new gameplay features keep the game fresh, fair, and forward-moving. Whether you enjoy solo clutch moments, squad synergy, sniping, vehicle fights, or close-range shotgun battles, PUBG Mobile offers something for every type of mobile gamer.</p>",
+
+  "overview": "<p>PUBG Mobile revolves around one core objective: survive until the end. Each match begins aboard an aircraft flying across the map in a random path. Players choose their landing spot, parachute down, and rush to gear up quickly before encountering enemies. The gameplay blends strategy, awareness, aim control, and teamwork. You must carefully manage positioning, use cover effectively, rotate with the zone, and make tactical decisions based on the situation. Every weapon feels distinct, with recoil patterns, bullet velocity, attachments, and damage values affecting combat interactions.</p><p>The game supports multiple control schemes including gyroscope aiming, custom HUD layouts, claw setups, and sensitivity adjustments that allow players to fine-tune their gameplay. PUBG Mobile’s realistic sound design plays a major role in survival — footsteps, gunshots, vehicle engines, reloading, and environmental noises give clues about enemy positions. Squads can communicate via voice chat or quick messages, enabling efficient calls like rotations, enemy spots, and attack timings.</p><p>PUBG Mobile also integrates rich progression systems such as RP (Royale Pass), seasonal missions, perks, achievements, weapon mastery, character upgrades, and skins. Players can unlock outfits, vehicle skins, weapon finishes, emotes, and more. Seasonal updates introduce new weapons, vehicles, cities, weather systems, and map improvements. Because of its intense replayability and wide variety of modes, PUBG Mobile remains one of the most engaging multiplayer shooters ever created.</p>",
+
+  "story": "<p>PUBG Mobile does not follow a linear story but is built around the concept of \"survival against all odds\" on a remote island where participants are dropped into a controlled battle simulation. Each battleground — whether Erangel’s abandoned Soviet-style towns, Miramar’s harsh desert terrain, Sanhok’s dense rainforests, Vikendi’s snowy landscapes, or Livik’s fast-paced compact terrain — has a history woven into the world. Players engage in these battlegrounds as part of a competitive, adrenaline-fueled survival challenge sponsored by an in-universe organization known as the PUBG Battlegrounds program.</p><p>Seasonal updates expand the lore through mysterious structures, abandoned labs, underground bunkers, and faction-based events such as the TDM Arena battles, Metro royale missions, and themed modes. While the game isn’t story-driven, the lore continues to grow subtly through new map changes, environmental hints, and collaborations that introduce alternate universes or futuristic twists to the PUBG world. Every match tells its own story — from the moment you land to the final 1v1 showdown in the shrinking zone.</p>",
+
+  "platforms": [
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": false },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "100-player battle royale survival",
+      "Realistic recoil and bullet physics",
+      "Strategic looting and zone rotation",
+      "Vehicles for fast travel and combat",
+      "First-person and third-person modes",
+      "Team-based squad gameplay",
+      "Weapon attachment customization"
+    ],
+    "genre": [
+      "Battle Royale",
+      "Survival Shooter",
+      "Online Multiplayer"
+    ],
+    "modes": [
+      "Classic Battle Royale",
+      "Ranked Mode",
+      "Team Deathmatch (TDM)",
+      "Arena Training",
+      "Payload 3.0",
+      "Arcade Quick Matches",
+      "Metro Royale",
+      "EvoGround Events"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/4VZCwEozp8Q/maxresdefault.jpg",
+      "title": "PUBG Mobile Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/lG2U7YVB8_c/maxresdefault.jpg",
+      "title": "Global Gameplay Trailer"
+    }
+  ],
+
+  "tips": [
+    "Always land in areas based on your play style — hot drops for practice, safe areas for survival ranking.",
+    "Use gyroscope for improved recoil control and faster reaction time.",
+    "Prioritize level 2 armor and helmet early to survive unexpected gunfights.",
+    "Take cover before healing and avoid healing in open areas.",
+    "Choose the right weapons: M416 for stability, DP-28 for mid-range, UMP45 for close combat.",
+    "Use smoke grenades for revives, zone crossings, and cover in final circles.",
+    "Keep your squad close and rotate together to avoid getting isolated.",
+    "Control recoil through attachments like compensators, vertical grips, and extended mags."
+  ],
+
+  "features": [
+    "Realistic next-gen mobile graphics with HDR and UHD options",
+    "Massive maps with dynamic environments",
+    "Voice chat and squad coordination tools",
+    "Customizable controls and sensitivity",
+    "Regular events, seasons, and updates",
+    "Esports tournaments and ranked leaderboard system",
+    "Huge variety of weapons, vehicles, and tactical gear"
+  ],
+
+  "whyPlay": "Because PUBG Mobile delivers the most authentic battle royale experience on mobile — combining strategy, skill, teamwork, and heart-pounding action that keeps every match unpredictable and exciting.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 660 / Helio G70",
+      "RAM: 3–4GB",
+      "Storage: 3–5GB free",
+      "Android 8 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Dimensity 800",
+      "RAM: 6–8GB",
+      "Storage: 5GB+",
+      "Android 11+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 and newer",
+      "iPad 6th Gen and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "60 FPS supported on A13 Bionic and newer",
+      "Ultra Frame Rate mode available on supported devices",
+      "Stable gameplay on iOS 14+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is PUBG Mobile free to play?",
+      "answer": "Yes, PUBG Mobile is completely free to download and play on Android and iOS devices."
+    },
+    {
+      "question": "Does PUBG Mobile support cross-platform play?",
+      "answer": "Yes, cross-play works between Android and iOS players."
+    },
+    {
+      "question": "How much storage does PUBG Mobile require?",
+      "answer": "PUBG Mobile requires approximately 3–5GB depending on installed resource packs and maps."
+    },
+    {
+      "question": "Can low-end phones run PUBG Mobile?",
+      "answer": "Yes, the game supports low-end Android devices through the Lite graphics mode."
+    },
+    {
+      "question": "Is controller support available?",
+      "answer": "Official controller support is limited, but some modes allow certain Bluetooth controllers."
+    }
+  ]
+}
