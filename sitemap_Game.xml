@@ -215,7 +215,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
-
+<url>
+    <loc>https://blueverse.space/Game/resident-evil-5.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
 
 
 </urlset>

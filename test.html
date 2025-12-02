@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAME TITLE – Full Guide, Story, Gameplay, Tips | Blueverse</title>
+
+    <style>
+    /* ========================
+        GLOBAL STYLES (DARK BLUE THEME)
+    ======================== */
+    body {
+      margin: 0;
+      padding: 0;
+      background: #010314; /* Dark Blue Black */
+      color: #d4f6ff;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      padding-top: 120px;
+    }
+
+    h1, h2, h3 {
+      color: #29d6ff;
+      margin-bottom: 10px;
+      text-shadow: 0 0 12px #00cfff;
+    }
+
+    section {
+      width: 90%;
+      max-width: 1100px;
+      margin: 50px auto;
+      padding-bottom: 25px;
+      border-bottom: 1px solid rgba(0, 200, 255, 0.2);
+    }
+
+    /* ========================
+        HEADER (Dark Blue Accent)
+    ======================== */
+    header {
+      position: fixed;
+      top: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 90%;
+      max-width: 1200px;
+      background: rgba(0,15,40,0.6);
+      border-radius: 999px;
+      backdrop-filter: blur(18px);
+      box-shadow: 0 4px 25px rgba(0,200,255,0.25);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.6rem 1.5rem;
+      z-index: 1000;
+      border: 1px solid rgba(0,200,255,0.2);
+      transition: all 0.6s ease;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        padding: 0.5rem 1rem;
+        width: 95%;
+      }
+    }
+
+    header .logo {
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      overflow: hidden;
+      background: rgba(0,150,255,0.1);
+      box-shadow: 0 0 15px #00cfff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      flex-shrink: 0;
+      border: 1px solid rgba(0,200,255,0.25);
+    }
+
+    header .logo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+    .hamburger {
+      width: 32px;
+      height: 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    .hamburger span {
+      height: 4px;
+      background: #29d6ff;
+      border-radius: 4px;
+      box-shadow: 0 0 8px #00cfff;
+    }
+
+    /* ========================
+        SIDEBAR (Dark Neon)
+    ======================== */
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: -360px;
+      width: 260px;
+      height: 100%;
+      background: rgba(0,10,30,0.98);
+      backdrop-filter: blur(15px);
+      box-shadow: 5px 0 20px rgba(0,200,255,0.25);
+      transition: 0.4s ease;
+      z-index: 1001;
+      padding: 2rem 1rem;
+      border-right: 1px solid rgba(0,200,255,0.2);
+    }
+
+    .sidebar.active { left: 0; }
+
+    .sidebar ul { 
+      list-style: none; 
+      margin-top: 2rem; 
+      padding: 0; 
+    }
+
+    .sidebar ul li { margin: 1.2rem 0; }
+
+    .sidebar ul li a {
+      color: #29d6ff;
+      text-decoration: none;
+      font-size: 1.1rem;
+      text-shadow: 0 0 8px #00cfff;
+    }
+
+    /* ========================
+        DARK OVERLAY
+    ======================== */
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.55);
+      display: none;
+      z-index: 900;
+    }
+    .overlay.active { display: block; }
+
+    </style>
+</head>
+
+<body>
+
+<!-- =========================
+        HEADER
+========================= -->
+<header>
+    <div class="logo">
+        <img src="assets/thumb/logo.png" alt="Blueverse Logo">
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <span></span><span></span><span></span>
+    </div>
+</header>
+
+<!-- SIDEBAR -->
+<div class="sidebar" id="sidebar">
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/Game/all-games.html">All Games</a></li>
+        <li><a href="/Game/console-games.html">Console Games</a></li>
+        <li><a href="/Game/mobile-games.html">Mobile Games</a></li>
+    </ul>
+</div>
+
+<!-- Overlay -->
+<div class="overlay" id="overlay" onclick="toggleMenu()"></div>
+
+
+<!-- =========================
+     GAME PAGE CONTENT
+========================= -->
+
+<section>
+    <h1>GAME TITLE</h1>
+    <p><strong>GAME TITLE</strong> is an action-adventure game developed by <strong>DEVELOPER NAME</strong> and published by <strong>PUBLISHER NAME</strong>. 
+    This page covers full story, gameplay breakdown, characters, guides, tips, and more.</p>
+</section>
+
+<section>
+    <h2>Overview</h2>
+    <p>GAME TITLE is a <strong>GENRE</strong> game where players experience <strong>short overview of gameplay</strong>. 
+    It features <strong>combat style</strong>, <strong>exploration elements</strong>, and <strong>platform availability</strong>.</p>
+</section>
+
+<section>
+    <h2>About the Game</h2>
+    <p>This game focuses on <strong>main concept/theme</strong>. 
+    Players take the role of <strong>PROTAGONIST NAME</strong> and explore <strong>world/region</strong>.</p>
+</section>
+
+<section>
+    <h2>Story Summary</h2>
+    <p>The story begins when <strong>main story intro</strong>. 
+    As the journey continues, players discover <strong>major plot points</strong> and face <strong>main antagonist</strong>.</p>
+</section>
+
+<section>
+    <h2>All Playable Platforms</h2>
+    <ul>
+        <li>PC (Windows)</li>
+        <li>PlayStation 4 / PlayStation 5</li>
+        <li>Xbox One / Xbox Series X|S</li>
+        <li>Nintendo Switch (if applicable)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Genres</h2>
+    <ul>
+        <li>Action</li>
+        <li>Adventure</li>
+        <li>RPG</li>
+        <li>Horror</li>
+        <li>Open-World</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Game Modes</h2>
+    <ul>
+        <li>Single Player Campaign</li>
+        <li>Online Multiplayer</li>
+        <li>Co-Op Mode</li>
+        <li>PvP / PvE Modes</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Key Features</h2>
+    <ul>
+        <li>🔥 Open-world exploration</li>
+        <li>⚔️ Fast-paced combat system</li>
+        <li>🧭 Story-driven missions</li>
+        <li>🎮 Multiple game modes</li>
+        <li>🧩 Puzzle solving</li>
+        <li>📸 Photo mode</li>
+        <li>🛡️ Character progression & skills</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Gameplay Breakdown</h2>
+    <p>The gameplay revolves around <strong>combat mechanics, world design, missions, and upgrades</strong>. 
+    Players can explore <strong>open areas</strong>, fight <strong>bosses</strong>, and unlock <strong>abilities</strong>.</p>
+</section>
+
+<section>
+    <h2>Main Characters</h2>
+    <ul>
+        <li><strong>Character 1:</strong> Role + short bio</li>
+        <li><strong>Character 2:</strong> Role + short bio</li>
+        <li><strong>Character 3:</strong> Role + short bio</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Bosses / Enemies</h2>
+    <ul>
+        <li><strong>Boss 1:</strong> Abilities + location</li>
+        <li><strong>Boss 2:</strong> Abilities + location</li>
+        <li><strong>Main Antagonist:</strong> Final fight details</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Weapons & Items</h2>
+    <ul>
+        <li><strong>Weapon 1:</strong> Damage + special ability</li>
+        <li><strong>Weapon 2:</strong> Type + upgrades</li>
+        <li><strong>Item 1:</strong> Healing / crafting / boost</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Maps / Locations</h2>
+    <ul>
+        <li><strong>Region 1:</strong> Description + enemies</li>
+        <li><strong>Region 2:</strong> Missions + hidden items</li>
+        <li><strong>Secret Areas:</strong> Collectibles & challenges</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Gameplay Mechanics</h2>
+    <ul>
+        <li>Combat system</li>
+        <li>Stealth mechanics</li>
+        <li>Crafting / upgrades</li>
+        <li>Exploration & traversal</li>
+        <li>Skill trees</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Trailers & Videos</h2>
+    <p>Embed official trailers from YouTube:</p>
+    <ul>
+        <li><a href="#">Launch Trailer</a></li>
+        <li><a href="#">Gameplay Trailer</a></li>
+        <li><a href="#">Cinematic Trailer</a></li>
+    </ul>
+</section>
+
+<section>
+    <h2>Screenshots</h2>
+    <p>Add HD screenshots here:</p>
+    <img src="assets/screenshots/game1.jpg" width="100%" alt="Game Screenshot">
+    <img src="assets/screenshots/game2.jpg" width="100%" alt="Game Screenshot">
+</section>
+
+<section>
+    <h2>Release Information</h2>
+    <ul>
+        <li><strong>Release Date:</strong> DD/MM/YYYY</li>
+        <li><strong>Developer:</strong> Developer Name</li>
+        <li><strong>Publisher:</strong> Publisher Name</li>
+        <li><strong>Engine:</strong> Unreal Engine / Unity / Custom</li>
+    </ul>
+</section>
+
+<section>
+    <h2>System Requirements</h2>
+
+    <h3>Minimum Requirements</h3>
+    <ul>
+        <li>CPU: Minimum CPU</li>
+        <li>GPU: Minimum GPU</li>
+        <li>RAM: 8 GB</li>
+        <li>Storage: 40 GB</li>
+        <li>OS: Windows 10 64-bit</li>
+    </ul>
+
+    <h3>Recommended Requirements</h3>
+    <ul>
+        <li>CPU: Recommended CPU</li>
+        <li>GPU: Recommended GPU</li>
+        <li>RAM: 16 GB</li>
+        <li>Storage: 50 GB SSD</li>
+        <li>OS: Windows 11 64-bit</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tips & Beginner Guide</h2>
+    <ul>
+        <li>Always upgrade <strong>skill A</strong>.</li>
+        <li>Focus on <strong>early missions</strong> first.</li>
+        <li>Use <strong>stealth</strong> in early levels.</li>
+        <li>Collect <strong>resource items</strong> whenever possible.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Advanced Strategies</h2>
+    <ul>
+        <li>Best late-game builds</li>
+        <li>Hidden mechanics</li>
+        <li>Boss fight patterns</li>
+        <li>Speedrun strategies</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Updates & Patch Notes</h2>
+    <p>Version 1.0 – Initial release<br>
+       Version 1.1 – Bug fixes<br>
+       Version 1.2 – New features added</p>
+</section>
+
+<section>
+    <h2>FAQ – Frequently Asked Questions</h2>
+    <p><strong>Q:</strong> Is this game multiplayer?<br>
+    <strong>A:</strong> Yes/No, details here.</p>
+
+    <p><strong>Q:</strong> How long is the story?<br>
+    <strong>A:</strong> Average playtime: 10–25 hours.</p>
+</section>
+<section><h2>Related Games</h2></section>
+
+<!-- =========================
+        SCRIPT
+========================= -->
+<script>
+function toggleMenu() {
+    let sidebar = document.getElementById("sidebar");
+    let overlay = document.getElementById("overlay");
+    sidebar.classList.toggle("active");
+    overlay.classList.toggle("active");
+}
+</script>
+
+</body>
+</html>

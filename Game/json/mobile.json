@@ -1,0 +1,138 @@
+{
+ 
+  "title": "Game Title Here",
+  "subtitle": "Short subtitle or description goes here — premium, clean and minimal.",
+  "trailer": "https://youtube.com/embed/VIDEO_ID"
+,
+
+
+
+  "developer": "Game Studio Name",
+  "releaseYear": "2025",
+  "genre": "Action / Adventure",
+
+  "about": "<p>This is the about section content loaded from JSON.</p>",
+  "overview": "<p>This is the overview section content loaded from JSON.</p>",
+  "story": "<p>This is the story summary loaded from JSON.</p>", 
+
+
+  "platforms": [
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": true }
+  ],
+  
+  
+
+  "gameplay": {
+    "mechanics": [
+      "Fast-paced combat",
+      "Open-world exploration",
+      "Stealth mechanics",
+      "Skill progression system"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "modes": [
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op"
+    ]
+  },
+  
+
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/H-8VnWn4RFo/maxresdefault.jpg",
+      "title": "Official Gameplay Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/R1VwPWxm9nQ/maxresdefault.jpg",
+      "title": "Extended Gameplay Trailer"
+    }
+  ],
+
+  "tips": [
+    "Stay mobile to avoid heavy attacks.",
+    "Upgrade weapons early in the game.",
+    "Focus on enemy weak points.",
+    "Use the environment to your advantage."
+  ],
+
+  "features": [
+    "High-quality next-gen graphics",
+    "Fast-paced combat mechanics",
+    "Deep exploration system",
+    "Multiple playable characters",
+    "Massive boss fights"
+  ],
+
+  "whyPlay": "Because the game delivers intense combat, emotional moments, deep story, and cinematic action!",
+
+
+  
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 660 / Helio G70",
+      "RAM: 4GB",
+      "Storage: 3–5GB",
+      "Android 8 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 732G / Dimensity 800",
+      "RAM: 6–8GB",
+      "Storage: 5GB+",
+      "Android 11+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 and newer",
+      "iPad 6th Gen and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "60 FPS supported on A13 and newer",
+      "Stable performance on iOS 14+"
+    ]
+  },
+
+  
+
+
+  "faqs": [
+    {
+      "question": "Is this game free to play?",
+      "answer": "Yes, the game is completely free to download and play on all supported platforms."
+    },
+    {
+      "question": "Does the game support cross-platform gameplay?",
+      "answer": "Yes, you can play with friends across PC, PlayStation, Xbox, and Mobile devices."
+    },
+    {
+      "question": "How much storage does the game require?",
+      "answer": "On average: PC requires 40GB, Mobile 3–5GB, and Consoles 45GB."
+    },
+    {
+      "question": "Can I run this game on a low-end Android phone?",
+      "answer": "Yes, the game runs on Snapdragon 660+ devices with at least 4GB RAM."
+    },
+    {
+      "question": "Is controller support available?",
+      "answer": "Full controller support is available on PC, PlayStation, Xbox, and mobile devices with Bluetooth controllers."
+    }
+  ]
+
+
+
+}

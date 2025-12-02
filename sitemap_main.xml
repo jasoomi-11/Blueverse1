@@ -3,14 +3,14 @@
 
   <url>
     <loc>https://blueverse.space/index.html</loc>
-    <lastmod>2025-11-19</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
 
   <url>
     <loc>https://blueverse.space/about.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -30,14 +30,14 @@
 
   <url>
     <loc>https://blueverse.space/policies.html</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <url>
     <loc>https://blueverse.space/terms.html</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
@@ -58,7 +58,7 @@
 
  <url>
     <loc>https://blueverse.space/copyright.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>
   </url>
@@ -72,7 +72,7 @@
 
 <url>
     <loc>https://blueverse.space/attribution.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-1</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>
   </url>
