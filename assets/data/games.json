@@ -26,6 +26,57 @@
   ],
   "thumb": "/assets/thumb/pubg-mobile.webp",
   "path": "/Game/pubg-mobile.html"
+},
+
+{
+  "title": "Free Fire MAX",
+  "slug": "free-fire-max",
+  "badge": "Battle Royale | Multiplayer Shooter",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Garena",
+  "tags": [
+    "free fire",
+    "free fire max",
+    "ff max",
+    "battle royale",
+    "survival",
+    "multiplayer",
+    "online game",
+    "mobile shooter",
+    "garena",
+    "ff"
+  ],
+  "thumb": "/assets/thumb/free-fire-max.webp",
+  "path": "/Game/free-fire-max.html"
+},
+
+
+{
+  "title": "PUBG: Battlegrounds (PC)",
+  "slug": "pubg-pc",
+  "badge": "Battle Royale | Tactical Shooter",
+  "platforms": [
+    "PC",
+    "Steam"
+  ],
+  "developer": "PUBG Studios",
+  "tags": [
+    "pubg",
+    "pubg pc",
+    "playerunknown battlegrounds",
+    "pubg battlegrounds",
+    "battle royale",
+    "shooter",
+    "tactical shooter",
+    "steam game",
+    "online multiplayer",
+    "survival game"
+  ],
+  "thumb": "/assets/thumb/pubg-pc.webp",
+  "path": "/Game/pubg-pc.html"
 }
 
 

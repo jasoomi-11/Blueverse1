@@ -1,0 +1,159 @@
+{
+  "title": "Free Fire MAX",
+  "subtitle": "High-definition battle royale action with stunning graphics, smooth controls, and fast-paced survival gameplay.",
+  "trailer": "https://www.youtube.com/embed/2fDzCWNS3ig",
+
+  "developer": "Garena",
+  "releaseYear": "2021",
+  "genre": "Battle Royale / Multiplayer Shooter / Survival",
+
+  "about": "<p>Free Fire MAX is Garena’s premium, high-definition version of the global blockbuster Free Fire — redesigned with improved graphics, advanced visual effects, smoother animations, and immersive sound design. Built for players who want the same fast, strategic gameplay but with upgraded technology, Free Fire MAX transforms the classic mobile battle royale experience with realistic textures, enhanced lighting, upgraded environment rendering, and dramatic effects during combat.</p><p>The game drops 50 players onto a tactical battleground where survival depends on quick decision-making, smart resource management, accurate shooting, and efficient rotations. Unlike heavier battle royale titles, Free Fire MAX is optimized for performance, allowing players with mid-range phones to enjoy premium visuals while maintaining excellent FPS stability. Each match lasts around 10 minutes, keeping gameplay fast, intense, and accessible for casual and competitive players alike.</p><p>One of the core strengths of Free Fire MAX lies in its flexible combat system, deep character abilities, and huge collection of weapons, attachments, utilities, and cosmetic items. With over 50+ playable characters — each with unique passive or active skills — players can create custom ability combinations called \"Skill Sets\" to tailor their combat style. Whether you prefer aggressive rush gameplay, sniping, stealth, healing support, or zone control, Free Fire MAX allows you to build your ideal character profile.</p><p>The game includes multiple modes: Battle Royale, Clash Squad, Craftland, Lone Wolf, Ranked BR, Tournament modes, and seasonal events. Its exclusive MAX graphics mode provides upgraded shadows, water reflections, fog effects, and highly detailed map enhancements. Despite these improvements, Free Fire MAX maintains compatibility with standard Free Fire servers through Garena’s \"Firelink\" technology, ensuring all players — MAX or classic — can play together without restrictions.</p><p>Free Fire MAX also offers a massive progression ecosystem including weapon mastery, rank levels, elite passes, seasonal missions, achievements, emotes, lobby animations, pet abilities, and character evolutions. Regular updates introduce new weapons, optimized aim mechanics, collaborations, esports events, and map reworks. Because of its balance of performance, visual fidelity, and competitive structure, Free Fire MAX has become a leading choice for mobile battle royale fans around the world.</p>",
+
+  "overview": "<p>Free Fire MAX builds on the foundation of the original Free Fire but enhances every aspect of gameplay. Matches begin with 50 players dropping onto maps like Bermuda, Kalahari, Nexterra, and Purgatory. After choosing a safe or hot drop location, players must gather weapons, attachments, ammo, armor, medical items, and utilities to improve their chance of survival.</p><p>Combat is short-range and mid-range focused, requiring fast reflexes, crosshair discipline, movement control, and strategic positioning. Gloo walls play a major role — they provide instant cover, enable aggressive pushes, and help players survive open-field encounters. Grenades, flashbangs, trip mines, and smoke utilities add depth to each fight.</p><p>Free Fire MAX supports custom HUD layouts, sensitivity profiles, gyro, auto-pickup settings, and aim precision tools that make the gameplay accessible to both beginners and professionals. Each map has unique terrain advantages — from tight urban zones to open deserts and futuristic arenas, encouraging dynamic rotations and creative strategies. The short match duration ensures players constantly make decisions: engage or rotate, rush or hold, push zone or gatekeep the enemies.</p>",
+
+  "story": "<p>Free Fire MAX does not follow a traditional linear story but exists within a dynamic universe centered around survival experiments designed by an organization known as FF Operations. Each map represents a battlefield simulation where operatives, warriors, and enhanced characters compete for supremacy under mysterious protocols.</p><p>Characters like Alok, K, Skyler, Steffie, Hayato, Chrono, Xayne, Wukong, and Shirou have lore connected to futuristic technology, ancient clans, cybernetic programs, and scientific enhancements. Seasonal events expand the world with new factions, futuristic technologies, and themed universes — from cyberpunk operations to desert warfare and supernatural events. While the lore remains subtle, players can uncover hidden story elements through cinematics, character bios, mission descriptions, and limited-time events.</p>",
+
+  "platforms": [
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "50-player tactical battle royale survival",
+      "Gloo wall instant cover mechanics",
+      "Unique character abilities and skill combinations",
+      "Realistic HD graphics with MAX visual enhancements",
+      "Fast-paced matches lasting 8–12 minutes",
+      "Diverse weapons with advanced attachments",
+      "Pets with combat-boosting abilities",
+      "Custom HUD, sensitivity presets, and gyroscope support",
+      "Dynamic maps with varying elevation and terrain",
+      "Clash Squad 4v4 tactical combat"
+    ],
+    "genre": [
+      "Battle Royale",
+      "Survival Shooter",
+      "Multiplayer Online"
+    ],
+    "modes": [
+      "Battle Royale",
+      "Ranked Battle Royale",
+      "Clash Squad",
+      "Ranked Clash Squad",
+      "Craftland (Custom Maps)",
+      "Lone Wolf (1v1/2v2)",
+      "Training Grounds",
+      "Tournament Events",
+      "Special Limited-Time Modes"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/2fDzCWNS3ig/maxresdefault.jpg",
+      "title": "Free Fire MAX Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/EyZp_GXvZp4/maxresdefault.jpg",
+      "title": "Free Fire MAX Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Always use gloo walls for instant cover during open-field fights.",
+    "Choose characters whose abilities match your gameplay style, such as Alok for healing or Hayato for aggressive combat.",
+    "Land in mid-loot areas for safer starts and better rotation control.",
+    "Play with a stable sensitivity setup that you don’t change frequently.",
+    "Use high-ground advantage for easier headshots and zone control.",
+    "Master MP40, M1014, and Vector for close-range rush gameplay.",
+    "Use dual gloo wall techniques to push enemies without taking damage.",
+    "Rotate early to avoid third-party ambushes in the final zone."
+  ],
+
+  "features": [
+    "Ultra HD graphics with MAX visual effects",
+    "Cross-play with Free Fire via Firelink",
+    "Massive character roster with unique abilities",
+    "Custom skill slot system for deep strategy",
+    "Variety of weapons, skins, utilities, and pets",
+    "Short and fast matches ideal for mobile gameplay",
+    "Competitive ranked ecosystem with esports events",
+    "Craftland mode for creating custom maps and arenas",
+    "Regular collaborations with global brands and celebrities",
+    "Optimized for mid-range mobile devices with stable FPS"
+  ],
+
+  "whyPlay": "Free Fire MAX delivers a high-quality, fast-paced battle royale experience with unique character abilities, beautiful HD graphics, ultra-smooth gameplay, and endless customization — making it one of the most addictive and strategic mobile shooters available.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 625 / Helio G85",
+      "RAM: 3GB",
+      "Storage: 2.5–3GB free",
+      "Android 7 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Helio G95",
+      "RAM: 4–6GB",
+      "Storage: 3GB+ free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer",
+      "iPad 6th Generation and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or newer",
+      "Smooth gameplay with HD textures enabled",
+      "Compatible with iOS 11+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Free Fire MAX free to play?",
+      "answer": "Yes, Free Fire MAX is completely free to download and play on Android and iOS devices."
+    },
+    {
+      "question": "Can Free Fire MAX players play with normal Free Fire users?",
+      "answer": "Yes. Thanks to Firelink technology, Free Fire MAX and Free Fire players share the same servers."
+    },
+    {
+      "question": "How much storage does Free Fire MAX require?",
+      "answer": "Approximately 2.5–3GB depending on device and high-resolution graphics packs."
+    },
+    {
+      "question": "Is Free Fire MAX heavier than Free Fire?",
+      "answer": "Yes, but it is still well-optimized and runs smoothly on most mid-range devices."
+    },
+    {
+      "question": "Does Free Fire MAX support controller gameplay?",
+      "answer": "Official controller support is limited, but some Bluetooth controllers may work depending on device settings."
+    }
+  ],
+
+  "thumb": "/assets/thumb/free-fire-max.webp",
+  "path": "/Game/free-fire-max.html",
+
+  "tags": [
+    "free fire",
+    "free fire max",
+    "garena",
+    "battle royale",
+    "mobile shooter",
+    "survival",
+    "clash squad",
+    "fast paced",
+    "online multiplayer"
+  ]
+}

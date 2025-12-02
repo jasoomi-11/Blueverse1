@@ -1,0 +1,134 @@
+{
+  "title": "PUBG: Battlegrounds (PC)",
+  "subtitle": "The original battle-royale phenomenon that redefined competitive tactical survival gaming.",
+  "trailer": "https://www.youtube.com/embed/u1oqfdh4xBY",
+
+  "developer": "PUBG Studios",
+  "releaseYear": "2017",
+  "genre": "Battle Royale / Tactical Shooter",
+
+  "about": "<p>PUBG: Battlegrounds PC is the game that launched a global revolution in the battle-royale genre. Built on tactical survival, strategic gunplay, and unpredictable encounters, PUBG delivers one of the most realistic combat experiences ever designed. The PC version provides the most polished, competitive, and customizable way to experience the game, thanks to high-frame-rate performance, ultra settings, mouse precision, and advanced graphics options.</p><p>Whether you're dropping solo, teaming up in duos, or coordinating squads, every match feels different because of the dynamic weather, random loot locations, expansive maps, and the thrill of outsmarting nearly 100 players. With constant updates, new maps, redesigned animations, weapon balancing, and improved anti-cheat systems, PUBG PC remains one of the most influential shooters in gaming history.</p>",
+
+  "overview": "<p>PUBG PC drops players into massive open maps where up to 100 players fight for survival using scavenged weapons, attachments, utility items, and vehicles. The core gameplay revolves around parachuting into a chosen location, looting gear as quickly as possible, and making strategic decisions as the Blue Zone shrinks, forcing players together. Unlike arcade-style shooters, PUBG rewards careful planning, positioning, and smart decision-making over raw reaction time.</p><p>The PC version offers extremely customizable graphics, advanced keybind support, enhanced recoil control through mouse accuracy, and access to experimental features through the test server. Maps like Erangel, Miramar, Taego, Vikendi, and Sanhok each offer unique terrain challenges—ranging from close-quarters villages to deserts, snowy landscapes, and dense jungles. PUBG also includes several game modes including ranked, casual, arcade TDM, training mode, and custom matches, making it a complete ecosystem for competitive and casual players alike.</p>",
+
+  "story": "<p>PUBG PC doesn’t follow a traditional single-player story, but it builds a mysterious and dark narrative across its maps, loading screens, and lore elements. The Battlegrounds islands are abandoned test locations connected to a secret organization called the \"Bluehole Society,\" which orchestrates these deadly survival battles as part of a twisted global project. Each map carries hidden clues—abandoned labs, destroyed towns, collapsed bunkers, and old military bases—hinting that players are unwilling participants in a larger experiment.</p><p>The environmental storytelling suggests that Erangel was the first battleground, a former Soviet military island used for experiments. Miramar reveals cartel wars and mass evacuations. Vikendi hides underground research labs and AI systems connected to the origins of the Blue Zones. Taego hints at escape attempts gone wrong. Although not a traditional campaign, these connected stories create an immersive universe that explains why players are repeatedly thrown into combat—for survival, entertainment, and experimentation.</p>",
+
+  "platforms": [
+    { "name": "PC", "icon": "img/pc.png", "available": true },
+    { "name": "Mobile", "icon": "img/mobile.png", "available": true },
+    { "name": "PlayStation", "icon": "img/ps.png", "available": true },
+    { "name": "Xbox", "icon": "img/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "img/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "img/cloud.png", "available": true }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Realistic recoil and ballistic bullet physics",
+      "Massive open-world maps with dynamic weather",
+      "Third-person and First-person competitive modes",
+      "Tactical looting and survival mechanics",
+      "Vehicle-based combat (cars, bikes, boats, gliders)",
+      "Armor and helmet protection system",
+      "Shrinking circle forcing strategic movement",
+      "Team coordination through advanced ping system"
+    ],
+    "genre": [
+      "Battle Royale",
+      "Survival",
+      "Tactical Shooter",
+      "Open World"
+    ],
+    "modes": [
+      "Solo",
+      "Duo",
+      "Squad (4-man)",
+      "Ranked Mode",
+      "Training Mode",
+      "Team Deathmatch (TDM)",
+      "Custom Rooms",
+      "War Mode"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/u1oqfdh4xBY/maxresdefault.jpg",
+      "title": "PUBG Official PC Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/4rG9noTfb4A/maxresdefault.jpg",
+      "title": "PUBG Gameplay Walkthrough"
+    }
+  ],
+
+  "tips": [
+    "Always land in areas with buildings for quick gear.",
+    "Use headphones—footsteps are your strongest advantage.",
+    "Stay near cover while rotating into safe zones.",
+    "Do not engage every fight—pick high-value kills only.",
+    "Use grenades for flushing out campers.",
+    "Vehicles are lifesaving in early game but risky in late game.",
+    "Control recoil by pulling down slowly with the mouse."
+  ],
+
+  "features": [
+    "Ultra-realistic gunplay physics and recoil",
+    "Open-world maps up to 8x8 km",
+    "Wide weapon variety with deep attachment system",
+    "Ranked competitive matchmaking",
+    "Vehicles, gliders and tactical equipment",
+    "Dynamic weather and day/night cycles",
+    "Fully destructible objects and tactical breakable doors",
+    "Frequent updates and anti-cheat improvements"
+  ],
+
+  "whyPlay": "PUBG PC delivers the most authentic battle-royale combat experience, offering intense survival gameplay, massive maps, realistic ballistics, tactical strategy, and competitive ranked action. For players who want pure skill-based shooting with no pay-to-win elements, PUBG PC remains the ultimate battlefield.",
+
+  "pc": {
+    "minimum": [
+      "CPU: Intel Core i5-4430 / AMD FX-6300",
+      "GPU: NVIDIA GTX 960 2GB / AMD R7 370 2GB",
+      "RAM: 8GB",
+      "Storage: 40GB Free Space",
+      "OS: Windows 10 (64-bit)"
+    ],
+    "recommended": [
+      "CPU: Intel i5-6600K / AMD Ryzen 5 1600",
+      "GPU: GTX 1060 3GB / RX 580 4GB",
+      "RAM: 16GB",
+      "Storage: SSD Strongly Recommended",
+      "OS: Windows 10/11 (64-bit)"
+    ],
+    "high": [
+      "CPU: Intel i7-10700K / Ryzen 7 3700X",
+      "GPU: RTX 3060 / RX 6700 XT",
+      "RAM: 16–32GB",
+      "Storage: NVMe SSD",
+      "OS: Windows 11 (64-bit)"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is PUBG PC free to play?",
+      "answer": "Yes. Since 2022, PUBG: Battlegrounds on PC is completely free-to-play on Steam."
+    },
+    {
+      "question": "Is PUBG PC cross-platform?",
+      "answer": "PUBG allows cross-platform play between consoles, but PC cross-play with consoles is not available."
+    },
+    {
+      "question": "How big is PUBG PC in size?",
+      "answer": "The game requires around 40–45GB depending on installed maps and updates."
+    },
+    {
+      "question": "Does PUBG PC support controllers?",
+      "answer": "Yes, PUBG PC supports Xbox and PlayStation controllers, though mouse+keyboard is recommended."
+    },
+    {
+      "question": "What are the best settings for low-end PCs?",
+      "answer": "Set textures to Medium, view distance to Medium, shadows off, anti-aliasing to Low, and use 100% render scale for stable FPS."
+    }
+  ]
+}

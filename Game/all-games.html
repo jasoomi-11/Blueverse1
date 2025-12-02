@@ -461,6 +461,133 @@ header.show { opacity: 1; transform: translateX(-50%) scale(1); }
 
 /* accessibility focus */
 .pill:focus, .card:focus { outline: 2px solid rgba(0,234,255,0.12); outline-offset:2px; }
+
+
+
+
+  :root{
+    --bv-bg:#071030;           /* page background (if needed) */
+    --bv-breadcrumb-bg:#071428; /* breadcrumb background */
+    --bv-accent:#1e90ff;      /* bright blue accent */
+    --bv-text:#e6f0ff;        /* main text color */
+    --bv-muted:#98a8c7;       /* muted text */
+    --bv-sep: rgba(255,255,255,0.06);
+    --bv-radius:10px;
+    --bv-padding:10px 14px;
+  }
+
+/* Breadcrumb Container */
+.game-breadcrumb {
+  background: linear-gradient(180deg, rgba(6, 20, 48, 0.65), rgba(4, 12, 32, 0.5));
+  border: 1px solid var(--bv-sep);
+  color: var(--bv-text);
+  padding: 8px 12px;
+  border-radius: var(--bv-radius);
+  display: inline-block;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  box-shadow: 0 6px 24px rgba(3, 12, 40, 0.45);
+}
+
+/* List styling */
+.game-breadcrumb ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto;
+  font-size: 14px;
+  line-height: 1;
+}
+
+/* Items */
+.game-breadcrumb li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--bv-muted);
+}
+
+/* Active/Last item */
+.game-breadcrumb li:last-child {
+  color: var(--bv-text);
+  font-weight: 600;
+}
+
+/* Links */
+.game-breadcrumb a {
+  color: var(--bv-accent);
+  text-decoration: none;
+  padding: 4px 6px;
+  border-radius: 6px;
+  transition: all 0.16s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.game-breadcrumb a:hover,
+.game-breadcrumb a:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(30, 144, 255, 0.12);
+  outline: none;
+  color: #cfe9ff;
+}
+
+/* Separator */
+.game-breadcrumb li + li::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 8px solid rgba(255, 255, 255, 0.06);
+  transform: rotate(90deg);
+  margin-right: -2px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 640px) {
+  .game-breadcrumb {
+    padding: 8px;
+    border-radius: 8px;
+  }
+  .game-breadcrumb ol {
+    gap: 8px;
+    font-size: 13px;
+  }
+  .game-breadcrumb li + li::before {
+    border-top-width: 6px;
+    transform: rotate(90deg) translateY(1px);
+  }
+}
+
+/* Compact version (optional) */
+.game-breadcrumb.compact {
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.game-breadcrumb.compact a {
+  padding: 3px 6px;
+}
+
+/* Focus accessibility */
+.game-breadcrumb a:focus-visible {
+  box-shadow: 0 0 0 3px rgba(30, 144, 255, 0.14);
+  border-radius: 6px;
+}
+
+
+
+
+
+
+
 </style>
 </head>
 <body>
@@ -499,6 +626,14 @@ header.show { opacity: 1; transform: translateX(-50%) scale(1); }
     </div>
    
   </section>
+
+<div class="game-breadcrumb" id="game-breadcrumb"></div>
+
+
+
+
+
+
 
   <div class="filters-wrap" aria-hidden="false">
     <div class="filter-pills" id="filterPills" role="tablist" aria-label="Platform filters">
@@ -735,5 +870,37 @@ document.addEventListener('keyup', (e) => {
   if(e.key === 'Escape') closeMenu();
 });
 </script>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const box = document.getElementById("game-breadcrumb");
+  if (!box) return;
+
+  const ol = document.createElement("ol");
+
+  // 1. Home
+  ol.innerHTML += `
+    <li><a href="/">Home</a></li>
+  `;
+
+  // 2. Games (Active)
+  ol.innerHTML += `
+    <li>Games</li>
+  `;
+
+  const wrapper = document.createElement("nav");
+  wrapper.className = "game-breadcrumb";
+  wrapper.appendChild(ol);
+
+  box.appendChild(wrapper);
+});
+</script>
+
+
+
+
 </body>
 </html>
