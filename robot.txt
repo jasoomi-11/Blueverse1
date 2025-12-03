@@ -4,11 +4,4 @@ Disallow: /admin/
 Disallow: /private/
 Disallow: /temp/
 
-# Main sitemap
-Sitemap: https://blueverse.space/sitemap.xml
-
-# Additional sitemaps
-Sitemap: https://blueverse.space/sitemap_main.xml
-Sitemap: https://blueverse.space/sitemap_Game.xml
-
-Sitemap: https://blueverse.space/sitemap_movies.xml
+Sitemap: https://blueverse.space/sitemap-index.xml

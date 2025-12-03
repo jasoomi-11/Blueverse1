@@ -1,0 +1,152 @@
+{
+  "title": "Minecraft Mobile",
+  "subtitle": "Survive, build, explore, and create in the world’s most iconic sandbox game — optimized for mobile with cross-play, infinite worlds, and endless creativity.",
+  "trailer": "https://www.youtube.com/embed/MmB9b5njVbA",
+  
+  
+  
+  
+  
+  
+  
+  
+
+  "developer": "Mojang Studios",
+  "releaseYear": "2011",
+  "genre": "Sandbox / Survival / Adventure / Creative Building",
+
+  "about": "<p>Minecraft Mobile (Bedrock Edition) is the official portable version of the world’s most popular sandbox survival game. Designed for Android and iOS, this edition offers infinite worlds, smoother performance, full cross-play, and an optimized touch-based interface — allowing players to experience the true Minecraft universe anywhere.</p><p>Whether you want to build massive cities, survive deadly nights, experiment with redstone, explore caves, or create custom worlds, Minecraft Mobile provides all the tools you need. With frequent updates, biome expansions, new mobs, and seasonal events, the mobile edition continues to evolve with the same features and mechanics available on modern consoles and Windows 10/11.</p><p>The Bedrock engine ensures stable gameplay, faster loading, higher render distances (depending on device), and access to exclusive content through the Minecraft Marketplace. Players can purchase skins, texture packs, mash-up worlds, and community-made maps while enjoying the full freedom to craft their own adventures.</p>",
+
+  "overview": "<p>Minecraft Mobile allows players to choose between two main gameplay paths: Survival and Creative. In Survival mode, players must gather resources, craft tools, build shelter, and defend themselves from hostile mobs like zombies, skeletons, creepers, and Endermen. Hunger, health, exploration, and combat create a balanced survival experience.</p><p>In Creative mode, all blocks and items are available without restrictions. Players can build anything — from redstone farms to giant pixel art, skyscrapers, automated factories, or detailed medieval kingdoms. Mobile users enjoy smooth touch controls, adjustable UI scaling, and support for external controllers.</p><p>Exploration is core to Minecraft. Players can travel across biomes including deserts, forests, oceans, jungles, snowy mountains, badlands, lush caves, cherry groves, deep dark biomes, the Nether dimension, and the End dimension where the mighty Ender Dragon resides.</p>",
+
+  "story": "<p>Minecraft does not follow a fixed linear storyline. Instead, players create their own progression path through exploration, crafting, mob battles, and personal builds. The closest thing to a main story is the adventure leading to the End dimension, where the Ender Dragon serves as the game’s ultimate boss.</p><p>The world is filled with subtle lore: ancient ruins, portals, villages, strongholds, deep dark cities created by ancient civilizations, and mysterious mobs like Endermen and Wardens. Minecraft’s story is intentionally open-ended — encouraging players to interpret the world and create their own narratives.</p>",
+
+  "platforms": [
+    { "name": "Mobile (Android)", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Mobile (iOS)", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Windows 10/11 (Bedrock)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": true },
+    { "name": "Java Edition (Not Mobile)", "icon": "/assets/icons/pc.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Infinite open-world sandbox exploration",
+      "Crafting, resource gathering, and survival management",
+      "Building with over 1000+ unique blocks",
+      "Redstone engineering for automation",
+      "Day-night survival cycle",
+      "Farming, mining, enchanting, and brewing",
+      "Trading system with villagers",
+      "Combat against mobs and bosses",
+      "Cross-play multiplayer support",
+      "Customizable UI and touch controls"
+    ],
+    "genre": [
+      "Sandbox",
+      "Survival Adventure",
+      "Creative Building"
+    ],
+    "modes": [
+      "Survival Mode",
+      "Creative Mode",
+      "Adventure Mode",
+      "Spectator Mode",
+      "Multiplayer Servers",
+      "Realms (Private Worlds)",
+      "Marketplace Worlds",
+      "Hardcore Mode (Not officially on mobile)"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/0qg3zrZp2Mw/maxresdefault.jpg",
+      "title": "Minecraft Official Mobile Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/NqXZnlhD1ec/maxresdefault.jpg",
+      "title": "Minecraft Bedrock Edition Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Start by collecting wood, crafting tools, and building a small shelter before nightfall.",
+    "Always carry a water bucket for emergencies like fall damage or lava.",
+    "Use a shield — it's one of the strongest defensive items in the game.",
+    "Mine at level -59 for the best diamond yield.",
+    "Tame animals like wolves and cats to help with combat and creeper defense.",
+    "Build a simple iron farm early for long-term resource efficiency.",
+    "Use beds to set spawn points and safely explore new areas.",
+    "Explore villages early to gather loot and begin trading."
+  ],
+
+  "features": [
+    "Infinite worlds with massive biomes",
+    "Cross-platform play across mobile, consoles, and Windows",
+    "Marketplace with maps, skins, and worlds",
+    "Regular updates adding mobs, blocks, and biomes",
+    "Co-op multiplayer, servers, and Realms",
+    "High-performance Bedrock engine optimized for mobile",
+    "Redstone automation, command blocks, and creative tools",
+    "Touch, controller, and keyboard support",
+    "Customizable UI, sensitivity, and control layout",
+    "Survival, creative, and multiplayer gameplay"
+  ],
+
+  "whyPlay": "Minecraft Mobile gives players the complete sandbox survival experience in their pocket — from building giant worlds to exploring caves, battling mobs, creating farms, or designing entire redstone-powered cities. Seamless cross-play, infinite creativity, and constant updates make it one of the most rewarding mobile games ever created.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 450 / Helio P22",
+      "RAM: 2GB",
+      "Storage: 1.5GB free",
+      "Android 5.0 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Helio G95",
+      "RAM: 4GB+",
+      "Storage: 2GB+ free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6s and newer",
+      "iPad 5th Generation and newer",
+      "iPad Mini 4+",
+      "iPad Air 2+"
+    ],
+    "performance": [
+      "Smooth 60 FPS on A11 Bionic or newer",
+      "Higher render distance supported on newer iPads",
+      "Compatible with iOS 10+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Minecraft Mobile the same as Bedrock Edition?",
+      "answer": "Yes. Minecraft Mobile is part of the Bedrock Edition family and shares full compatibility with consoles and Windows 10/11."
+    },
+    {
+      "question": "Can mobile players play with PC and console players?",
+      "answer": "Yes. Minecraft Mobile supports complete cross-play with Xbox, PlayStation, Switch, and Windows Bedrock."
+    },
+    {
+      "question": "Does Minecraft Mobile support addons?",
+      "answer": "Yes, you can install resource packs, behavior packs, and add-ons directly from the Marketplace or third-party creators."
+    },
+    {
+      "question": "Is Minecraft free on mobile?",
+      "answer": "No. Minecraft Mobile is a paid game, but it offers unlimited gameplay without subscriptions."
+    },
+    {
+      "question": "Does Minecraft Mobile support controllers?",
+      "answer": "Yes. Bluetooth controllers work perfectly with the mobile version."
+    }
+  ]
+}

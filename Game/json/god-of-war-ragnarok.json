@@ -1,0 +1,134 @@
+{
+"title": "God of War Ragnarök (Console Edition)",
+"subtitle": "The award-winning action-adventure epic — fully optimized for PlayStation consoles with breathtaking visuals, cinematic combat, and a mythic Norse storyline.",
+"trailer": "https://www.youtube.com/embed/EE-4GvjKcfs",
+
+"developer": "Santa Monica Studio",
+"releaseYear": "2022",
+"genre": "Action Adventure / Story-Driven Combat",
+
+"about": "<p>God of War Ragnarök is the direct sequel to the 2018 Game of the Year, continuing Kratos and Atreus’ journey through the Nine Realms as they face the coming of Ragnarök — a prophecy that threatens to destroy gods, realms, and everything in between. Built exclusively for PlayStation consoles, the game delivers a cinematic narrative, refined combat, next-gen visuals, and some of the most detailed environments ever created in a console title.</p><p>Ragnarök massively upgrades the previous game's systems with smoother combat flow, dual-wielding moves, elemental attacks, improved shield variations, richer enemy variety, and more dynamic boss encounters. The level design is deeper, offering semi-open world exploration, hidden paths, collectible lore, puzzles, and realm-specific challenges. The game is optimized for PS5 with 4K resolution, 60FPS performance modes, near-instant loading, and advanced haptic feedback through the DualSense controller.</p><p>Beyond visuals and combat, the story takes a mature, emotional approach — exploring fate, family, destiny, and the struggles of gods who must confront their past. Every realm feels alive with new creatures, NPCs, side quests, and breathtaking landscapes. Whether battling through the frozen wilderness of Midgard or exploring the volcanic terrains of Muspelheim, Ragnarök blends cinematic storytelling with world-class gameplay.</p>",
+
+"overview": "<p>God of War Ragnarök balances intense action with narrative depth. Players switch between Kratos and Atreus in key story segments, each offering distinct abilities and combat styles. The Leviathan Axe returns with powerful ice-based attacks, the Blades of Chaos offer high-mobility combos, and new weapons, shields, and abilities enhance both offensive and defensive strategies.</p><p>Exploration is richer than ever, featuring large hubs, boat and sled traversal, hidden realms, treasure maps, crafting, armor upgrades, skill trees, and optional bosses. Every realm features unique environmental puzzles rooted in Norse mythology. Combat is tighter, faster, and more responsive — rewarding timing, positioning, and mastery of multiple weapon styles.</p><p>With upgraded performance on PS5, God of War Ragnarök is one of the most polished console experiences available, offering detailed character models, next-gen lighting, volumetric effects, and immersive audio with 3D spatial sound.</p>",
+
+"story": "<p>Ragnarök follows Kratos and Atreus' struggle to understand the prophecy surrounding Atreus — the boy destined to become Loki — while dealing with the rising threat of Odin and Thor. The Nine Realms are collapsing as Fimbulwinter begins, causing chaos across the Norse world. As father and son face dangerous gods, ancient beasts, and the truth of their fate, the story evolves into a powerful journey about family, choices, and breaking the cycle of destruction. The narrative unfolds through cinematic cutscenes, environmental storytelling, and dialogue that adapts dynamically as players explore.</p>",
+
+"platforms": [
+{ "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+{ "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+{ "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+{ "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+],
+
+"gameplay": {
+"mechanics": [
+"Leviathan Axe and Blades of Chaos combat",
+"Elemental abilities and weapon infusions",
+"DualSense adaptive triggers and haptics",
+"Shields with unique playstyles",
+"Cinematic boss battles",
+"Skill trees and customizable armor",
+"Semi-open world exploration"
+],
+"genre": [
+"Action Adventure",
+"Story-Driven",
+"Combat Focused"
+],
+"modes": [
+"Main Story Campaign",
+"Side Quests (Favors)",
+"Arena Challenges",
+"Training Arena"
+]
+},
+
+"gameplayTrailers": [
+{
+"thumb": "https://img.youtube.com/vi/EE-4GvjKcfs/maxresdefault.jpg",
+"title": "God of War Ragnarök – Official Trailer"
+},
+{
+"thumb": "https://img.youtube.com/vi/0taY9G4uB3g/maxresdefault.jpg",
+"title": "God of War Ragnarök – Combat & Enemies Trailer"
+}
+],
+
+"tips": [
+"Upgrade your armor and weapons regularly instead of hoarding resources.",
+"Use parries and shield abilities to break enemy defenses.",
+"Switch between the Axe and Blades mid-fight to exploit enemy weaknesses.",
+"Explore each realm fully — many hidden paths contain major upgrades.",
+"Use Atreus’ abilities to control crowds and disrupt enemies.",
+"Learn enemy attack patterns, especially during boss encounters.",
+"Use Runic Attacks strategically instead of spamming."
+],
+
+"features": [
+"4K and 60FPS performance modes on PS5",
+"Adaptive triggers and haptic feedback",
+"Huge semi-open realms with deep exploration",
+"Massive enemy and boss variety",
+"Emotional story with high-end cinematics",
+"Armor sets, enchantments, runic attacks",
+"Multiple accessibility and difficulty options"
+],
+
+"whyPlay": "God of War Ragnarök delivers one of the most cinematic, emotional, and finely polished action-adventure experiences ever made — with incredible combat, unforgettable storytelling, and next-gen console performance.",
+
+"playstation": {
+"ps4": [
+"1080p 30FPS target",
+"Good performance with occasional dips",
+"Longer loading times compared to PS5",
+"Requires 80–90GB storage"
+],
+"ps4pro": [
+"Up to 1440p resolution",
+"Smoother performance",
+"Enhanced visual clarity"
+],
+"ps5": [
+"4K resolution modes",
+"60FPS performance mode",
+"Ultra-fast SSD loading",
+"Full DualSense haptics and triggers",
+"High-resolution textures and lighting"
+]
+},
+
+"other": {
+"xbox": [
+"Not available on Xbox platforms"
+],
+"switch": [
+"Not available on Nintendo Switch"
+],
+"cloud": [
+"Not available on cloud platforms"
+]
+},
+
+"faqs": [
+{
+"question": "Is God of War Ragnarök available on Xbox?",
+"answer": "No, the game is exclusive to PlayStation consoles."
+},
+{
+"question": "Is there a free upgrade from PS4 to PS5?",
+"answer": "Yes, Sony offers a paid upgrade path from PS4 to PS5 for a small fee."
+},
+{
+"question": "How long is God of War Ragnarök?",
+"answer": "The main story takes around 25–30 hours, while 100% completion can exceed 60 hours."
+},
+{
+"question": "Does Ragnarök have New Game Plus?",
+"answer": "Yes, New Game Plus was added with new armor sets, enchantments, and higher difficulty scaling."
+},
+{
+"question": "Is the game open world?",
+"answer": "Not fully open-world, but it features large semi-open regions with deep exploration and side quests."
+}
+]
+}

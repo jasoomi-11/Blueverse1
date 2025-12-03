@@ -1,0 +1,146 @@
+{
+  "title": "Candy Crush Saga",
+  "subtitle": "Match-3 puzzle adventure featuring hundreds of colorful levels, strategic power-ups, and addictive gameplay enjoyed by millions worldwide.",
+  "trailer": "https://www.youtube.com/embed/gJjCGmMkAIw",
+
+
+
+
+
+
+
+
+  "developer": "King",
+  "releaseYear": "2012",
+  "genre": "Puzzle / Match-3 / Casual",
+
+  "about": "<p>Candy Crush Saga is one of the world’s most popular match-3 puzzle games, developed by King and played by millions every day. Known for its bright visuals, satisfying combos, and endless level updates, the game delivers simple but deeply addictive gameplay. With thousands of handcrafted levels, unique tile mechanics, and rewarding progression, Candy Crush Saga remains one of the top-grossing mobile games more than a decade after its launch.</p><p>The gameplay revolves around matching three or more candies to clear obstacles, activate boosters, and complete stage objectives. Each level feels unique thanks to a combination of blockers, special candies, explosive chain reactions, and mission-based goals. Players progress through a colorful world map, unlocking new chapters, episodes, and challenges. Frequent events, daily boosters, and leaderboard competitions keep the experience fresh and engaging for both new and returning players.</p><p>Candy Crush Saga is designed for all ages, requiring no fast reflexes or complex mechanics. Instead, the challenge comes from strategic thinking, move planning, and smart booster usage. As you progress, new candy types, blockers, and multi-layer puzzles introduce deeper strategy. Whether you enjoy quick, casual sessions or long puzzle marathons, Candy Crush Saga offers endless entertainment.</p>",
+
+  "overview": "<p>Each level in Candy Crush Saga presents a different puzzle with its own rules, layout, and objectives. Some levels require clearing jelly, others demand collecting cherries, breaking blockers, or reaching a target score before running out of moves. Matching more than three candies produces special candies — striped, wrapped, and color bombs — which create powerful board-clearing effects.</p><p>Players can combine special candies to create chain reactions, unlock tricky spaces, and solve difficult boards with fewer moves. Boosters like the Lollipop Hammer, Switch Hand, and Jelly Fish provide extra help on challenging stages. The game is updated weekly with new levels and time-limited events, making the world of Candy Crush continuously expand.</p><p>The difficulty gradually increases, encouraging players to think critically, plan ahead, and use boosters wisely. Social features allow players to send lives, compete on leaderboards, and track progress with friends across platforms.</p>",
+
+  "story": "<p>Candy Crush Saga does not follow a traditional story but takes place in the whimsical Candy Kingdom. Players accompany Tiffi and other charming characters as they travel through sweet-themed lands, solving puzzles and helping residents overcome light-hearted challenges. Each new episode introduces themed environments and fun mini-narratives that add charm and personality to the game without disrupting the gameplay flow.</p>",
+
+  "platforms": [
+    { "name": "PC (Browser/Windows Store)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Match-3 puzzle gameplay",
+      "Special candies like striped, wrapped, and color bombs",
+      "Chain reactions and combo effects",
+      "Blockers such as chocolate, licorice, and frosting",
+      "Move-based puzzle solving",
+      "Daily rewards and event boosters",
+      "Life system with social sharing",
+      "Level objectives such as clearing jelly and collecting ingredients",
+      "Progressive difficulty curve",
+      "Weekly new level additions"
+    ],
+    "genre": [
+      "Puzzle",
+      "Match-3",
+      "Casual"
+    ],
+    "modes": [
+      "Classic Saga Levels",
+      "Episode Challenges",
+      "Daily Booster Wheel",
+      "Timed Events",
+      "Seasonal Challenges",
+      "Leaderboard Competitions"
+    ]
+  },
+
+"gameplayTrailers": [
+  {
+    "thumb": "https://img.youtube.com/vi/9N8oeegbeFM/maxresdefault.jpg",
+    "title": "Candy Crush Saga Trailer 1"
+  },
+  {
+    "thumb": "https://img.youtube.com/vi/4pHewQ_ZEMQ/maxresdefault.jpg",
+    "title": "Candy Crush Saga Trailer 2"
+  }
+],
+
+  "tips": [
+    "Start matches from the bottom to trigger natural cascades.",
+    "Save boosters for extremely difficult levels rather than early-game stages.",
+    "Combine special candies for maximum board-clearing effects.",
+    "Check objectives before making your first move to avoid wasted turns.",
+    "Focus on clearing blockers early to open up the board.",
+    "Avoid using moves on corners unless necessary — they’re harder to clear.",
+    "Use color bombs strategically to remove dangerous candy colors.",
+    "Log in daily to collect free boosters and event bonuses."
+  ],
+
+  "features": [
+    "Thousands of handcrafted levels with weekly new content",
+    "Match-3 gameplay with unique combos and mechanics",
+    "Colorful worlds, characters, and animations",
+    "Special events, tournaments, and time-limited challenges",
+    "Boosters and power-ups for tough levels",
+    "Offline play support for mobile devices",
+    "Sync progress across devices through Facebook or King account",
+    "Relaxing sound effects and visually appealing UI",
+    "No time pressure on most levels — play at your own pace",
+    "Highly optimized for all mobile devices"
+  ],
+
+  "whyPlay": "Candy Crush Saga is perfect for players who love strategic puzzle-solving, relaxing gameplay, and endless levels. With its colorful visuals, satisfying combos, frequent updates, and balanced difficulty, it remains one of the most engaging and accessible match-3 puzzle games ever created.",
+
+  "android": {
+    "minimum": [
+      "Android 5.0 or above",
+      "RAM: 2GB",
+      "Storage: 500MB free"
+    ],
+    "recommended": [
+      "Android 10+",
+      "RAM: 3GB or higher",
+      "Storage: 1GB+ free"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6 and newer",
+      "iPad 5th Gen and newer",
+      "iPad Mini 4+",
+      "iPad Air 2+"
+    ],
+    "performance": [
+      "Smooth 60 FPS on A10 Fusion or newer",
+      "Fast load times with optimized animations",
+      "Compatible with iOS 11+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Candy Crush Saga free to play?",
+      "answer": "Yes, Candy Crush Saga is free, but optional in-app purchases are available for boosters and extra lives."
+    },
+    {
+      "question": "How many levels are in Candy Crush Saga?",
+      "answer": "Candy Crush Saga has thousands of levels, with new levels added every week."
+    },
+    {
+      "question": "Can I play Candy Crush offline?",
+      "answer": "Yes, you can play levels offline, but events and lives require an internet connection."
+    },
+    {
+      "question": "Does Candy Crush Saga support cloud save?",
+      "answer": "Yes, you can sync progress via Facebook or a King account."
+    },
+    {
+      "question": "Is Candy Crush safe for kids?",
+      "answer": "Yes, it is kid-friendly and does not contain harmful content."
+    }
+  ]
+}

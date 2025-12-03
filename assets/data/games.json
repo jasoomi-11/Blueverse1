@@ -77,6 +77,310 @@
   ],
   "thumb": "/assets/thumb/pubg-pc.webp",
   "path": "/Game/pubg-pc.html"
+},
+{
+  "title": "PUBG: Battlegrounds (Console)",
+  "slug": "pubg-console",
+  "badge": "Battle Royale | Tactical Shooter",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X|S"
+  ],
+  "developer": "PUBG Studios",
+  "tags": [
+    "pubg",
+    "pubg console",
+    "pubg ps4",
+    "pubg ps5",
+    "pubg xbox",
+    "pubg battlegrounds",
+    "battle royale",
+    "shooter",
+    "tactical shooter",
+    "console gaming",
+    "online multiplayer",
+    "survival game"
+  ],
+  "thumb": "/assets/thumb/pubg-pc.webp",
+  "path": "/Game/pubg-console.html"
+},
+{
+  "title": "Call of Duty: Mobile",
+  "slug": "call-of-duty-mobile",
+  "badge": "FPS | Battle Royale | Multiplayer Shooter",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "TiMi Studio Group / Activision",
+  "tags": [
+    "call of duty",
+    "cod mobile",
+    "call of duty mobile",
+    "codm",
+    "mobile fps",
+    "battle royale",
+    "multiplayer shooter",
+    "activision",
+    "timi studio",
+    "online multiplayer",
+    "survival shooter"
+  ],
+  "thumb": "/assets/thumb/call-of-duty-mobile.webp",
+  "path": "/Game/call-of-duty-mobile.html"
+},
+{
+  "title": "Genshin Impact",
+  "slug": "genshin-impact",
+  "badge": "Action RPG | Open World | Adventure",
+  "platforms": [
+    "Android",
+    "iOS",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Windows"
+  ],
+  "developer": "HoYoverse (miHoYo)",
+  "tags": [
+    "genshin impact",
+    "genshin",
+    "hoyoverse",
+    "mihoyo",
+    "anime rpg",
+    "open world",
+    "action rpg",
+    "gacha game",
+    "fantasy adventure",
+    "mobile rpg",
+    "pc rpg",
+    "ps5 rpg"
+  ],
+  "thumb": "/assets/thumb/genshin-impact.webp",
+  "path": "/Game/genshin-impact.html"
+},
+{
+  "title": "Roblox",
+  "slug": "roblox",
+  "badge": "User-Generated Games | Sandbox | Online Multiplayer",
+  "platforms": [
+    "Android",
+    "iOS",
+    "Windows",
+    "macOS",
+    "Xbox One",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "developer": "Roblox Corporation",
+  "tags": [
+    "roblox",
+    "roblox game",
+    "roblox mobile",
+    "roblox pc",
+    "roblox ps5",
+    "roblox xbox",
+    "ugc games",
+    "sandbox",
+    "multiplayer",
+    "online games",
+    "user generated games",
+    "metaverse"
+  ],
+  "thumb": "/assets/thumb/roblox.webp",
+  "path": "/Game/roblox.html"
+},
+{
+  "title": "Clash Royale",
+  "slug": "clash-royale",
+  "badge": "Strategy | Real-Time PvP | Card Battle",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Supercell",
+  "tags": [
+    "clash royale",
+    "cr",
+    "supercell",
+    "strategy game",
+    "real time pvp",
+    "card battle",
+    "mobile esports",
+    "tower defense",
+    "arena battles",
+    "multiplayer strategy",
+    "clash universe"
+  ],
+  "thumb": "/assets/thumb/clash-royale.webp",
+  "path": "/Game/clash-royale.html"
+},
+{
+  "title": "Clash of Clans",
+  "slug": "clash-of-clans",
+  "badge": "Strategy | Base Building | Multiplayer",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Supercell",
+  "tags": [
+    "clash of clans",
+    "coc",
+    "supercell",
+    "strategy game",
+    "base building",
+    "village defense",
+    "clan wars",
+    "multiplayer strategy",
+    "mobile game",
+    "clash universe",
+    "builder base",
+    "town hall upgrade"
+  ],
+  "thumb": "/assets/thumb/clash-of-clans.webp",
+  "path": "/Game/clash-of-clans.html"
+},
+
+{
+  "title": "Candy Crush Saga",
+  "slug": "candy-crush-saga",
+  "badge": "Puzzle | Match-3 | Casual",
+  "platforms": [
+    "Android",
+    "iOS",
+    "Windows (Microsoft Store)",
+    "macOS",
+    "Facebook Web"
+  ],
+  "developer": "King",
+  "tags": [
+    "candy crush saga",
+    "candy crush",
+    "match 3",
+    "puzzle game",
+    "casual game",
+    "king games",
+    "mobile puzzle",
+    "facebook games",
+    "level based game",
+    "tile matching",
+    "free to play"
+  ],
+  "thumb": "/assets/thumb/candy-crush-saga.webp",
+  "path": "/Game/candy-crush-saga.html"
+},
+{
+  "title": "Minecraft",
+  "slug": "minecraft",
+  "badge": "Sandbox | Survival | Open World",
+  "platforms": [
+    "Android",
+    "iOS"
+   
+  ],
+  "developer": "Mojang Studios",
+  "tags": [
+    "minecraft",
+    "minecraft mobile",
+    "minecraft java",
+    "minecraft bedrock",
+    "sandbox game",
+    "open world",
+    "survival game",
+    "crafting game",
+    "building game",
+    "mojang",
+    "block game",
+    "multiplayer survival",
+    "creative mode",
+    "adventure mode"
+  ],
+  "thumb": "/assets/thumb/minecraft.webp",
+  "path": "/Game/minecraft.html"
+},
+
+{
+  "title": "Honor of Kings",
+  "slug": "honor-of-kings",
+  "badge": "MOBA | 5v5 Multiplayer | Strategy",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "TiMi Studio Group (Tencent Games)",
+  "tags": [
+    "honor of kings",
+    "hok",
+    "tencent games",
+    "moba",
+    "5v5 multiplayer",
+    "strategy game",
+    "mobile moba",
+    "arena battle",
+    "team fight",
+    "lane strategy",
+    "competitive mobile game",
+    "hero abilities",
+    "esports"
+  ],
+  "thumb": "/assets/thumb/honor-of-kings.webp",
+  "path": "/Game/honor-of-kings.html"
+},
+{
+  "title": "God of War Ragnarök",
+  "slug": "god-of-war-ragnarok",
+  "badge": "Action Adventure | Story-Driven | Norse Mythology",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "developer": "Santa Monica Studio",
+  "tags": [
+    "god of war ragnarok",
+    "gow ragnarok",
+    "kratos",
+    "atreus",
+    "playstation exclusive",
+    "action adventure",
+    "story driven game",
+    "norse mythology",
+    "ps5 game",
+    "ps4 game",
+    "ragnarok",
+    "santa monica studio",
+    "single player"
+  ],
+  "thumb": "/assets/thumb/god-of-war-ragnarok.webp",
+  "path": "/Game/god-of-war-ragnarok.html"
+},
+{
+  "title": "God of War (2018)",
+  "slug": "god-of-war-2018",
+  "badge": "Action Adventure | Story-Driven | Norse Mythology",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5 (Enhanced Mode)"
+  ],
+  "developer": "Santa Monica Studio",
+  "tags": [
+    "god of war 2018",
+    "gow 2018",
+    "kratos",
+    "atreus",
+    "playstation exclusive",
+    "action adventure",
+    "story driven game",
+    "norse mythology",
+    "ps4 game",
+    "ps5 enhanced",
+    "santa monica studio",
+    "single player"
+  ],
+  "thumb": "/assets/thumb/god-of-war-2018.webp",
+  "path": "/Game/god-of-war-2018.html"
 }
 
 

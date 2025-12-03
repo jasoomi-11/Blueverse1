@@ -1,0 +1,163 @@
+{
+  "title": "Call of Duty: Mobile",
+  "subtitle": "High-quality FPS action featuring classic maps, legendary weapons, competitive multiplayer modes, and immersive battle royale gameplay.",
+  "trailer": "https://www.youtube.com/embed/Vh8mDVkSg6E",
+
+
+
+
+
+
+
+
+
+  "developer": "TiMi Studio Group (Tencent)",
+  "publisher": "Activision",
+  "releaseYear": "2019",
+  "genre": "FPS / Multiplayer Shooter / Battle Royale / Tactical Action",
+
+  "about": "<p>Call of Duty: Mobile (CODM) is one of the most polished, content-rich, and advanced mobile FPS titles ever created. Developed by TiMi Studio Group and published by Activision, the game brings the iconic Call of Duty experience — classic maps, fast-paced gunplay, realistic weapons, operator abilities, and large-scale battle royale — into an optimized mobile format. Since its launch, CODM has grown into a global competitive phenomenon with millions of active players, ranked leagues, esports tournaments, and seasonal updates that continuously add fresh content.</p><p>The game's biggest strength is its ability to combine classic Call of Duty multiplayer with a huge battle royale mode in a single package. Multiplayer includes fan-favorite maps like Nuketown, Firing Range, Hijacked, Raid, Standoff, Summit, Crossfire, Rust, and Terminal. Each map features distinct tactical flow, high-ground positions, choke points, and long-range or close-range engagements. CODM's gunplay is extremely satisfying — recoil feels realistic, attachments matter, and every weapon class (AR, SMG, LMG, Sniper, Shotgun, Marksman) has unique roles, strengths, and advantages.</p><p>Battle Royale in CODM is a full-scale tactical survival experience featuring massive open terrains, vehicles, zip lines, upgrade terminals, revive systems, class abilities, and dynamic combat. Players can choose specialized BR classes like Scout, Clown, Ninja, Defender, Medic, Poltergeist, Trickster, or Mechanic. Each class brings unique abilities that improve mobility, scanning, stealth, healing, or defensive playstyle. The flexibility and variety of classes allow players to build strategies for solo, duo, or squad BR matches.</p><p>CODM includes an impressive selection of modes: Team Deathmatch, Domination, Search & Destroy, Kill Confirmed, Hardpoint, Gunfight, Free-for-All, Cranked, Prop Hunt, 10v10, Ground War, and seasonal modes like Alcatraz BR, Gungame, or Snipers Only. Ranked modes offer a highly competitive environment where players fight through tiers from Rookie to Legendary.</p><p>The game's progression system is massive. It includes weapon leveling, attachments, skins, operator skill upgrades, camos (Gold, Platinum, Damascus, Diamond), blueprints, lucky draws, bundles, battle passes, events, and missions. CODM also introduces new mythic and legendary guns that feature unique kill effects, custom animations, tracer rounds, and upgraded sound effects. The amount of customization available makes every loadout truly unique.</p><p>CODM’s seasonal updates are among the biggest in mobile gaming. Each season introduces a new theme, maps, legendary characters, mythic weapons, game modes, events, and UI or gameplay improvements. Collaborations with Call of Duty franchises — like Modern Warfare, Black Ops, and Warzone — bring iconic characters such as Ghost, Soap, Price, Alex, Gaz, Mara, Wraith, Roze, and Adler to the mobile platform.</p><p>Thanks to excellent optimization, CODM runs smoothly on mid-range devices and reaches extremely high performance on flagship phones. High frame rate modes (up to 120 FPS), advanced graphic rendering, dynamic shadows, depth of field, and improved character models make CODM one of the best-looking shooters on mobile.</p><p>From casual fun to high-level competition, the game offers something for every type of player — whether you enjoy fast-paced multiplayer, tactical BR survival, precision sniping, or grinding camos and seasonal missions. CODM’s combination of tight gunplay, iconic maps, massive content, and constant updates makes it one of the most complete mobile shooters ever released.</p>",
+
+  "overview": "<p>Call of Duty: Mobile combines classic COD Multiplayer with a full Battle Royale mode. Matches in multiplayer are fast-paced, lasting 4 to 7 minutes, while Battle Royale games last 12 to 20 minutes depending on mode and map. Multiplayer emphasizes quick reflexes, aim control, movement, and map knowledge. BR emphasizes survival, rotations, scanning, team coordination, and class-based abilities.</p><p>Players can build custom loadouts consisting of primary weapons, secondary weapons, operator skills, lethal equipment, tactical equipment, perks, and attachments. This allows players to tailor their perfect playstyle — whether rushing with an SMG, holding angles with an AR, or picking long-range battles with sniper rifles.</p><p>Battle Royale features large open maps like Isolated and Blackout, with vehicles such as motorcycles, ATVs, helicopters, and trucks. BR gameplay is more tactical, requiring players to manage resources, armor plates, heals, ammo, and class abilities. Upgrading class chips gives you improved powers, whether stealth, scanning, or mobility-based.</p>",
+
+  "story": "<p>Call of Duty: Mobile does not follow a fixed linear campaign but takes place in a combined universe inspired by Modern Warfare, Black Ops, and Warzone. Operators like Ghost, Price, Soap, Wraith, Nikto, Krueger, Firebreak, Reznov, and Outrider are part of the CODM storyline, which expands through comic-style cutscenes and seasonal missions.</p><p>The narrative often revolves around Task Force 141, Atlas Corporation, UAC, Five Knights, and rogue agents like Hidora Kai or Templar. Seasonal stories explore infiltration, espionage, futuristic warfare, advanced weapons, cybernetic experiments, and global conflicts. The lore evolves through new seasons, bringing fresh characters, events, and cinematic moments.</p>",
+
+  "platforms": [
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Fast-paced 5v5 multiplayer action",
+      "Battle Royale with class abilities",
+      "Legendary and mythic weapon blueprints",
+      "Precise recoil and realistic weapon control",
+      "High FPS support for smoother gameplay",
+      "Scorestreak and operator skill system",
+      "Iconic maps from COD history",
+      "Huge weapon attachment customization",
+      "Seasonal missions and events",
+      "Detailed camo grinding and mastery progression"
+    ],
+    "genre": [
+      "FPS",
+      "Battle Royale",
+      "Multiplayer Shooter",
+      "Tactical Action"
+    ],
+    "modes": [
+      "Team Deathmatch",
+      "Search & Destroy",
+      "Domination",
+      "Hardpoint",
+      "Kill Confirmed",
+      "Gunfight",
+      "Free for All",
+      "Ground War",
+      "10v10 Multiplayer",
+      "Battle Royale (Isolated)",
+      "Battle Royale (Blackout)",
+      "Alcatraz BR",
+      "Ranked Multiplayer",
+      "Ranked Battle Royale",
+      "Snipers Only",
+      "Prop Hunt",
+      "Cranked",
+      "Seasonal Limited-Time Modes"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/BrHfjLlpF7Y/maxresdefault.jpg",
+      "title": "COD Mobile Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/m3vD1I36G_c/maxresdefault.jpg",
+      "title": "COD Mobile Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Use sensitivity settings that match your device and playstyle — consistency matters more than high sensitivity.",
+    "Master one or two weapons per class instead of switching too often.",
+    "Learn map callouts and high-traffic areas for better positioning.",
+    "Use operator skills wisely in ranked to turn fights in your favor.",
+    "In BR, always upgrade your class chip early for maximum advantage.",
+    "Use cover, head glitches, and movement tech for gunfights.",
+    "In multiplayer, rotate frequently and avoid staying in predictable spots.",
+    "Control recoil by pulling down and mastering burst fire for long-range shots."
+  ],
+
+  "features": [
+    "Iconic Call of Duty maps and operators",
+    "Battle Royale with class abilities and vehicles",
+    "Legendary and Mythic weapon blueprints",
+    "Seasonal battle passes and missions",
+    "High FPS support on compatible devices",
+    "Dozens of multiplayer and BR modes",
+    "Deep weapon customization with attachments",
+    "Huge collection of skins, emotes, and characters",
+    "Competitive ranked system with global leaderboards",
+    "Regular collaborations with COD MW, BO, and Warzone"
+  ],
+
+  "whyPlay": "COD Mobile delivers the authentic Call of Duty experience with world-class FPS gameplay, stunning graphics, iconic maps, competitive modes, and endless customization — making it one of the best and most complete mobile shooters ever built.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 625 / Helio G80",
+      "RAM: 3GB",
+      "Storage: 3GB–4GB free",
+      "Android 6 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Snapdragon 855 / Dimensity 900+",
+      "RAM: 4–6GB",
+      "Storage: 4GB+ free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer",
+      "iPad 6th Gen or newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60–120 FPS on A12 Bionic or newer",
+      "Smooth gameplay with very high graphics",
+      "Compatible with iOS 11+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Call of Duty: Mobile free to play?",
+      "answer": "Yes, COD Mobile is completely free to download and play on Android and iOS."
+    },
+    {
+      "question": "Does COD Mobile support controllers?",
+      "answer": "Yes, CODM supports Bluetooth controllers for multiplayer and BR."
+    },
+    {
+      "question": "How much storage does COD Mobile require?",
+      "answer": "Around 3GB–4GB depending on HD resources and map downloads."
+    },
+    {
+      "question": "Can I play COD Mobile on PC?",
+      "answer": "Yes, CODM can be played on PC using official Android emulators like GameLoop."
+    },
+    {
+      "question": "Does COD Mobile have cross-play?",
+      "answer": "COD Mobile supports mobile-to-mobile cross-play but not console cross-play."
+    }
+  ]
+}

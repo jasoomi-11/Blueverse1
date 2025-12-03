@@ -140,20 +140,7 @@
       "question": "Does Free Fire MAX support controller gameplay?",
       "answer": "Official controller support is limited, but some Bluetooth controllers may work depending on device settings."
     }
-  ],
-
-  "thumb": "/assets/thumb/free-fire-max.webp",
-  "path": "/Game/free-fire-max.html",
-
-  "tags": [
-    "free fire",
-    "free fire max",
-    "garena",
-    "battle royale",
-    "mobile shooter",
-    "survival",
-    "clash squad",
-    "fast paced",
-    "online multiplayer"
   ]
+
+
 }

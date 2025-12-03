@@ -1,0 +1,152 @@
+{
+  "title": "Honor of Kings",
+  "subtitle": "The world’s most-played 5v5 mobile MOBA — featuring tactical team battles, diverse heroes, and fast high-skill combat.",
+  "trailer": "https://www.youtube.com/embed/gONX1LzZMXw",
+
+
+
+
+
+
+
+
+
+
+  "developer": "TiMi Studio Group (Tencent Games)",
+  "releaseYear": "2015 (Global Release 2024)",
+  "genre": "MOBA / Multiplayer / 5v5 Team Strategy",
+
+  "about": "<p>Honor of Kings is the world’s most-played mobile MOBA, refined over years of competitive balancing, hero reworks, and esports-level optimization. Developed by TiMi Studio Group, the same team behind COD Mobile and Pokémon Unite, the game delivers fast 5v5 combat, deep hero mastery, and strategic teamwork designed specifically for mobile performance.</p><p>Each match takes place on the classic three-lane battlefield featuring lanes, towers, jungle areas, buffs, vision points, and powerful epic monsters. Players choose from over 60+ unique heroes — each with signature abilities, combos, and tactical roles such as Assassin, Mage, Tank, Marksman, Fighter, and Support.</p><p>The game emphasizes fast-paced battles, smooth controls, clear skill indicators, and deep macro strategies like rotations, lane pressure, jungle control, ambushes, and objective prioritization. With optimized matchmaking, low-latency servers, and global esports support, Honor of Kings provides a highly competitive yet beginner-friendly experience.</p><p>Thanks to its lightweight engine and performance optimization, the game runs smoothly even on mid-range phones, maintaining stable frame rates during team fights, skill animations, and large-scale objectives. Its rapid matchmaking, short match durations, and rewarding progression system make it ideal for both casual players and professional teams seeking a true MOBA challenge.</p>",
+
+  "overview": "<p>Honor of Kings follows a classic MOBA structure with streamlined, mobile-friendly mechanics. Two teams of five battle to destroy the enemy’s crystal core while defending their own base. Heroes gain gold and experience by clearing minions, defeating jungle monsters, destroying towers, and winning skirmishes.</p><p>Strategy plays a major role: proper laning, jungle timing, buff management, ganking, team communication, item builds, and hero synergy determine victory. Every hero has a defined role and optimal playstyle, encouraging teamwork and coordinated rotations.</p><p>The game includes multiple maps, ranked play, seasonal updates, hero balancing, and tactical modes that give players new ways to challenge themselves.</p>",
+
+  "story": "<p>Honor of Kings is set in the mystical world of the <strong>King Continent</strong>, inspired by Chinese mythology, fantasy kingdoms, legendary warriors, and ancient civilizations. Each hero belongs to unique factions such as the Eternal Legion, Shadow Tribe, Celestial Court, and Dragon Realm.</p><p>Hero lore connects through cinematic events, limited-time story modes, character bios, and evolving universe expansions. The world blends magic, martial arts, spiritual energy, and fantasy technology into a dynamic battlefield where legendary heroes fight for honor, balance, and destiny.</p>",
+
+  "platforms": [
+    { "name": "Mobile (Android & iOS)", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "5v5 classic MOBA team battles",
+      "Three-lane map with towers, buffs, and jungle camps",
+      "Epic monsters including Tyrant, Overlord, and Dark Slayer",
+      "60+ unique heroes with deep mastery and combos",
+      "Fast-paced matches averaging 12–18 minutes",
+      "Smooth tap-and-drag controls optimized for mobile",
+      "Vision control and fog of war mechanics",
+      "Strategic team fights requiring coordination and roles",
+      "Ranked ladder with competitive tiers",
+      "Continuous hero balance updates and esports integration"
+    ],
+    "genre": [
+      "MOBA",
+      "Multiplayer Online Battle Arena",
+      "Strategy",
+      "Team-Based Action"
+    ],
+    "modes": [
+      "Classic 5v5",
+      "Ranked Matchmaking",
+      "Solo or Duo Ranked Queue",
+      "3v3 Skirmish Mode",
+      "AI Training",
+      "Custom Rooms",
+      "Seasonal Events and Limited-Time Modes"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/4-rPj-7ZVAI/maxresdefault.jpg",
+      "title": "Honor of Kings Global Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/o8rV5Xyv9-k/maxresdefault.jpg",
+      "title": "Honor of Kings Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Always draft a balanced team with Tank, Mage, Marksman, Support, and Assassin.",
+    "Control jungle buffs to gain an early gold and XP advantage.",
+    "Use bushes for ambushes and surprise attacks.",
+    "Rotate to mid-lane after clearing your wave for instant pressure.",
+    "Secure Tyrant for early buffs and Dark Slayer for late-game dominance.",
+    "Focus on objectives, not kills — towers win games.",
+    "Stick with your team during late-game fights.",
+    "Buy items according to enemy heroes, not just your role."
+  ],
+
+  "features": [
+    "Esports-grade 5v5 MOBA gameplay",
+    "Fast 12–18 minute matches",
+    "Global servers with low-latency matchmaking",
+    "Massive hero roster with unique abilities",
+    "Optimized for all mobile devices",
+    "High-skill competitive ranked mode",
+    "Epic monsters and multi-objective combat strategy",
+    "Seasonal updates, hero skins, and events",
+    "Beginner-friendly tutorials and practice challenges",
+    "Smooth animations and clean UI for mobile gameplay"
+  ],
+
+  "whyPlay": "Honor of Kings offers the most polished mobile MOBA experience — deep strategy, fast team battles, high-quality heroes, and smooth controls. Whether you're a beginner or a competitive player, the game delivers unmatched team combat and esports-level excitement.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 625 / Kirin 710",
+      "RAM: 2–3GB",
+      "Storage: 4GB free",
+      "Android 6.0+"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Dimensity 900",
+      "RAM: 4–6GB",
+      "Storage: 4–6GB free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer",
+      "iPad 6th Gen and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or newer",
+      "High graphics mode available on modern iOS devices",
+      "Compatible with iOS 11+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Honor of Kings free to play?",
+      "answer": "Yes. The game is completely free with optional cosmetic purchases."
+    },
+    {
+      "question": "Does Honor of Kings support cross-play?",
+      "answer": "Yes, all global players share the same matchmaking system on Android and iOS."
+    },
+    {
+      "question": "How large is Honor of Kings?",
+      "answer": "The game requires around 3.5–4.5GB depending on region and high-resolution packs."
+    },
+    {
+      "question": "Is it different from Arena of Valor?",
+      "answer": "Yes. Arena of Valor is a western adaptation, while Honor of Kings is the main global version with updated content."
+    },
+    {
+      "question": "Is Honor of Kings available on PC?",
+      "answer": "Officially no, but it can be played via Android emulators on PC."
+    }
+  ]
+}

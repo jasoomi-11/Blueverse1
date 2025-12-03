@@ -1,0 +1,143 @@
+{
+  "title": "Roblox",
+  "subtitle": "A massive online platform where millions of user-created worlds, games, and experiences come together — offering creativity, social gameplay, and endless community-driven entertainment.",
+  "trailer": "https://www.youtube.com/embed/6E5m7DH5MFY",
+
+  "developer": "Roblox Corporation",
+  "releaseYear": "2006",
+  "genre": "User-Generated Games / Sandbox / Online Multiplayer",
+
+  "about": "<p>Roblox is one of the world’s largest online gaming platforms, offering millions of community-created experiences that span every genre imaginable — from open-world adventures and racing games to roleplay worlds, shooters, simulators, and competitive challenges. Instead of being a single game, Roblox is a full ecosystem where developers and players come together to create, play, and socialize. It is available on mobile, PC, console, and tablets with complete cross-play, allowing players worldwide to interact seamlessly.</p><p>What makes Roblox stand out is its massive variety of experiences built by independent creators using Roblox Studio, the platform’s powerful development tool. This ecosystem allows developers to design entire universes with unique mechanics, game currencies, social systems, cosmetics, vehicles, quests, and custom physics. The result is an ever-expanding catalog of worlds with millions of active players daily.</p><p>Roblox is home to some of the most popular online games today, including <strong>Brookhaven RP</strong>, <strong>Adopt Me!</strong>, <strong>Blox Fruits</strong>, <strong>Pet Simulator X</strong>, <strong>Murder Mystery 2</strong>, <strong>Arsenal</strong>, <strong>Tower of Hell</strong>, and <strong>Doors</strong>. Each experience has its own gameplay style, progression system, in-game economy, and community. Thanks to regular updates, seasonal events, and limited-time items, these worlds stay active, fresh, and engaging for players of all ages.</p><p>The platform is designed to encourage creativity. Players can customize their avatars with thousands of outfits, accessories, animations, and emotes. Many items are part of the Roblox marketplace economy, where creators can earn real money through the Developer Exchange (DevEx) program.</p><p>Popular Roblox experiences include:</p><ul><li><strong>Brookhaven RP</strong>: A social open-world city roleplay with houses, vehicles, jobs, and community interaction.</li><li><strong>Blox Fruits</strong>: A combat-focused adventure inspired by anime, where players train, fight bosses, explore islands, and unlock special abilities.</li><li><strong>Adopt Me!</strong>: A family and pet-focused roleplay world featuring pet collection, trading, and seasonal events.</li><li><strong>Murder Mystery 2</strong>: A classic social deduction game where players become Innocents, Sheriffs, or Murderers in thrilling rounds.</li><li><strong>Doors</strong>: A horror-puzzle experience with unique monsters, creative level design, and atmospheric storytelling.</li><li><strong>Tower of Hell</strong>: A competitive obby (parkour challenge) with randomly generated towers and no checkpoints.</li></ul><p>Roblox is continuously evolving, with new engine updates, realistic lighting, smooth controls, physics improvements, and massive live events featuring global brands, music artists, and franchises. Because Roblox is both a creation tool and a gaming platform, its content library grows daily — making it one of the most replayable and community-driven experiences ever built.</p>",
+
+  "overview": "<p>Roblox offers an enormous collection of experiences across every category: action, adventure, roleplay, horror, simulation, anime, tycoon, FPS, racing, educational, and creative worlds. Each experience is built using Roblox Studio, which allows developers to create custom maps, scripts, UI, events, quests, AI systems, and multiplayer interactions.</p><p>Gameplay varies completely depending on which experience players choose. For example, <strong>Brookhaven RP</strong> focuses on social life and exploration, while <strong>Blox Fruits</strong> offers a structured RPG journey. <strong>Arsenal</strong> provides a fast-paced multiplayer FPS, whereas <strong>Tower of Hell</strong> challenges players with precision-based parkour skills. This flexibility makes Roblox suitable for all playstyles — casual, competitive, creative, and social.</p><p>Players can join servers instantly, customize their avatars, chat with friends, buy items from the marketplace, complete missions, participate in trading systems, or join private servers for smoother gameplay. The platform supports cross-platform play across PC, Mobile, Xbox, and soon PlayStation — meaning all players share the same worlds and experiences.</p>",
+
+  "story": "<p>Roblox does not follow a traditional storyline because it is a platform filled with millions of user-made worlds. Each game, however, often carries its own narrative. For example, <strong>Doors</strong> features a mysterious hotel filled with lore-rich monsters, while <strong>Blox Fruits</strong> follows a progression journey inspired by anime adventures. Several experiences expand their stories through quests, updates, cinematics, and community events. Since creators constantly release new experiences, Roblox’s universe continues to evolve without a fixed beginning or end.</p>",
+
+  "platforms": [
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": true },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Massive library of community-created worlds",
+      "Cross-platform multiplayer across Mobile, PC, and Xbox",
+      "Avatar customization with skins, clothes, animations, and accessories",
+      "Experience-specific mechanics such as racing, combat, building, and roleplay",
+      "Roblox Studio creation tools for developers",
+      "Trading systems in certain experiences",
+      "Custom scripts, physics, events, and in-game economies",
+      "Social hubs, chat features, private servers, and friend systems",
+      "Real-time updates from developers",
+      "Unlimited genres including horror, FPS, RPG, adventure, and simulators"
+    ],
+    "genre": [
+      "Sandbox",
+      "Online Multiplayer",
+      "User-Generated Games"
+    ],
+    "modes": [
+      "Multiplayer Experiences",
+      "Roleplay Worlds",
+      "Adventure Maps",
+      "Competitive Challenges",
+      "Creative Building",
+      "Horror and Puzzle Modes",
+      "FPS and PvP Arenas",
+      "Live Events and Limited-Time Modes"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/6E5m7DH5MFY/maxresdefault.jpg",
+      "title": "Roblox – What Is Roblox?"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/N-SQkKQi3Zc/maxresdefault.jpg",
+      "title": "Roblox Gameplay Compilation"
+    }
+  ],
+
+  "tips": [
+    "Choose experiences that match your playstyle — adventure, roleplay, horror, or action.",
+    "Customize your avatar for better expression and social interaction.",
+    "Use private servers for lag-free gameplay in competitive experiences.",
+    "Follow your favorite developers to get updates on new events.",
+    "In trading experiences, learn item values before making deals.",
+    "Use Roblox Studio if you want to start creating your own games.",
+    "Enable secure account settings and parental controls if needed.",
+    "Check trending experiences weekly to discover new, popular worlds."
+  ],
+
+  "features": [
+    "Millions of player-created games and worlds",
+    "Cross-platform support: PC, Mobile, Xbox",
+    "Full avatar customization with marketplace items",
+    "Regular events, collaborations, and seasonal updates",
+    "Roblox Studio for game creation",
+    "User-driven economy with in-game purchases",
+    "Multiplayer social systems and chat",
+    "Huge variety of genres and playstyles",
+    "Community-driven content updates",
+    "Live concerts, brand events, and global partnerships"
+  ],
+
+  "whyPlay": "Roblox delivers unlimited gameplay variety with millions of unique experiences, cross-platform support, avatar customization, and one of the world’s largest gaming communities — making it the most creative and diverse online gaming platform available.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 660 / Helio G70",
+      "RAM: 3GB",
+      "Storage: 2GB free",
+      "Android 7.0 or higher"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 732G / Dimensity 800",
+      "RAM: 4–6GB",
+      "Storage: 3GB+ free",
+      "Android 11+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6S and newer",
+      "iPad 5th Gen and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "60 FPS supported on A12 and newer chips",
+      "Smooth experience on iOS 12+",
+      "Optimized rendering for most devices"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Roblox free to play?",
+      "answer": "Yes, Roblox is completely free. However, some experiences offer optional in-game purchases using Robux."
+    },
+    {
+      "question": "Are all Roblox versions the same?",
+      "answer": "Yes, gameplay and experiences are shared across platforms like Mobile, PC, and Xbox, with full cross-play support."
+    },
+    {
+      "question": "Does Roblox have a story?",
+      "answer": "Roblox itself has no fixed story, but each experience may include its own lore, missions, and narrative elements."
+    },
+    {
+      "question": "Can I create my own game on Roblox?",
+      "answer": "Yes. Using Roblox Studio, anyone can create games and even earn real money through the Developer Exchange (DevEx) program."
+    },
+    {
+      "question": "Is Roblox safe for younger audiences?",
+      "answer": "Roblox includes chat filters, privacy tools, and parental controls. Safety depends on device settings and supervision."
+    }
+  ]
+}

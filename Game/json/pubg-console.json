@@ -1,0 +1,147 @@
+{
+  "title": "PUBG: Battlegrounds (Console Edition)",
+  "subtitle": "The original Battle Royale experience — optimized for PlayStation and Xbox consoles with tactical gameplay and massive open-world maps.",
+  "trailer": "https://www.youtube.com/embed/QtfM1DDywEs",
+
+
+
+
+
+
+
+
+  "developer": "Krafton",
+  "releaseYear": "2018",
+  "genre": "Battle Royale / Tactical Shooter",
+
+  "about": "<p>PUBG: Battlegrounds Console Edition brings the world-famous tactical battle royale gameplay to PlayStation and Xbox platforms with a fully optimized experience built for controllers, cross-platform competition, and smooth performance across all major console generations. Unlike arcade-style shooters, PUBG on consoles focuses on realism, tension, and survival strategy. Every bullet drop, sound cue, footstep, and quick decision can change the outcome of a fight. Players land on massive maps—each with unique terrain, loot paths, and combat pacing—and must survive against up to 99 other players while scavenging weapons, armor, healing items, and tactical gear.</p><p>The console version has matured significantly since its first launch. Originally starting with a rough performance profile, PUBG Console today delivers a refined gameplay experience with better frame rates, cleaner visuals, improved aim assist systems, enhanced input response, redesigned UI for controllers, and full cross-play between PlayStation and Xbox players. Whether you're on PS4, PS5, Xbox One, or Series X/S, the game dynamically adjusts visuals and performance so matches stay smooth even during high-intensity firefights.</p><p>PUBG Console emphasizes decision-making and map knowledge more than pure aim. Landmark positioning, circle rotation, vehicle control, and stealth versus aggression decisions shape every round. Whether you're fighting in the open fields of Erangel, the lush greenery of Sanhok, or the burning deserts of Miramar, each environment challenges players in new ways. The game also features dedicated training modes, weapon mastery progression, seasonal updates, live events, and ranked playlists designed specifically for console players.</p>",
+
+  "overview": "<p>PUBG on consoles is built to provide a balanced mix of realism, strategy, and skill-based combat. Every match begins with players parachuting to their preferred landing spot. From abandoned towns to military bases, every location has different risks and rewards. Loot is randomized but strategically placed in a way that rewards high-risk, high-reward locations.</p><p>The shooting system uses realistic recoil patterns, bullet physics, zeroing distances, and sound propagation, encouraging players to master weapon control and situational awareness. Vehicles such as dirt bikes, UAZ jeeps, buggies, and pickup trucks play a major role in rotations, especially on larger maps like Erangel and Miramar. Unlike fast-paced battle royale games where gunfights occur constantly, PUBG rewards patience—choosing when to engage and when to rotate is often more important than rushing.</p><p>Console players also benefit from updated aim assist options, improved sensitivity sliders, gyro aiming on newer consoles, customizable button layouts, and performance enhancements including faster loading times on next-gen hardware. With a huge map pool, dynamic weather, destructible environments, throwable tacticals, drones, tactical gear, and dozens of weapons, PUBG remains one of the deepest and most tactical battle royale games available.</p>",
+
+  "story": "<p>PUBG does not follow a traditional campaign or story mode. Instead, the narrative is built around the idea of players being placed into abandoned, mysterious battlegrounds created by a powerful organization known as the \"Tizarro Corporation.\" Each map has environmental storytelling, such as crashed planes, decayed cities, abandoned labs, and secret underground bunkers. These locations hint at experiments, conflicts, and survival events that took place long before players arrived. While the story remains subtle and fragmented, it adds depth to the world and gives each battleground its own unique identity.</p>",
+
+  "platforms": [
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": true }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Realistic ballistics and recoil",
+      "Sound-driven tactical awareness",
+      "Massive open-world battlegrounds",
+      "Weapon attachments and customization",
+      "Stealth, rotations, and smart positioning",
+      "Vehicles for fast movement and flanking",
+      "High-skill aiming and recoil control"
+    ],
+    "genre": [
+      "Battle Royale",
+      "Shooter",
+      "Tactical"
+    ],
+    "modes": [
+      "Solo",
+      "Duo",
+      "Squad (4 players)",
+      "Ranked Mode",
+      "Arcade Mode",
+      "Training Grounds"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/4rG9noTfb4A/maxresdefault.jpg",
+      "title": "PUBG Console – Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/6hH87Xc71yA/maxresdefault.jpg",
+      "title": "PUBG Next-Gen Console Update Trailer"
+    }
+  ],
+
+  "tips": [
+    "Use first-circle time to gather meds and attachments.",
+    "Rotate early to avoid late-game chaos.",
+    "Use vehicles for fast repositioning but ditch them before endgame.",
+    "Never stand still during long-range fights.",
+    "Master 3–4 primary guns rather than all weapons.",
+    "Control recoil using burst fire or tap-shooting.",
+    "Listen for footsteps, vehicles, reloads, and suppressed shots."
+  ],
+
+  "features": [
+    "Cross-platform play between PlayStation and Xbox",
+    "Huge map pool with unique terrains",
+    "4K 60FPS support on PS5 and Xbox Series X",
+    "Realistic weapons and tactical gear",
+    "Team-based squad gameplay",
+    "Seasonal ranked play and rewards",
+    "Destructible objects and interactive environments"
+  ],
+
+  "whyPlay": "PUBG Console delivers one of the most strategic and realistic battle royale experiences ever created, with deep gunplay, massive maps, and intense moments that reward skill, patience, and smart decision-making.",
+
+  "playstation": {
+    "ps4": [
+      "1080p @ 30 FPS",
+      "Variable performance in large fights",
+      "Motion blur and shadows optimized",
+      "45–50GB storage required"
+    ],
+    "ps4pro": [
+      "1440p upscaled resolution",
+      "Improved texture loading",
+      "Higher frame stability"
+    ],
+    "ps5": [
+      "4K upscaled resolution",
+      "60 FPS performance mode",
+      "Fast loading through SSD",
+      "Reduced input latency"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Xbox One: 1080p 30FPS",
+      "Xbox One X: 1440p 40–60FPS",
+      "Xbox Series S: 1440p 60FPS",
+      "Xbox Series X: Native 4K 60FPS, fastest loading"
+    ],
+    "switch": [
+      "Not available on Nintendo Switch"
+    ],
+    "cloud": [
+      "Supported on GeForce NOW",
+      "Supported on Xbox Cloud Gaming",
+      "Minimum 20 Mbps recommended for stable play"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is PUBG Console free to play?",
+      "answer": "Yes, PUBG became completely free-to-play on consoles in 2022."
+    },
+    {
+      "question": "Does PUBG Console support cross-play?",
+      "answer": "Yes, PlayStation and Xbox players can play together in all modes."
+    },
+    {
+      "question": "Can console players use keyboard and mouse?",
+      "answer": "Officially, PUBG only supports controllers on consoles."
+    },
+    {
+      "question": "Does PUBG run at 60 FPS on console?",
+      "answer": "PS5, Xbox Series X, and Series S can run the game in 60 FPS mode."
+    },
+    {
+      "question": "How much storage does PUBG require?",
+      "answer": "PUBG requires around 45–50GB depending on patches and updates."
+    }
+  ]
+}
