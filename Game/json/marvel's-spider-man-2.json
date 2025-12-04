@@ -1,0 +1,128 @@
+{
+  "title": "Marvel's Spider-Man 2 – PlayStation 5 Exclusive",
+  "subtitle": "Peter Parker aur Miles Morales ek saath — Insomniac Games ka most advanced superhero experience with web-wings, symbiote powers, dual campaigns & next-gen visuals.",
+  "trailer": "https://www.youtube.com/embed/9fVYKsEmuRo",
+
+  "developer": "Insomniac Games",
+  "releaseYear": "2023 (PS5 Exclusive)",
+  "genre": "Action / Open World / Superhero",
+
+  "about": "<p>Marvel's Spider-Man 2 PS5 ka full next-gen superhero adventure hai jahan Peter Parker aur Miles Morales dono playable characters hain. Game me Venom, Kraven, Lizard aur Symbiote storyline ko cinematic style me dikhaya gaya hai.</p><p>PS5 ki power se world ka scale, web-swinging speed, combat fluidity aur visual effects dramatic level tak improve kiye gaye hain. Near-instant fast travel, haptic feedback, advanced web-wings aur new symbiote abilities isko franchise ka best entry banati hain.</p>",
+
+  "overview": "<p>Spider-Man 2 ek open-world superhero game hai jisme high-speed traversal, dual character switching, enhanced combat aur cinematic boss battles shamil hain. Web-Wings city traversal ko extremely fast aur smooth banate hain, aur Symbiote powers combat ko aggressive aur powerful feel deti hain.</p><p>Dual narrative structure Peter aur Miles ki personal life aur responsibilities ko highlight karta hai — ek darker, emotional aur mature tone ke saath.</p>",
+
+  "story": "<p>Game New York City me set hai jahan Peter aur Miles dono ko ek naye nightmare ka samna karna padta hai — Symbiote ka rise. Kraven hunters ki invasion, Dr. Connors ka Lizard form, aur Venom ka arrival story ko intense aur unpredictable banata hai.</p><p>Narrative friendship, responsibility aur sacrifice ke themes explore karta hai jahan dono Spider-Men ko apni limits tak push kiya jata hai.</p>",
+
+  "platforms": [
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Web-Wings high-speed traversal",
+      "Dual character switching (Peter & Miles)",
+      "Symbiote combat abilities",
+      "New chain finishers",
+      "Stealth improvements",
+      "Open-world dynamic events",
+      "Cinematic boss fights"
+    ],
+    "genre": [
+      "Action Adventure",
+      "Open World",
+      "Superhero"
+    ],
+    "modes": [
+      "Main Story Campaign",
+      "Side Missions",
+      "Open World Activities"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/9fVYKsEmuRo/maxresdefault.jpg",
+      "title": "Marvel's Spider-Man 2 – Official Gameplay Reveal",
+      "url": "https://youtu.be/9fVYKsEmuRo"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/ulderTtPTOQ/maxresdefault.jpg",
+      "title": "PS5 Web-Wing Traversal Showcase",
+      "url": "https://youtu.be/ulderTtPTOQ"
+    }
+  ],
+
+  "tips": [
+    "Web-Wings ko upgrades ke saath use karna high-speed traversal ke liye best hai.",
+    "Symbiote abilities aggressive fights me massive damage deti hain.",
+    "Miles ke venom powers boss fights me huge openings create karte hain.",
+    "City activities complete karke suits aur upgrades jaldi unlock hotay hain.",
+    "Fast travel PS5 SSD ki wajah se instant hai — map traversal time bacha lo."
+  ],
+
+  "features": [
+    "PS5 exclusive next-gen rendering",
+    "Instant fast travel",
+    "Ray-traced lighting on by default",
+    "Web-Wings traversal",
+    "Dual Spider-Men switching",
+    "Symbiote ability system",
+    "Massive open-world NYC upgrade"
+  ],
+
+  "whyPlay": "Agar aapko superhero games pasand hain, Spider-Man 2 PS5 ka benchmark title hai — stunning visuals, aggressive symbiote combat, insane traversal speed aur dual character storytelling ke sath.",
+
+  "playstation": {
+    "ps4": [
+      "Not available — PS5 exclusive"
+    ],
+    "ps4pro": [
+      "Not available — PS5 exclusive"
+    ],
+    "ps5": [
+      "Ray tracing on by default",
+      "Instant fast travel",
+      "4K/Performance Modes",
+      "Haptic feedback & adaptive triggers",
+      "Ultra-fast city traversal"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Not available on Xbox"
+    ],
+    "switch": [
+      "Not available on Nintendo Switch"
+    ],
+    "cloud": [
+      "Officially not available on cloud platforms"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Spider-Man 2 kis platform par available hai?",
+      "answer": "Sirf PlayStation 5 par available hai — it's a PS5 exclusive."
+    },
+    {
+      "question": "Kya game me Peter aur Miles dono playable hain?",
+      "answer": "Haan, game dual-character switching support karta hai."
+    },
+    {
+      "question": "Kya Symbiote suit gameplay ko change karta hai?",
+      "answer": "Bilkul — Symbiote combat zyada aggressive, fast aur powerful ho jata hai."
+    },
+    {
+      "question": "Kya game open world hai?",
+      "answer": "Haan, New York City fully open-world hai with dynamic events."
+    },
+    {
+      "question": "Kya Spider-Man 2 PS4 par chalega?",
+      "answer": "Nahi, yeh sirf PS5 ke liye exclusive hai."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "God of War III Remastered – Console Edition",
+  "subtitle": "The legendary finale of Kratos’ Greek saga — remastered in stunning HD with smoother framerates, enhanced lighting, and reworked textures for a modern PlayStation experience.",
+  "trailer": "https://www.youtube.com/embed/qKogMfIAAkY",
+
+
+
+
+
+
+
+
+  "developer": "Santa Monica Studio",
+  "releaseYear": "2015 (Remastered) — Original 2010",
+  "genre": "Action / Hack & Slash / Boss-Focused Combat",
+
+  "about": "<p>God of War III Remastered delivers the final chapter of Kratos’ brutal Greek-era journey, rebuilt for modern PlayStation hardware. Featuring upgraded textures, improved lighting, and a smooth 60FPS option on PS5 through backward compatibility, this remaster enhances the scale and intensity of one of PlayStation’s most iconic action games.</p><p>The game follows Kratos as he climbs Mount Olympus to take revenge on the gods, unleashing chaos across massive cinematic set-pieces. From battling giant titans to facing mythical beasts and gods, every moment is crafted to feel larger-than-life.</p><p>This version keeps the original combat feel alive — fast, aggressive, combo-heavy — but polished visuals and stable performance make it the definitive way to experience God of War III today.</p>",
+
+  "overview": "<p>God of War III Remastered brings classic hack-and-slash gameplay with modern enhancements. The Blades of Exile return as Kratos' primary weapons, offering fast combos, crowd control, and devastating magic abilities. The game is filled with huge boss encounters, cinematic platforming, puzzles, and brutal enemy waves.</p><p>Thanks to the remaster, textures look sharper, cutscenes run in HD, and the lighting system is significantly improved, making environments like Olympus, Hades, and the Labyrinth more visually striking.</p><p>It's a short but powerful experience — designed around high-intensity action, epic storytelling, and unforgettable boss fights.</p>",
+
+  "story": "<p>Set immediately after the events of God of War II, Kratos rides on the Titan Gaia toward Mount Olympus to destroy Zeus and the remaining gods. The journey is fueled by betrayal, vengeance, and Kratos’ refusal to accept his fate. As the world collapses around him, he faces gods, titans, spirits, and ancient trials that push him to the edge.</p><p>The narrative closes the Greek saga, revealing the consequences of Kratos' rage and the truth behind his path to redemption.</p>",
+
+  "platforms": [
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Fast-paced hack & slash combat",
+      "Blades of Exile weapon system",
+      "Magic abilities and combat upgrades",
+      "Cinematic boss encounters",
+      "Environmental puzzles and platforming",
+      "Large-scale Titan battles",
+      "Quick-time events for finishing moves"
+    ],
+    "genre": [
+      "Hack & Slash",
+      "Action Combat",
+      "Mythology-Based Adventure"
+    ],
+    "modes": [
+      "Main Story Campaign",
+      "Challenges of Olympus",
+      "Arena Combat Mode (PS4 Remastered)"
+    ]
+  },
+
+"gameplayTrailers": [
+  {
+    "thumb": "https://img.youtube.com/vi/q4gOX19kZhU/maxresdefault.jpg",
+    "title": "God of War III Remastered – Official Trailer",
+    "url": "https://youtu.be/q4gOX19kZhU?si=Vazr92pusgRp5KRY"
+  },
+  {
+    "thumb": "https://img.youtube.com/vi/WiVk9EKdjq4/maxresdefault.jpg",
+    "title": "God of War III – Gameplay Showcase",
+    "url": "https://youtu.be/WiVk9EKdjq4?si=uTKbc_1O24_HyHiT"
+  }
+],
+
+  "tips": [
+    "Always upgrade the Blades of Exile early for better combos.",
+    "Use magic abilities to control large enemy waves during difficult encounters.",
+    "Learn timing for QTE finishers — they deal massive damage.",
+    "Explore every corner to collect Gorgon Eyes and Phoenix Feathers.",
+    "Use grab attacks on weaker enemies to stay safe during hectic fights.",
+    "Save Rage of Sparta for boss fights or heavy enemy rooms."
+  ],
+
+  "features": [
+    "60FPS gameplay on PS5 (via backward compatibility)",
+    "High-resolution texture improvements",
+    "Enhanced lighting and shadows",
+    "Massive Titan-scale action sequences",
+    "Brutal combat and cinematic finishers",
+    "Challenges of Olympus mode",
+    "Remastered cutscenes and character models"
+  ],
+
+  "whyPlay": "God of War III Remastered is the ultimate version of Kratos’ legendary Greek saga finale — offering massive boss fights, iconic action, and a polished visual upgrade that makes the experience feel modern and epic.",
+
+  "playstation": {
+    "ps4": [
+      "1080p resolution upgrade",
+      "Improved textures and lighting",
+      "Smoother performance",
+      "40–50GB storage required"
+    ],
+    "ps4pro": [
+      "Sharper image clarity",
+      "More stable framerate",
+      "Improved visual effects rendering"
+    ],
+    "ps5": [
+      "60FPS smooth gameplay",
+      "Fast loading through SSD",
+      "Enhanced visuals through system-level upscaling",
+      "Better stability and performance"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Not available on Xbox platforms"
+    ],
+    "switch": [
+      "Not available on Nintendo Switch"
+    ],
+    "cloud": [
+      "Not officially available on cloud services"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is God of War III Remastered available on PS5?",
+      "answer": "Yes, it is playable on PS5 through backward compatibility with smoother performance and stable 60FPS."
+    },
+    {
+      "question": "Is the Remastered version different from the original?",
+      "answer": "Yes, it includes improved textures, better lighting, sharper visuals, and performance enhancements."
+    },
+    {
+      "question": "How long is God of War III?",
+      "answer": "The campaign takes around 8–10 hours, while completionists may take 12–15 hours."
+    },
+    {
+      "question": "Does it include all DLC?",
+      "answer": "Yes, the PS4 Remastered version includes all previously released DLC and the photo mode."
+    },
+    {
+      "question": "Is God of War III Remastered open world?",
+      "answer": "No, it is a linear action game focused on fast combat and cinematic storytelling."
+    }
+  ]
+}

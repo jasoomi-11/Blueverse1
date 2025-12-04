@@ -381,6 +381,82 @@
   ],
   "thumb": "/assets/thumb/god-of-war-2018.webp",
   "path": "/Game/god-of-war-2018.html"
+},
+{
+  "title": "God of War III Remastered",
+  "slug": "god-of-war-3-remastered",
+  "badge": "Action Adventure | Hack & Slash | Greek Mythology",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5 (Backward Compatible)"
+  ],
+  "developer": "Santa Monica Studio",
+  "tags": [
+    "god of war 3",
+    "gow 3 remastered",
+    "kratos",
+    "playstation exclusive",
+    "action adventure",
+    "hack and slash",
+    "ps4 remastered",
+    "ps5 compatible",
+    "santa monica studio",
+    "single player",
+    "greek mythology"
+  ],
+  "thumb": "/assets/thumb/god-of-war-3-remastered.webp",
+  "path": "/Game/god-of-war-3-remastered.html"
+},
+{
+  "title": "God of War II Remastered",
+  "slug": "god-of-war-2-remastered",
+  "badge": "Action Adventure | Hack & Slash | Greek Mythology",
+  "platforms": [
+    "PlayStation 3 (HD Collection)",
+    "PlayStation 4 (PS Now Streaming)",
+    "PlayStation 5 (PS Now Streaming)"
+  ],
+  "developer": "Santa Monica Studio",
+  "tags": [
+    "god of war 2",
+    "gow 2 remastered",
+    "kratos",
+    "playstation exclusive",
+    "action adventure",
+    "hack and slash",
+    "ps3 hd collection",
+    "ps4 streaming",
+    "ps5 compatible",
+    "santa monica studio",
+    "single player",
+    "greek mythology"
+  ],
+  "thumb": "/assets/thumb/god-of-war-2-remastered.webp",
+  "path": "/Game/god-of-war-2-remastered.html"
+},
+{
+  "title": "Marvel's Spider-Man 2",
+  "slug": "marvels-spider-man-2",
+  "badge": "Action Adventure | Superhero | Open World",
+  "platforms": [
+    "PlayStation 5 "
+  ],
+  "developer": "Insomniac Games",
+  "tags": [
+    "spider man 2",
+    "marvels spider man 2",
+    "ps5 exclusive",
+    "insomniac games",
+    "open world",
+    "superhero game",
+    "action adventure",
+    "peter parker",
+    "miles morales",
+    "venom",
+    "playstation 5"
+  ],
+  "thumb": "/assets/thumb/spider-man-2.webp",
+  "path": "/Game/marvels-spider-man-2.html"
 }
 
 

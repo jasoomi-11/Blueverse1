@@ -133,5 +133,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  
+  
+  
+  
+  
+    <!-- Date 4 Dec- have change on 4 Jan 26 -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://blueverse.space/Game/god-of-war-3-remastered.html</loc>
+    <lastmod>2025-12-04T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blueverse.space/Game/god-of-war-2-remastered.html</loc>
+    <lastmod>2025-12-04T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://blueverse.space/Game/marvels-spider-man-2.html</loc>
+    <lastmod>2025-12-04T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>

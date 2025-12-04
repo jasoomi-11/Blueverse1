@@ -1,0 +1,140 @@
+{
+  "title": "God of War II Remastered – Console Edition",
+  "subtitle": "The iconic sequel that defined PlayStation action gaming — now remastered with sharper visuals, smoother performance, enhanced textures, and modern polish for today’s consoles.",
+  "trailer": "https://www.youtube.com/embed/0EjYHzmpcqg",
+
+
+
+
+
+
+
+
+  "developer": "Santa Monica Studio",
+  "releaseYear": "2009 (Remastered) — Original 2007",
+  "genre": "Action / Hack & Slash / Cinematic Mythology Combat",
+
+  "about": "<p>God of War II Remastered brings one of PlayStation’s most legendary action games back with upgraded visuals, refined performance, and sharper details. Originally released on the PlayStation 2, the remaster enhances the fast-paced hack-and-slash combat, cinematic storytelling, and massive boss encounters that defined the franchise.</p><p>With improved textures, HD upgrades, and smoother framerates on modern PlayStation hardware, Kratos’ furious journey through Greek mythology feels more powerful and immersive than ever.</p><p>This version delivers the definitive way to experience God of War II — balancing its classic combat style with modern visual clarity and stable performance.</p>",
+
+  "overview": "<p>In God of War II Remastered, Kratos once again wields the Blades of Athena as he tears through monsters, gods, and ancient forces. The game mixes fast hack-and-slash combat, large-scale bosses, puzzle-solving, and platforming with cinematic set-pieces that were far ahead of their time.</p><p>With HD visuals, upgraded lighting, and improved rendering, iconic locations like the Island of Creation, the Temple of Fates, and the Colossus of Rhodes feel more detailed and visually striking.</p><p>The remaster stays true to the original gameplay while giving players a cleaner, sharper, smoother experience that keeps the game relevant even today.</p>",
+
+  "story": "<p>After defeating Ares, Kratos becomes the new God of War — but his reign is short-lived. Betrayed by Zeus, stripped of his godly powers, and left for dead, Kratos sets out on a brutal quest for revenge. Guided by the Titans and driven by rage, he journeys through ancient realms to find the Sisters of Fate and rewrite his destiny.</p><p>The narrative builds tension across every chapter — from fighting the Colossus of Rhodes to navigating the realms of fate — ultimately setting the stage for Kratos’ final confrontation with the gods of Olympus.</p>",
+
+  "platforms": [
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Classic hack & slash combat with fast combo systems",
+      "Blades of Athena weapon mechanics",
+      "Magic abilities tied to Greek gods",
+      "Large-scale cinematic boss battles",
+      "Platforming, traps, and environmental puzzles",
+      "Weapon upgrades and new combat abilities",
+      "Time manipulation mechanics via the Fates"
+    ],
+    "genre": [
+      "Hack & Slash",
+      "Action Combat",
+      "Mythology-Based Adventure"
+    ],
+    "modes": [
+      "Main Story Campaign",
+      "Bonus Challenge Modes (Remastered)",
+      "Arena Combat Challenges"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/NE1C1U3xPZQ/maxresdefault.jpg",
+      "title": "God of War II Remastered – Official Trailer",
+      "url": "https://youtu.be/NE1C1U3xPZQ"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/yr4k9EkFDVw/maxresdefault.jpg",
+      "title": "God of War II Remastered – Gameplay Showcase",
+      "url": "https://youtu.be/yr4k9EkFDVw"
+    }
+  ],
+
+  "tips": [
+    "Upgrade the Blades of Athena early for stronger combos.",
+    "Use magic for crowd control during tough enemy encounters.",
+    "Break every chest and statue for red orbs and upgrades.",
+    "Master evasion timing — it is essential in boss fights.",
+    "Use the Amulet of the Fates to freeze time strategically.",
+    "Save Rage of the Titans for high-damage boss phases."
+  ],
+
+  "features": [
+    "HD resolution upgrade for modern PlayStation consoles",
+    "Sharper textures and improved lighting",
+    "More stable framerates and smoother animations",
+    "Cinematic Greek-mythology environments enhanced",
+    "Remastered cutscenes and character models",
+    "Bonus challenge modes for extended gameplay",
+    "Improved sound clarity and effects"
+  ],
+
+  "whyPlay": "God of War II Remastered delivers a polished HD upgrade of one of gaming’s greatest action adventures — combining intense combat, unforgettable boss fights, and a powerful revenge-driven story that still stands among the best in the genre.",
+
+  "playstation": {
+    "ps4": [
+      "Native HD upgrade",
+      "Improved textures and lighting",
+      "Stable framerate",
+      "20–30GB storage required"
+    ],
+    "ps4pro": [
+      "Sharper resolution",
+      "Smoother performance",
+      "Better environmental details"
+    ],
+    "ps5": [
+      "Fast loading via SSD",
+      "Enhanced visuals via system upscaling",
+      "Rock-solid performance stability",
+      "Low input latency"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Not available on Xbox platforms"
+    ],
+    "switch": [
+      "Not available on Nintendo Switch"
+    ],
+    "cloud": [
+      "Not officially available on cloud services"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is God of War II Remastered playable on PS5?",
+      "answer": "Yes, it works through backward compatibility with faster loading and better stability."
+    },
+    {
+      "question": "What is upgraded in the Remastered version?",
+      "answer": "Enhanced resolution, improved textures, cleaner lighting, and smoother performance."
+    },
+    {
+      "question": "How long is God of War II?",
+      "answer": "The story campaign takes 10–12 hours, and completionists may take 15–18 hours."
+    },
+    {
+      "question": "Does the remaster include extra content?",
+      "answer": "Yes, it includes challenge modes and bonus arenas."
+    },
+    {
+      "question": "Is God of War II open world?",
+      "answer": "No, it's a linear action adventure focused on fast combat and cinematic progression."
+    }
+  ]
+}
