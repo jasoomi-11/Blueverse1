@@ -1,0 +1,134 @@
+{
+  "title": "League of Legends: Wild Rift",
+  "subtitle": "Riot Games’ fast-paced 5v5 MOBA designed for mobile and console, delivering strategic team battles, skill-based gameplay, and iconic champions from the League universe.",
+  "trailer": "https://www.youtube.com/embed/TFzkbos0oeo",
+
+  "developer": "Riot Games",
+  "releaseYear": "2020",
+  "genre": "MOBA / 5v5 Multiplayer / Competitive",
+
+  "about": "<p>League of Legends: Wild Rift is the mobile-optimized version of Riot Games’ globally famous MOBA, rebuilt from the ground up for touch controls, fast-paced matches, and smoother performance on smartphones. Wild Rift brings the iconic 5v5 Summoner’s Rift experience with shorter matches, redesigned champions, and precise dual-joystick controls that feel fluid and responsive.</p><p>The game features a growing roster of 80+ champions, each with unique abilities, classes, and roles including assassins, mages, fighters, tanks, and marksmen. Every match requires teamwork, strategic planning, lane control, objective captures, and mechanical skill to dominate enemies and destroy the Nexus.</p><p>Wild Rift is known for its balanced gameplay, frequent updates, esports tournaments, and high-quality visuals optimized for mobile hardware. Whether you're climbing ranked, mastering champion combos, or teaming up with friends, Wild Rift delivers a deep and competitive MOBA experience with smooth 60 FPS performance and stunning animations.</p>",
+
+  "overview": "<p>Every Wild Rift match is a 5v5 battle where teams fight across three lanes—Baron Lane, Mid Lane, and Dragon Lane—supported by a jungle filled with monsters, buffs, and objectives. Players gain gold, purchase items, level up abilities, and coordinate team fights to gain map control.</p><p>The map features key objectives such as Elemental Dragons, Rift Herald, and Baron Nashor that provide huge advantages when secured. With fast match times (15–20 minutes), Wild Rift is designed for mobile-friendly competitive play without sacrificing depth or strategy.</p>",
+
+  "story": "<p>Wild Rift does not follow a single linear storyline but takes place within the vast League of Legends universe, featuring champions from diverse regions such as Demacia, Noxus, Ionia, Piltover, Zaun, Freljord, and the Shadow Isles. Each champion has lore, personality, and a unique backstory that connects to the larger world of Runeterra.</p><p>The game frequently releases events that explore Runeterra’s history, magical conflicts, powerful factions, and legendary heroes, allowing players to experience narrative-driven gameplay through cinematics, missions, and themed rewards.</p>",
+
+  "platforms": [
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Fast-paced 5v5 lane-based combat",
+      "Dual-stick control system for abilities and attacks",
+      "Unique champions with roles like Mage, Assassin, Marksman, Tank, Fighter, and Support",
+      "Objective-focused gameplay with Dragons, Herald, and Baron Nashor",
+      "Team fights, rotations, and macro strategy",
+      "Item builds tailored to champion strengths",
+      "Wards and vision control for map dominance",
+      "Skill-shot gameplay and advanced champion combos"
+    ],
+    "genre": [
+      "MOBA",
+      "Competitive Multiplayer",
+      "Team-Based Strategy"
+    ],
+    "modes": [
+      "Normal 5v5",
+      "Ranked 5v5",
+      "ARAM (All Random All Mid)",
+      "Custom Lobby",
+      "Training Mode",
+      "Event Modes (Limited-Time)"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/TFzkbos0oeo/maxresdefault.jpg",
+      "title": "Wild Rift Official Launch Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/hzOYqTV3Chg/maxresdefault.jpg",
+      "title": "Wild Rift Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Choose champions that match your lane role and team composition.",
+    "Always secure map objectives like Dragons and Rift Herald.",
+    "Ward key areas to prevent ganks and maintain map awareness.",
+    "Learn 2–3 champions per role to improve ranked flexibility.",
+    "Rotate to help teammates instead of staying in lane too long.",
+    "Use practice mode to master combos and ability timing.",
+    "Adapt your item build based on enemy damage type and playstyle.",
+    "Stick with your team during late-game team fights."
+  ],
+
+  "features": [
+    "Optimized controls for touchscreens",
+    "High-quality character animations and visual effects",
+    "Shorter, action-packed 15–20 minute matches",
+    "Ranked system with tiers from Iron to Challenger",
+    "Regular balance patches and champion updates",
+    "Esports tournaments and competitive events",
+    "Massive champion roster with ongoing additions",
+    "Skins, cosmetic items, and seasonal rewards",
+    "Beginner-friendly tutorials and training modes"
+  ],
+
+  "whyPlay": "Wild Rift delivers one of the most polished and competitive mobile MOBA experiences, offering deep strategy, iconic champions, beautiful visuals, and high-intensity 5v5 gameplay—all perfectly optimized for mobile players.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 410 / Exynos 7870",
+      "RAM: 1.5–2GB",
+      "Storage: 3GB free",
+      "Android 6.0 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Exynos 990",
+      "RAM: 4–6GB",
+      "Storage: 3GB+ free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6s and newer",
+      "iPad 5th Generation and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Smooth 60 FPS supported on A11 Bionic and newer",
+      "High-resolution assets on iOS 13+",
+      "Optimized battery and thermal performance"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Wild Rift free to play?",
+      "answer": "Yes, Wild Rift is completely free to download and play with optional cosmetic purchases."
+    },
+    {
+      "question": "Does Wild Rift have the same champions as PC League of Legends?",
+      "answer": "Most champions are shared, but some are redesigned for mobile balance and controls."
+    },
+    {
+      "question": "How long is an average match?",
+      "answer": "Wild Rift matches typically last 15–20 minutes."
+    },
+    {
+      "question": "Is Wild Rift beginner friendly?",
+      "answer": "Yes. It includes tutorials, recommended builds, and adaptive matchmaking to help new players learn."
+    }
+  ]
+}

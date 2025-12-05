@@ -1,0 +1,164 @@
+{
+  "title": "Stardew Valley",
+  "subtitle": "A peaceful farming RPG where you build your dream life, grow your farm, explore caves, craft items, and form relationships in a cozy village.",
+  "trailer": "https://www.youtube.com/embed/ot7uXNQskhs",
+
+  "developer": "ConcernedApe",
+  "releaseYear": "2016",
+  "genre": "Farming / Life Simulation / RPG",
+
+  "about": "<p>Stardew Valley is a relaxing farming and life simulation adventure where you inherit your grandfather’s old farm in a quiet town called Pelican Town. With overgrown fields and broken buildings, your job is to restore the land, grow crops, raise animals, mine for resources, craft tools, and interact with the quirky townspeople. The game offers a slow-paced, heartwarming experience perfect for players who enjoy creativity, exploration, and calm gameplay.</p>",
+
+  "overview": "<p>You begin with a rundown farm and basic tools, but as seasons change, you grow crops, upgrade buildings, and unlock deeper mechanics such as mining, fishing, cooking, and crafting. Players can socialize with villagers, attend festivals, complete quests, and even get married. Whether you like farming, dungeon-crawling, or building, Stardew Valley gives total freedom to play your own way.</p>",
+
+  "story": "<p>You leave behind your stressful corporate job after receiving a letter from your grandfather, who gifts you a small farm in the peaceful Pelican Town. As you rebuild your land, you slowly connect with the community — each character having their own personality, struggles, and stories. Along the way, you uncover mysteries of the valley, explore mines, discover secrets of the wizard, and face the corporate giant JojaMart that threatens the town’s traditions. Your journey is about creating a life worth living.</p>",
+
+  "platforms": [
+    { "name": "PC", "icon": "img/pc.png", "available": true },
+    { "name": "Mobile", "icon": "img/mobile.png", "available": true },
+    { "name": "PlayStation", "icon": "img/ps.png", "available": true },
+    { "name": "Xbox", "icon": "img/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "img/switch.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "img/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Farm building and crop management",
+      "Raising animals",
+      "Mining and dungeon exploration",
+      "Fishing and cooking",
+      "Crafting system",
+      "Friendship and relationship mechanics",
+      "Village events and festivals",
+      "Season-based farming"
+    ],
+    "genre": [
+      "Farming Simulation",
+      "Role-Playing",
+      "Adventure",
+      "Cozy Sandbox"
+    ],
+    "modes": [
+      "Singleplayer",
+      "Co-op Multiplayer (PC & Consoles)",
+      "Local Co-op (Split-screen on supported platforms)"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/ot7uXNQskhs/maxresdefault.jpg",
+      "title": "Official Stardew Valley Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/8A7SLyoY3BY/maxresdefault.jpg",
+      "title": "Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Plant mixed crops early to maximize income.",
+    "Upgrade your tools before each season begins.",
+    "Mine on rainy days and farm on sunny days for efficiency.",
+    "Build sprinklers as soon as possible to save time.",
+    "Give villagers gifts twice a week to increase friendship fast.",
+    "Use the community center bundles as a long-term progression guide."
+  ],
+
+  "features": [
+    "Relaxing, open-ended farming gameplay",
+    "Season-based farming and weather system",
+    "Deep crafting and upgrade paths",
+    "Mining, combat, fishing, and cooking",
+    "Build relationships, marriage, and family system",
+    "NPCs with unique personalities and storylines",
+    "Multiplayer co-op on PC and consoles",
+    "Highly replayable with countless farm layouts"
+  ],
+
+  "whyPlay": "Because Stardew Valley is one of the most relaxing, creative, and emotionally rich farming RPGs ever made — a perfect blend of cozy vibes, exploration, and long-term progression.",
+
+  "playstation": {
+    "ps4": [
+      "1080p Resolution",
+      "30 FPS Stable",
+      "1GB Storage Required"
+    ],
+    "ps4pro": [
+      "1080p Enhanced",
+      "Improved Stability",
+      "Faster Load Times"
+    ],
+    "ps5": [
+      "4K Upscaled Output",
+      "60 FPS Stable",
+      "Ultra-fast Loading"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Xbox One: 1080p 30 FPS",
+      "Xbox Series S/X: 4K 60 FPS",
+      "1GB Required"
+    ],
+    "switch": [
+      "720p Handheld",
+      "1080p Docked",
+      "30 FPS Stable"
+    ],
+    "cloud": []
+  },
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 625 / Helio P35",
+      "RAM: 2GB",
+      "Storage: 500MB",
+      "Android 5.0+"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 660+",
+      "RAM: 4GB",
+      "Storage: 500MB+",
+      "Android 8+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer",
+      "iPad 5th Gen and newer",
+      "iPad Mini 4+",
+      "iPad Air 2+"
+    ],
+    "performance": [
+      "60 FPS on A11 Bionic and newer",
+      "Smooth performance on iOS 12+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Stardew Valley free?",
+      "answer": "No, the game is paid on all platforms but offers a huge amount of content for its price."
+    },
+    {
+      "question": "Does Stardew Valley support multiplayer?",
+      "answer": "Yes, PC, PlayStation, Xbox, and Switch support online and local co-op. Mobile currently does not support multiplayer."
+    },
+    {
+      "question": "Is this game beginner friendly?",
+      "answer": "Absolutely. Stardew Valley is very easy to learn and lets you progress at your own pace."
+    },
+    {
+      "question": "How long is the game?",
+      "answer": "The game can easily last 100–300 hours depending on how you customize your farm."
+    },
+    {
+      "question": "Is the mobile version complete?",
+      "answer": "Yes, it includes almost all major updates but does not support multiplayer."
+    }
+  ]
+}

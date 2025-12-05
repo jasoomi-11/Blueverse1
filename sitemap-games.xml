@@ -169,5 +169,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  
+     <!-- Date 5 Dec- have change on 5 Jan 26 -->
+  
+  
+  
+  
+  
+  
+  
+   <url>
+    <loc>https://blueverse.space/Game/league-of-legends-wild-rift.html</loc>
+    <lastmod>2025-12-05T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+     <url>
+    <loc>https://blueverse.space/Game/among-us.html</loc>
+    <lastmod>2025-12-05T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+   <url>
+    <loc>https://blueverse.space/Game/stardew-valley.html</loc>
+    <lastmod>2025-12-05T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
 
 </urlset>

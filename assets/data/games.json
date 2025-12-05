@@ -457,7 +457,89 @@
   ],
   "thumb": "/assets/thumb/spider-man-2.webp",
   "path": "/Game/marvels-spider-man-2.html"
+},
+{
+  "title": "League of Legends: Wild Rift",
+  "slug": "league-of-legends-wild-rift",
+  "badge": "MOBA | Multiplayer | Competitive Online",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Riot Games",
+  "tags": [
+    "league of legends",
+    "wild rift",
+    "lol wild rift",
+    "riot games",
+    "moba",
+    "mobile moba",
+    "competitive multiplayer",
+    "5v5 gameplay",
+    "esports",
+    "multiplayer online battle arena",
+    "strategy game"
+  ],
+  "thumb": "/assets/thumb/league-of-legends-wild-rift.webp",
+  "path": "/Game/league-of-legends-wild-rift.html"
+},
+
+{
+  "title": "Among Us",
+  "slug": "among-us",
+  "badge": "Social Deduction | Multiplayer | Party Game",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Innersloth",
+  "tags": [
+    "among us",
+    "amongus",
+    "innersloth",
+    "social deduction",
+    "multiplayer",
+    "party game",
+    "mobile multiplayer",
+    "crew vs impostor",
+    "online game",
+    "crossplay",
+    "casual game"
+  ],
+  "thumb": "/assets/thumb/among-us.webp",
+  "path": "/Game/among-us.html"
+},
+
+{
+  "title": "Stardew Valley",
+  "slug": "stardew-valley",
+  "badge": "Farming Simulator | RPG | Life Simulation",
+  "platforms": [
+    "Android",
+    "iOS",
+    "PlayStation 5",
+    "PlayStation 4",
+    "xbox"
+  ],
+  "developer": "ConcernedApe",
+  "tags": [
+    "stardew valley",
+    "stardew mobile",
+    "concernedape",
+    "farming simulator",
+    "life simulation",
+    "pixel rpg",
+    "farming rpg",
+    "rpg mobile",
+    "android farming game",
+    "ios farming game",
+    "open world farming",
+    "indie game"
+  ],
+  "thumb": "/assets/thumb/stardew-valley.webp",
+  "path": "/Game/stardew-valley.html"
 }
+
 
 
 
