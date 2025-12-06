@@ -1,0 +1,151 @@
+{
+  "title": "Mobile Legends: Bang Bang",
+  "subtitle": "Fast-paced 5v5 multiplayer MOBA battles with heroes, roles, objectives, and esports-level competitive gameplay.",
+  "trailer": "https://www.youtube.com/embed/WKZNtIrYM",
+
+
+
+
+
+
+
+
+
+  "developer": "Moonton Games",
+  "releaseYear": "2016",
+  "genre": "MOBA / Multiplayer Online / Tactical 5v5",
+
+  "about": "<p>Mobile Legends: Bang Bang (MLBB) is one of the world’s most popular mobile MOBA games, built from the ground up for fast 10–15 minute strategic matches. Developed by Moonton Games, MLBB delivers a full esports-grade competitive ecosystem on mobile devices, offering deep hero mastery, tactical team coordination, and objective-focused gameplay.</p><p>The game features 5v5 online battles where two teams compete to destroy each other’s base by controlling lanes, farming gold, defeating objectives, and securing map domination. MLBB’s roster of 120+ heroes offers true variety — tanks, fighters, mages, marksmen, assassins, and supports — each designed with unique skills, combos, power spikes, and battlefield roles. This allows players to build their own identity and master specific playstyles.</p><p>MLBB's core strength is its accessibility. The controls are smooth, matchmaking is fast, and the game is optimized even for mid-range devices. Yet beneath this simplicity lies deep strategy: lane control, rotations, jungle invasion, ambush timing, item builds, counter-picking, crowd-control chaining, and map awareness make MLBB a highly skill-based game.</p><p>With global tournaments like MPL, MSC, and the M-Series World Championship, MLBB stands as one of the biggest esports in the mobile gaming world. New heroes, skins, events, collaborations, and balance patches keep the game fresh for both casual and competitive players.</p>",
+
+  "overview": "<p>Mobile Legends is built around classic MOBA fundamentals: three lanes, jungle monsters, turrets, minions, and a final Nexus/Core objective. Each match begins with players selecting heroes based on team composition — balancing damage, tankiness, mobility, and utility.</p><p>The game rewards strong map awareness, efficient farming, timely rotations, and smart team fights. Compared to longer PC MOBAs, MLBB focuses on faster battles, smooth controls, and shorter match lengths. This makes it ideal for mobile users who want competitive depth without long commitments.</p><p>Players can choose roles such as Gold Lane Marksman, Mid Lane Mage, Jungle Assassin, EXP Lane Fighter, or Roaming Tank/Support. Each role has a unique responsibility — dealing damage, engaging fights, protecting teammates, securing objectives, or controlling map vision.</p>",
+
+  "story": "<p>Mobile Legends does not follow a single linear story but features an expanding universe known as the \"Land of Dawn.\" Each hero belongs to a region, kingdom, or faction with unique lore — including the Moniyan Empire, the Abyss, the Northern Vale, the Oriental Fighters, the Dark Abyss, and several cosmic or futuristic dimensions.</p><p>Heroes like Alucard, Tigreal, Miya, Gusion, Lancelot, Hanabi, Kagura, and Lunox have intertwined storylines involving ancient wars, royal bloodlines, forbidden magic, and cosmic balance. Seasonal events expand the lore by introducing new chapters, cinematic trailers, comic-style storytelling, and character backgrounds.</p>",
+
+  "platforms": [
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Real-time 5v5 multiplayer online battles",
+      "Three-lane classic MOBA structure",
+      "Over 120 heroes with unique skills and roles",
+      "Fast-paced matches lasting 10–15 minutes",
+      "Strategic lane control and jungle rotations",
+      "Objective fighting: Turtles, Lord, Turrets",
+      "Team-based combos and crowd-control chains",
+      "Build customization with items and emblems",
+      "Fast matchmaking with optimized servers",
+      "Ranked mode with tier progression"
+    ],
+    "genre": [
+      "MOBA",
+      "Multiplayer Online",
+      "Tactical 5v5"
+    ],
+    "modes": [
+      "Classic 5v5",
+      "Ranked 5v5",
+      "Brawl (5v5 single lane)",
+      "Arcade Modes (Mayhem, Mirror, etc.)",
+      "Custom Rooms",
+      "Magic Chess (Auto Battler)",
+      "Esports Tournaments",
+      "AI Training Mode"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/6ZcvVLaXGac/maxresdefault.jpg",
+      "title": "Mobile Legends Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/s6-CfBqLZck/maxresdefault.jpg",
+      "title": "Mobile Legends Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Understand your role — jungle, mid, gold lane, exp lane, or roam.",
+    "Always check the minimap every 2–3 seconds to avoid ganks.",
+    "Take early control of objectives like Turtle for gold advantage.",
+    "Learn at least 2 heroes per role for flexibility in ranked.",
+    "Build defensive items when being targeted in fights.",
+    "Use bushes for vision control and surprise ambushes.",
+    "Master battle spells like Flicker, Retribution, and Purify.",
+    "Rotate after clearing lane waves to pressure other lanes."
+  ],
+
+  "features": [
+    "Fast 10–15 minute MOBA matches",
+    "120+ heroes with deep strategic roles",
+    "Ranked seasons with global leaderboards",
+    "Esports ecosystem with MPL and World Championships",
+    "Smooth mobile-optimized controls",
+    "Unique emblem and build customization",
+    "Regular hero reworks and balance updates",
+    "High-performance servers with low latency",
+    "Collaborations with anime, brands and global IPs",
+    "Beginner-friendly tutorials with advanced skill progression"
+  ],
+
+  "whyPlay": "Mobile Legends offers fast-paced, competitive MOBA gameplay directly on mobile — easy to learn but incredibly deep to master. With strategic team fights, hero diversity, esports-level competition, and short match times, it’s one of the most addictive and skill-based mobile games worldwide.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 430 / Helio P22",
+      "RAM: 2GB",
+      "Storage: 3GB free",
+      "Android 6 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 660 / 720G",
+      "RAM: 4GB+",
+      "Storage: 4GB free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6S and newer",
+      "iPad 5th Generation and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or newer",
+      "Smooth gameplay with HD mode enabled",
+      "Compatible with iOS 10+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Mobile Legends free to play?",
+      "answer": "Yes, MLBB is completely free to download and play, with optional cosmetic purchases."
+    },
+    {
+      "question": "Is Mobile Legends pay-to-win?",
+      "answer": "No. Hero stats cannot be bought. Only skins are paid and do not give gameplay advantages."
+    },
+    {
+      "question": "How long is a typical match?",
+      "answer": "Most ranked or classic matches last 10–15 minutes."
+    },
+    {
+      "question": "How many heroes does Mobile Legends have?",
+      "answer": "Mobile Legends currently has over 120 playable heroes across 6 roles."
+    },
+    {
+      "question": "Does Mobile Legends support controllers?",
+      "answer": "Official controller support is limited, though some third-party controllers may work via device settings."
+    }
+  ]
+}

@@ -538,7 +538,87 @@
   ],
   "thumb": "/assets/thumb/stardew-valley.webp",
   "path": "/Game/stardew-valley.html"
+},
+{
+  "title": "Bloodborne (PS4)",
+  "slug": "bloodborne-ps4",
+  "badge": "Action RPG | Soulslike | Gothic Horror",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 4 Pro",
+    "PlayStation 5 (Backward Compatible)"
+  ],
+  "developer": "FromSoftware",
+  "tags": [
+    "bloodborne",
+    "bloodborne ps4",
+    "fromsoftware",
+    "soulslike",
+    "action rpg",
+    "gothic horror game",
+    "ps4 exclusive",
+    "bloodborne guide",
+    "bloodborne gameplay",
+    "hunter game",
+    "dark fantasy rpg"
+  ],
+  "thumb": "/assets/thumb/bloodborne.webp",
+  "path": "/Game/Bloodborne.html"
+},
+
+{
+  "title": "Uncharted 4: A Thief's End",
+  "slug": "uncharted-4",
+  "badge": "Action-Adventure | Story-Rich | Cinematic",
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 4 Pro",
+    "PlayStation 5 (Legacy of Thieves Collection)",
+    "PC (Legacy of Thieves Collection)"
+  ],
+  "developer": "Naughty Dog",
+  "tags": [
+    "uncharted 4",
+    "a thief's end",
+    "naughty dog",
+    "action adventure",
+    "story driven",
+    "cinematic gameplay",
+    "ps4 exclusive",
+    "uncharted guide",
+    "uncharted gameplay",
+    "treasure hunting game",
+    "third person adventure"
+  ],
+  "thumb": "/assets/thumb/uncharted-4.webp",
+  "path": "/Game/uncharted-4.html"
+},
+{
+  "title": "Mobile Legends: Bang Bang",
+  "slug": "mobile-legends-bang-bang",
+  "badge": "MOBA | 5v5 Multiplayer | Competitive",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Moonton",
+  "tags": [
+    "mobile legends",
+    "mlbb",
+    "moonton",
+    "moba game",
+    "mobile moba",
+    "5v5 game",
+    "ranked multiplayer",
+    "mobile legends guide",
+    "mobile legends gameplay",
+    "esports mobile game",
+    "ml heroes"
+  ],
+  "thumb": "/assets/thumb/mobile-legends-bang-bang.webp",
+  "path": "/Game/mobile-legends-bang-bang.html"
 }
+
 
 
 

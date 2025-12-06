@@ -1,0 +1,139 @@
+{
+  "title": "Uncharted 4: A Thief's End",
+  "subtitle": "A cinematic action-adventure where Nathan Drake returns for one last treasure-hunting journey filled with danger, mystery, and emotional storytelling.",
+  "trailer": "https://www.youtube.com/embed/hh5HV4iic1Y",
+
+  "developer": "Naughty Dog",
+  "releaseYear": "2016",
+  "genre": "Action / Adventure / Cinematic Story",
+
+  "about": "<p>Uncharted 4: A Thief’s End is a narrative-driven action adventure following Nathan Drake — a retired treasure hunter who is forced back into the world of thieves when his long-lost brother Sam reappears after many years. With breathtaking locations, intense gunfights, puzzles, parkour exploration, and an emotional story, the game delivers one of the strongest cinematic experiences ever created on a PlayStation console.</p>",
+
+  "overview": "<p>Players travel across Madagascar, Scotland, Italy, and remote pirate islands while solving puzzles, discovering ancient ruins, sneaking through enemy territories, and surviving explosive set-pieces. Uncharted 4 combines storytelling and gameplay so smoothly that every chapter feels like a playable movie. With stealth mechanics, rope swinging, vehicle chases, and platforming, the game offers a perfect mix of action and exploration.</p>",
+
+  "story": "<p>Nathan Drake has left treasure hunting behind for a peaceful life with Elena. But when Sam Drake — Nathan’s brother believed to be dead — suddenly returns, Nathan is pulled into a dangerous mission to recover the lost pirate treasure of Henry Avery. Their search leads them into conflict with mercenary armies, ruthless treasure hunters, ancient traps, and their own personal struggles. The story explores brotherhood, sacrifice, trust, and choosing between adventure and family. It is the final chapter of Nathan Drake’s legendary journey.</p>",
+
+  "platforms": [
+    { "name": "PlayStation 4", "icon": "img/ps.png", "available": true },
+    { "name": "PlayStation 5", "icon": "img/ps.png", "available": true },
+    { "name": "PC (Uncharted: Legacy of Thieves Collection)", "icon": "img/pc.png", "available": true },
+    { "name": "Xbox", "icon": "img/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "img/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "img/cloud.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Cinematic action and gunplay",
+      "Stealth takedowns and enemy awareness system",
+      "Parkour climbing and exploration",
+      "Rope swinging traversal",
+      "Environmental puzzles",
+      "Vehicle chase sequences",
+      "Treasure discovery and optional exploration",
+      "Dynamic character interactions"
+    ],
+    "genre": [
+      "Action Adventure",
+      "Third-Person Shooter",
+      "Narrative-Driven",
+      "Exploration"
+    ],
+    "modes": [
+      "Singleplayer Campaign",
+      "Multiplayer (PS4)",
+      "No Co-op Campaign"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/hh5HV4iic1Y/maxresdefault.jpg",
+      "title": "Uncharted 4 – Reveal Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/v5CZQpqF_74/maxresdefault.jpg",
+      "title": "Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Use stealth whenever possible — it saves ammo and clears areas silently.",
+    "Explore optional paths to find treasures and journal entries.",
+    "Upgrade weapons during combat encounters by looting strong enemies.",
+    "Use the rope to reach high ledges and flank enemies.",
+    "Listen for character hints — they often reveal puzzle solutions.",
+    "Don’t rush the story; Uncharted rewards exploring its beautiful environments."
+  ],
+
+  "features": [
+    "Hollywood-level cinematics and storytelling",
+    "Detailed characters with emotional depth",
+    "Beautiful global locations",
+    "Parkour, puzzles, stealth, and gunplay",
+    "Large semi-open environments",
+    "AI system with dynamic enemy reactions",
+    "Multiplayer modes with progression",
+    "Remastered visuals on PS5 and PC"
+  ],
+
+  "whyPlay": "Because Uncharted 4 delivers one of the best story-driven adventures in gaming history — mixing cinematic action, character-driven drama, and unforgettable set pieces that define the entire PlayStation generation.",
+
+  "playstation": {
+    "ps4": [
+      "1080p Resolution",
+      "30 FPS Cinematic Mode",
+      "Highly detailed textures and lighting"
+    ],
+    "ps4pro": [
+      "1440p Checkerboard",
+      "Improved shadows and sharpness",
+      "Stable 30 FPS"
+    ],
+    "ps5": [
+      "4K 30 FPS",
+      "1440p 60 FPS Performance Mode",
+      "120 FPS Support (Legacy of Thieves Collection)",
+      "Ultra-fast loading"
+    ]
+  },
+
+  "other": {
+    "xbox": [],
+    "switch": [],
+    "cloud": []
+  },
+
+  "android": {
+    "minimum": [],
+    "recommended": []
+  },
+
+  "ios": {
+    "devices": [],
+    "performance": []
+  },
+
+  "faqs": [
+    {
+      "question": "Is Uncharted 4 available on PC?",
+      "answer": "Yes, the game is included in the Uncharted: Legacy of Thieves Collection for PC."
+    },
+    {
+      "question": "Is Uncharted 4 open world?",
+      "answer": "No, but it features several large semi-open areas with optional exploration."
+    },
+    {
+      "question": "Do I need to play previous Uncharted games first?",
+      "answer": "It's recommended, but not required. Uncharted 4 stands strong as a standalone story."
+    },
+    {
+      "question": "How long is the campaign?",
+      "answer": "Around 15–22 hours depending on exploration difficulty."
+    },
+    {
+      "question": "Does the game have multiplayer?",
+      "answer": "Yes, Uncharted 4 includes competitive multiplayer modes on PlayStation."
+    }
+  ]
+}
