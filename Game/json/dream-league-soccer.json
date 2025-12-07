@@ -1,0 +1,147 @@
+{
+  "title": "Dream League Soccer 2026",
+  "subtitle": "Build your ultimate football club, sign real players, compete in global leagues, and experience next-gen mobile football with improved physics, AI, and stadium atmosphere.",
+  "trailer": "https://www.youtube.com/embed/HLXMJHvsDKw",
+
+
+
+
+
+
+
+  "developer": "First Touch Games (FTG)",
+  "releaseYear": "2025",
+  "genre": "Football Simulation / Sports / Online Multiplayer",
+
+  "about": "<p>Dream League Soccer 2026 (DLS 2026) continues the legacy of one of the world’s most popular football games on mobile. Designed for players who want a realistic, smooth, and deeply customizable football experience, DLS 2026 brings upgraded animations, more accurate ball physics, smarter AI, advanced tactical controls, and a completely refreshed match presentation. Unlike most mobile football games focused only on flashy graphics, DLS 2026 aims to deliver a true football simulation where your decisions — not luck — determine your victory.</p><p>The game allows you to build your dream club from the ground up. You start with basic facilities, upgrade them over time, sign real FIFPRO-licensed players, assign formations, customize tactics, and compete across multiple elite divisions. Every match feels different thanks to improved movement fluidity, natural dribbling transitions, rebalanced shooting mechanics, and more responsive defensive controls.</p><p>One of the biggest improvements is the enhanced Career Mode. It now features dynamic player transfers, seasonal objectives, training upgrades, scouting features, and a deeper club development system. Online players can challenge each other in Dream League Live — a skill-based competitive mode where your tactical understanding truly matters.</p><p>DLS 2026 delivers a clean, modern football experience with impressive stadium atmosphere, dynamic crowd reactions, updated commentary, and realistic lighting throughout the match. Whether you enjoy competitive PvP, club management, or offline progression, Dream League Soccer 2026 offers a complete football package optimized for all kinds of mobile devices.</p>",
+
+  "overview": "<p>DLS 2026 starts with giving players complete control over team building. You can customize logos, kits, stadium design, player roles, and gameplay strategies. The improved match engine makes every pass, shot, and tackle feel more natural compared to previous versions.</p><p>The game includes realistic ball physics engineered to replicate real-life speed, curve, and momentum. Attacking gameplay feels smoother thanks to updated dribbling animations, while defensive mechanics now allow precision tackling, timed interceptions, and improved goalkeeper reactions.</p><p>As you progress, you earn coins and gems that allow you to sign better players, improve training facilities, upgrade the stadium, and unlock new tactical systems. Online mode offers ranked divisions with matchmaking based on performance and skill — not player power alone. This ensures a balanced and competitive experience for all players.</p>",
+
+  "story": "<p>DLS 2026 does not follow a traditional story, but the game builds a narrative around your club’s journey — starting as an underdog team and rising through multiple divisions to become a global football powerhouse. Every season includes new objectives, rivalry matches, key transfers, breakthrough talents, and moments that shape your club’s identity.</p><p>Commentary, fan reactions, cinematic cut-scenes, and player development progress all help create a dynamic storyline unique to each player’s club. Your decisions — such as youth scouting, formations, training intensity, and transfer strategy — ultimately define the fate of your team.</p>",
+
+  "platforms": [
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Advanced football physics for realistic passing and shooting",
+      "Smarter AI with improved positioning and off-ball runs",
+      "Dynamic player growth and training progression",
+      "New defensive mechanics with precision tackling",
+      "Smooth dribbling animations and skill-move timing",
+      "Custom club building and stadium upgrades",
+      "Real FIFPRO players with authentic attributes",
+      "Formation editor with deep tactical customization",
+      "Career Mode with seasonal objectives",
+      "Dream League Live online PvP mode"
+    ],
+    "genre": [
+      "Football Simulation",
+      "Sports",
+      "Multiplayer"
+    ],
+    "modes": [
+      "Career Mode",
+      "Dream League Live (Online PvP)",
+      "Training Mode",
+      "Season Events",
+      "Friendly Matches",
+      "Custom Tournaments"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/QI3yw2xNPoE/maxresdefault.jpg",
+      "title": "Dream League Soccer 2026 Official Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/rFvcxjs9D7w/maxresdefault.jpg",
+      "title": "DLS 2026 Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Use short passes to maintain possession and control the game tempo.",
+    "Upgrade training facilities early to boost long-term player development.",
+    "Always adjust tactics based on your opponent’s formation.",
+    "Take advantage of winger speed by using wide formations like 4-3-3.",
+    "Time your tackles properly to avoid fouls and yellow cards.",
+    "Balance stamina by rotating players during busy match schedules.",
+    "Use curved shots (finesse) for more accurate finishing.",
+    "Upgrade your stadium to unlock higher revenue and premium features."
+  ],
+
+  "features": [
+    "Next-gen football animations and physics",
+    "Licensed FIFPRO players with realistic stats",
+    "Fully customizable team kits and logos",
+    "Dynamic weather and enhanced lighting",
+    "Improved goalkeeper logic and shooting accuracy",
+    "League progression with new season challenges",
+    "Online PvP with skill-based matchmaking",
+    "Advanced tactics editor and real-time instructions",
+    "Stadium expansion with visual upgrades",
+    "Regular seasonal updates and live events"
+  ],
+
+  "whyPlay": "Dream League Soccer 2026 offers one of the most complete football experiences on mobile — combining realistic gameplay, full club management, deep customization, competitive PvP, licensed players, and a satisfying progression system that rewards strategic thinking and smart team-building.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 665 / Helio G70",
+      "RAM: 3GB",
+      "Storage: 1.5–2GB free",
+      "Android 8 or newer"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Dimensity 800",
+      "RAM: 4–6GB",
+      "Storage: 2GB+ free",
+      "Android 11+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 and newer",
+      "iPad 7th Gen and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or later",
+      "Smooth animations with high visuals enabled",
+      "Compatible with iOS 12+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Dream League Soccer 2026 free to play?",
+      "answer": "Yes, the game is free to download and play with optional in-game purchases."
+    },
+    {
+      "question": "Does DLS 2026 feature real players?",
+      "answer": "Yes, the game uses official FIFPRO licenses for player names and likenesses."
+    },
+    {
+      "question": "Can I play DLS 2026 online?",
+      "answer": "Yes, Dream League Live allows you to compete with players around the world."
+    },
+    {
+      "question": "How much storage does DLS 2026 need?",
+      "answer": "Around 1.5–2GB depending on your device and downloaded assets."
+    },
+    {
+      "question": "Does DLS 2026 support controller gameplay?",
+      "answer": "Limited native controller support is available on selected devices."
+    }
+  ]
+}

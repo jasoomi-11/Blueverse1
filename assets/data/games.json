@@ -617,6 +617,63 @@
   ],
   "thumb": "/assets/thumb/mobile-legends-bang-bang.webp",
   "path": "/Game/mobile-legends-bang-bang.html"
+},
+{
+  "title": "Dream League Soccer 2026",
+  "slug": "dream-league-soccer-2026",
+  "badge": "Football | Soccer Simulation | Career Mode",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "First Touch Games",
+  "tags": [
+    "dream league soccer",
+    "dls 2026",
+    "dream league soccer 2026",
+    "first touch games",
+    "mobile football game",
+    "soccer mobile",
+    "football simulation",
+    "dls guide",
+    "dls gameplay",
+    "dls mobile",
+    "football manager mobile",
+    "soccer manager"
+  ],
+  "thumb": "/assets/thumb/dls.webp",
+  "path": "/Game/dream-league-soccer.html"
+},
+{
+  "title": "eFootball 2025",
+  "slug": "efootball-2025",
+  "badge": "Football | Real-Time PvP | Cross-Platform",
+  "platforms": [
+    "Android",
+    "iOS",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series S|X",
+    "PC (Steam)"
+  ],
+  "developer": "Konami",
+  "tags": [
+    "efootball",
+    "efootball 2025",
+    "konami",
+    "football game",
+    "soccer simulation",
+    "football mobile",
+    "efootball guide",
+    "efootball gameplay",
+    "football pvp",
+    "cross platform football",
+    "soccer online game",
+    "efootball tactics"
+  ],
+  "thumb": "/assets/thumb/efootball.webp",
+  "path": "/Game/efootball.html"
 }
 
 

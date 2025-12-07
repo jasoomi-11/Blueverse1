@@ -1,0 +1,167 @@
+{
+  "title": "eFootball 2025",
+  "subtitle": "Free-to-play football simulation with real-time online matches, licensed teams, seasonal content, and realistic player physics powered by the Unreal Engine.",
+  "trailer": "https://www.youtube.com/embed/Za64WqOYnfk",
+
+
+
+
+
+  "developer": "Konami",
+  "releaseYear": "2025",
+  "genre": "Football Simulation / Sports",
+
+  "about": "<p>eFootball 2025 is Konami’s next-generation football simulation game that continues evolving with seasonal updates, improved ball physics, smarter AI behavior, and polished animations. The game focuses on real-time competitive football, letting players build dream teams, join events, and compete against others across multiple platforms. With cross-play support and free-to-play structure, eFootball gives every player access to high-quality football without a price tag.</p>",
+
+  "overview": "<p>Unlike traditional annual releases, eFootball receives continuous updates with new seasons, balance changes, real-world tournament tie-ins, and gameplay improvements. Whether you love dribbling, tactical gameplay, or building squads, eFootball lets you experience authentic football with fluid animations, licensed players, and smooth online matchmaking. The Dream Team mode remains the heart of progression, where players collect football stars, upgrade stats, and compete in ranked divisions.</p>",
+
+  "story": "<p>While eFootball does not follow a narrative-driven story, its journey is built around seasonal progress where players rebuild their squads, participate in time-limited events, and compete in leagues inspired by real-world football tournaments. Each season introduces new meta changes, updated player ratings, and tactical possibilities, allowing players to follow a natural growth path similar to real football clubs striving for global dominance.</p>",
+
+  "platforms": [
+    { "name": "PC (Steam)", "icon": "img/pc.png", "available": true },
+    { "name": "PlayStation 4", "icon": "img/ps.png", "available": true },
+    { "name": "PlayStation 5", "icon": "img/ps.png", "available": true },
+    { "name": "Xbox One", "icon": "img/xbox.png", "available": true },
+    { "name": "Xbox Series S/X", "icon": "img/xbox.png", "available": true },
+    { "name": "Mobile (Android & iOS)", "icon": "img/mobile.png", "available": true }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Realistic ball physics powered by Unreal Engine",
+      "Advanced dribbling and shooting system",
+      "Improved player body movement",
+      "Tactical formations and custom strategies",
+      "Online competitive matches",
+      "Dream Team squad-building mode",
+      "Seasonal events and challenges",
+      "Weekly player updates based on real-life performance"
+    ],
+    "genre": [
+      "Football Simulation",
+      "Sports",
+      "Online Competitive"
+    ],
+    "modes": [
+      "Dream Team Mode",
+      "Authentic Teams Mode",
+      "Online PvP",
+      "AI Matches",
+      "Special Seasonal Events"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/llnH0p8j2sE/maxresdefault.jpg",
+      "title": "Official eFootball Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/X8_jajQJGgc/maxresdefault.jpg",
+      "title": "Gameplay Features & Improvements"
+    }
+  ],
+
+  "tips": [
+    "Upgrade your featured players first — they have the highest stat ceiling.",
+    "Focus on team playstyle level to boost overall performance.",
+    "Use low ping servers to avoid delay in online matches.",
+    "Complete weekly missions for free GP and training programs.",
+    "Use through balls wisely; timing matters more than speed.",
+    "Analyze opponent formations before kickoff to counter properly."
+  ],
+
+  "features": [
+    "Free-to-play football simulation",
+    "Cross-play between PC, PlayStation, Xbox",
+    "Realistic ball physics and player motion",
+    "Dream Team squad building with upgrades",
+    "Season-based content and events",
+    "Licensed leagues, teams, and football stars",
+    "AI-powered tactical gameplay",
+    "Graphical improvements with Unreal Engine"
+  ],
+
+  "whyPlay": "Because eFootball 2025 combines free-to-play accessibility with a realistic football experience, smooth dribbling, tactical depth, and seasonal progression — perfect for both casual players and competitive fans.",
+
+  "playstation": {
+    "ps4": [
+      "1080p Resolution",
+      "60 FPS Stable",
+      "Fast Online Matchmaking"
+    ],
+    "ps4pro": [
+      "Enhanced 1080p",
+      "More Stable FPS",
+      "Better Visual Effects"
+    ],
+    "ps5": [
+      "4K Upscaled Output",
+      "60–120 FPS (Depending on Mode)",
+      "Improved Lighting & Animations",
+      "Fast SSD Loading"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Xbox One: 1080p 60 FPS",
+      "Xbox Series S: 1440p 60 FPS",
+      "Xbox Series X: 4K 60–120 FPS"
+    ],
+    "switch": [],
+    "cloud": []
+  },
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 660 / Helio G70",
+      "RAM: 3GB",
+      "Storage: 3GB",
+      "Android 7.0+"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G+",
+      "RAM: 4–6GB",
+      "Storage: 4GB",
+      "Android 10+",
+      "Stable Internet for Online PvP"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 and newer",
+      "iPad 6th Gen and newer",
+      "iPad Air 3+",
+      "iPad Mini 5+"
+    ],
+    "performance": [
+      "60 FPS on A12 Bionic and above",
+      "Stable online performance on iOS 13+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is eFootball 2025 free?",
+      "answer": "Yes, the game is completely free to play on all platforms."
+    },
+    {
+      "question": "Does eFootball support cross-play?",
+      "answer": "Yes, players on PC, PlayStation, and Xbox can play together."
+    },
+    {
+      "question": "Is Dream Team mode pay-to-win?",
+      "answer": "No, you can build a strong squad through events, rewards, and weekly missions, although paid options speed up progress."
+    },
+    {
+      "question": "How often do player ratings update?",
+      "answer": "Ratings update weekly based on real-world football performances."
+    },
+    {
+      "question": "Does eFootball have offline modes?",
+      "answer": "Basic offline matches are available, but the main experience is online."
+    }
+  ]
+}
