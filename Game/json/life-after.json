@@ -1,0 +1,150 @@
+{
+  "title": "LifeAfter",
+  "subtitle": "A survival MMORPG set in a post-apocalyptic world destroyed by infection, featuring open-world exploration, crafting, base-building, and intense PvE/PvP battles.",
+  "trailer": "https://www.youtube.com/embed/5d1B9PYdv34",
+
+
+
+
+
+
+
+
+  "developer": "NetEase Games",
+  "releaseYear": "2019",
+  "genre": "Survival / Open-World / MMORPG / Zombie Adventure",
+
+  "about": "<p>LifeAfter is a post-apocalyptic survival MMORPG by NetEase where players fight to stay alive after a deadly virus outbreak has turned cities into infected zones. You start as a survivor with nothing but basic supplies, slowly building shelter, scavenging resources, crafting tools, hunting animals, exploring massive maps, teaming with friends, and battling mutated creatures.</p><p>The game mixes survival realism with MMORPG depth — hunger, temperature, infection levels, and weather affect gameplay, while crafting, base-building, combat, and trading form the core mechanics. LifeAfter is known for its intense PvE story missions, dynamic open-world events, and optional PvP zones like Farstar City.</p><p>With regular updates, new maps, seasonal chapters, and improved graphics, LifeAfter has become one of the most polished zombie survival games on Android, iOS, and PC.</p>",
+
+  "overview": "<p>LifeAfter revolves around survival gameplay where players gather materials, build weapons, upgrade bases, and explore large maps filled with enemies and hidden loot. The world constantly pushes players with challenges like cold weather, hunger, nighttime threats, and infected creatures.</p><p>The game offers both solo and co-op experiences, with missions, story chapters, daily operations, and clan wars. Advanced areas like Mount Snow, Levin City, and Mouth Swamp contain tougher enemies and rare materials. PvP lovers can enter War Zones to fight other players for loot and dominance.</p><p>The progression system allows players to upgrade combat level, crafting level, tools, armor, drones, pets, vehicles, and base tech — giving deep long-term growth.</p>",
+
+  "story": "<p>LifeAfter is set in a world ruined by a global viral outbreak that turned most of humanity into infected monsters. As one of the remaining survivors, you wake up after escaping a deadly attack and join a camp of resistance fighters. From there, you uncover the truth behind the virus, fight back infected waves, and help rebuild humanity’s last shelters.</p><p>The story takes you across abandoned cities, frozen mountains, poisonous swamps, deserts, and high-tech research facilities. Along the way, you meet factions with different intentions — some help humanity, others want power, and some secretly work on experiments linked to the infection.</p>",
+
+  "platforms": [
+    { "name": "PC (Windows)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Android", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "iOS", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PlayStation 5", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Open-world survival and exploration",
+      "Base building, upgrading, and customization",
+      "Resource gathering and advanced crafting",
+      "Day/night cycle with temperature mechanics",
+      "Zombie and mutated enemy combat",
+      "Weapons crafting and modification",
+      "Story missions and chapter progression",
+      "Clan system with wars and team activities",
+      "Vehicles, pets, drones, and companions",
+      "Fishing, hunting, mining, logging, and gathering"
+    ],
+    "genre": [
+      "Survival",
+      "MMORPG",
+      "Open-World",
+      "Zombie Adventure"
+    ],
+    "modes": [
+      "Solo Survival",
+      "Co-op Survival",
+      "PvE Story Mode",
+      "War Zone PvP",
+      "Clan Missions and Events",
+      "Seasonal Challenges and Raids"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/Nq_-PcGvZCc/maxresdefault.jpg",
+      "title": "LifeAfter – Official Gameplay Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/YkxTDyYLCAU/maxresdefault.jpg",
+      "title": "LifeAfter – New Season Trailer"
+    }
+  ],
+
+  "tips": [
+    "Focus on upgrading your Manor early — it unlocks major features.",
+    "Always carry food and medicine during exploration.",
+    "Use drones and pets to assist in high-level missions.",
+    "Farm resources daily to avoid shortages in crafting.",
+    "Join a strong camp (clan) for bonuses and team missions.",
+    "Craft proper gear for cold, heat, and poisonous areas.",
+    "Use stealth in War Zones to avoid unnecessary fights.",
+    "Daily training tasks give essential materials — never skip them."
+  ],
+
+  "features": [
+    "Huge open-world maps with dynamic weather",
+    "Realistic survival mechanics like hunger & temperature",
+    "Detailed base-building and crafting systems",
+    "PvE story chapters and challenging infected bosses",
+    "High-quality mobile graphics and cinematic cutscenes",
+    "Live events, updates, and seasonal content",
+    "Pets, drones, armor sets, and weapon types",
+    "War Zone PvP with competitive loot battles",
+    "Co-op exploration and team missions",
+    "Deep upgrade system with long-term progression"
+  ],
+
+  "whyPlay": "LifeAfter is ideal for players who enjoy open-world survival, crafting, and zombie action with MMO depth. It offers stunning graphics, massive maps, constant updates, and a true challenge where every decision matters.",
+
+  "android": {
+    "minimum": [
+      "Android 5.0 or above",
+      "RAM: 2GB+", 
+      "Storage: 4–6GB free",
+      "CPU: Snapdragon 450 / Helio P35 or equivalent"
+    ],
+    "recommended": [
+      "Android 8.0+",
+      "RAM: 4GB–6GB",
+      "Storage: 6–8GB free",
+      "CPU: Snapdragon 660+ / Helio G70+ for stable 40–60 FPS"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer",
+      "iPhone SE (2nd Gen) and newer",
+      "iPad Pro (2017+)",
+      "iPad Air 3rd Gen+",
+      "iPad Mini 5+"
+    ],
+    "performance": [
+      "Runs smoothly on A11 Bionic or newer",
+      "Stable 40–60 FPS on modern iPhones",
+      "Supports iOS 9 and above"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is LifeAfter free to play?",
+      "answer": "Yes, LifeAfter is completely free to play with optional cosmetic and convenience purchases."
+    },
+    {
+      "question": "Is it available on all platforms?",
+      "answer": "It is available on Android, iOS, and Windows PC. Console versions are not available."
+    },
+    {
+      "question": "Is LifeAfter an online-only game?",
+      "answer": "Yes, the game requires a constant internet connection because it is an MMORPG."
+    },
+    {
+      "question": "Is LifeAfter pay-to-win?",
+      "answer": "Not fully, but spending can speed up progression. Skilled players can progress without spending."
+    },
+    {
+      "question": "Is LifeAfter beginner friendly?",
+      "answer": "Yes, but it becomes challenging later. The tutorial and early missions guide new players well."
+    }
+  ]
+}

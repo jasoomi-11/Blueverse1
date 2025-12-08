@@ -674,6 +674,66 @@
   ],
   "thumb": "/assets/thumb/efootball.webp",
   "path": "/Game/efootball.html"
+},
+
+{
+  "title": "Honkai: Star Rail",
+  "slug": "honkai-star-rail",
+  "badge": "Turn-Based RPG | Space Fantasy | Cross-Platform",
+  "platforms": [
+    "Android",
+    "iOS"
+  
+  ],
+  "developer": "HoYoverse",
+  "tags": [
+    "honkai star rail",
+    "hsr",
+    "honkai star rail guide",
+    "turn based rpg",
+    "hoyoverse",
+    "anime rpg",
+    "space fantasy game",
+    "gacha rpg",
+    "honkai gameplay",
+    "hsr builds",
+    "hsr characters",
+    "rpg mobile game",
+    "cross platform rpg"
+  ],
+  "thumb": "/assets/thumb/honkai-star-rail.webp",
+  "path": "/Game/honkai-star-rail.html"
+},
+
+{
+  "title": "LifeAfter",
+  "slug": "lifeafter",
+  "badge": "Survival | Open-World | Zombie Apocalypse",
+  "platforms": [
+    "Android",
+    "iOS",
+    "Windows"
+  ],
+  "developer": "NetEase Games",
+  "tags": [
+    "lifeafter",
+    "life after",
+    "lifeafter mobile",
+    "lifeafter game",
+    "lifeafter guide",
+    "survival game",
+    "open world survival",
+    "zombie survival",
+    "netease",
+    "lifeafter android",
+    "lifeafter ios",
+    "lifeafter pc",
+    "lifeafter tips",
+    "post apocalyptic game",
+    "survival crafting"
+  ],
+  "thumb": "/assets/thumb/lifeafter.webp",
+  "path": "/Game/life-after.html"
 }
 
 
