@@ -734,6 +734,56 @@
   ],
   "thumb": "/assets/thumb/lifeafter.webp",
   "path": "/Game/life-after.html"
+},
+
+{
+  "title": "Assassin's Creed Origins",
+  "slug": "assassins-creed-origins",
+  "badge": "Open-World | Action RPG | Ancient Egypt",
+  "platforms": [
+    "PC (Windows)",
+    "PlayStation 4",
+    "PlayStation 5 (Backward Compatibility)",
+    "Xbox One",
+    "Xbox Series X|S (FPS Boost)",
+    "Cloud Gaming"
+  ],
+  "developer": "Ubisoft Montreal",
+  "tags": [
+    "assassins creed origins",
+    "ac origins",
+    "assassin's creed",
+    "ac origins guide",
+    "open world rpg"
+   
+  ],
+  "thumb": "/assets/thumb/ac-origins.webp",
+  "path": "/Game/ac-origins.html"
+},
+
+{
+  "title": "Assassin's Creed Odyssey",
+  "slug": "assassins-creed-odyssey",
+  "badge": "Open-World | Action RPG | Ancient Greece",
+  "platforms": [
+    "PC (Windows)",
+    "PlayStation 4",
+    "PlayStation 5 (Backward Compatibility)",
+    "Xbox One",
+    "Xbox Series X|S",
+    "Nintendo Switch (Cloud Version)",
+    "Cloud Gaming"
+  ],
+  "developer": "Ubisoft Quebec",
+  "tags": [
+    "assassins creed odyssey",
+    "ac odyssey",
+    "assassin's creed",
+    "ac odyssey guide",
+    "open world rpg"
+  ],
+  "thumb": "/assets/thumb/ac-odyssey.webp",
+  "path": "/Game/ac-odyssey.html"
 }
 
 

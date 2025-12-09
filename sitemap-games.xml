@@ -279,6 +279,33 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  
+  
+  
+  
+  
+   <!-- Date 9 Dec- have change on 9 Jan 26 -->
+  
+  
+  
+  
+  
+  
+   <url>
+    <loc>https://blueverse.space/Game/ac-origins.html</loc>
+    <lastmod>2025-12-09T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://blueverse.space/Game/ac-odyssey.html</loc>
+    <lastmod>2025-12-09T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>

@@ -1,0 +1,152 @@
+{
+  "title": "Assassin’s Creed Odyssey",
+  "subtitle": "A massive choice-driven open-world RPG set in Ancient Greece, where your decisions shape the world, the story, and your path as a legendary hero.",
+  "trailer": "https://www.youtube.com/embed/s_SJZSAtLBA",
+
+  "developer": "Ubisoft Quebec",
+  "releaseYear": "2018",
+  "genre": "Open-World / Action-Adventure / RPG",
+
+  "about": "<p>Assassin’s Creed Odyssey transforms the franchise into a full-scale RPG, set during the Peloponnesian War in Ancient Greece. You play as either Alexios or Kassandra, a mercenary with a mysterious lineage tied to legendary Spartan warriors. With a sweeping open world full of islands, seas, cities, and mythical secrets, Odyssey offers deep role-playing choices, naval exploration, and a branching narrative shaped by your actions.</p>",
+
+  "overview": "<p>Odyssey expands the Assassin’s Creed formula with dialogue choices, moral decisions, romance options, and multiple endings. The world is one of the largest in the series, featuring dynamic regions, massive naval battles, mercenary hunters, and epic confrontations inspired by Greek mythology. The RPG systems are richer than ever—skill trees, armor sets, engravings, loot rarity tiers, and customizable loadouts let you build a truly unique playstyle.</p>",
+
+  "story": "<p>The story follows a Spartan outcast forced into a life of mercenary work across Greece. As you uncover your family’s hidden past and a shadowy cult manipulating the war, your journey becomes an emotional and political odyssey across iconic locations like Athens, Sparta, and the Aegean Sea. With full dialogue choices and consequences, every major decision influences alliances, character fates, and the ending you earn.</p>",
+
+  "platforms": [
+    { "name": "PC", "icon": "img/pc.png", "available": true },
+    { "name": "Mobile", "icon": "img/mobile.png", "available": false },
+    { "name": "PlayStation", "icon": "img/ps.png", "available": true },
+    { "name": "Xbox", "icon": "img/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "img/switch.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "img/cloud.png", "available": true }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Choice-driven story with multiple endings",
+      "Full RPG build customization",
+      "Large-scale naval exploration and ship combat",
+      "Stealth assassinations and open combat",
+      "Bounty and mercenary system",
+      "Dialogue choices and romance options",
+      "Mythological creature battles",
+      "Engravings, armor sets, and loot progression"
+    ],
+    "genre": [
+      "Action-Adventure",
+      "Open-World",
+      "Role-Playing",
+      "Historical Exploration"
+    ],
+    "modes": [
+      "Singleplayer"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/s_SJZSAtLBA/maxresdefault.jpg",
+      "title": "Official Assassin’s Creed Odyssey Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/ATrVt30lZD8/maxresdefault.jpg",
+      "title": "Gameplay Showcase"
+    }
+  ],
+
+  "tips": [
+    "Unlock the Assassin skill tree early for stealth advantages.",
+    "Engrave your weapons regularly for stronger builds.",
+    "Explore islands—you’ll find legendary quests and gear.",
+    "Recruit strong lieutenants for better naval combat.",
+    "Always confirm kills to avoid mercenary bounty escalation.",
+    "Use abilities like Hero Strike for high burst assassin damage."
+  ],
+
+  "features": [
+    "Massive open-world across Greece's islands and cities",
+    "Player choices affecting story, characters, and endings",
+    "Romance options with multiple NPCs",
+    "Large-scale naval battles with ship upgrades",
+    "Deep RPG progression with armor sets and abilities",
+    "Dynamic bounty and mercenary system",
+    "Battles against legendary Greek mythological beasts",
+    "Highly replayable due to branching story paths"
+  ],
+
+  "whyPlay": "Because Assassin’s Creed Odyssey offers one of the deepest RPG experiences in the franchise, combining choice-driven storytelling, massive exploration, and mythological adventures in a breathtaking Ancient Greek world.",
+
+  "playstation": {
+    "ps4": [
+      "1080p Resolution",
+      "30 FPS Stable",
+      "High-quality world rendering"
+    ],
+    "ps4pro": [
+      "1440p Upscaled Output",
+      "Sharper textures",
+      "Improved performance and stability"
+    ],
+    "ps5": [
+      "4K Upscaled Output",
+      "60 FPS Boost Mode",
+      "Near-instant loading"
+    ]
+  },
+
+  "other": {
+    "xbox": [
+      "Xbox One: 1080p 30 FPS",
+      "Xbox One X: 4K 30 FPS",
+      "Xbox Series S/X: 60 FPS Boost"
+    ],
+    "switch": [
+      "Available in Japan as a cloud version"
+    ],
+    "cloud": [
+      "Available on Amazon Luna, GeForce Now, and other cloud platforms"
+    ]
+  },
+
+  "android": {
+    "minimum": [
+      "Not available on Android devices"
+    ],
+    "recommended": [
+      "Not available on Android devices"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "Not available on iOS devices except through cloud versions"
+    ],
+    "performance": [
+      "Performance depends entirely on cloud streaming quality"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Assassin’s Creed Odyssey open world?",
+      "answer": "Yes, Odyssey features one of the largest open worlds in the series, covering dozens of islands, seas, and ancient Greek cities."
+    },
+    {
+      "question": "Does Odyssey have RPG elements?",
+      "answer": "Yes, it is a full RPG with skill trees, loot rarity, armor sets, dialogue choices, romance options, and branching story paths."
+    },
+    {
+      "question": "Is Odyssey beginner friendly?",
+      "answer": "Yes, the game offers adjustable difficulty, exploration modes, and guided assistance for new players."
+    },
+    {
+      "question": "How long is Assassin’s Creed Odyssey?",
+      "answer": "The main story takes 40–60 hours, while full completion with side activities can exceed 100+ hours."
+    },
+    {
+      "question": "Is AC Odyssey available on mobile?",
+      "answer": "No native mobile version exists, but the game can be played through cloud streaming in certain regions."
+    }
+  ]
+}
