@@ -784,6 +784,27 @@
   ],
   "thumb": "/assets/thumb/ac-odyssey.webp",
   "path": "/Game/ac-odyssey.html"
+},
+
+
+{
+  "title": "Subway Surfers 🛹",
+  "slug": "subway-surfers",
+  "badge": "Endless Runner | Arcade | Casual",
+  "platforms": [
+   "Ios",
+   "Android"
+  ],
+  "developer": "SYBO Games",
+  "tags": [
+    "subway surfers",
+    "subway surfers guide",
+    "endless runner game",
+    "arcade mobile game",
+    "sybo games"
+  ],
+  "thumb": "/assets/thumb/subway-surfers.webp",
+  "path": "/Game/subway-surfers.html"
 }
 
 

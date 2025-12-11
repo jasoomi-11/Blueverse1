@@ -306,6 +306,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+    <!-- Date 11Dec- have change on 11 Jan 26 -->
+  
+  
+    <url>
+    <loc>https://blueverse.space/Game/subway-surfurs.html</loc>
+    <lastmod>2025-12-09T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>

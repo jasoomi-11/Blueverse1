@@ -1,0 +1,149 @@
+{
+  "title": "Subway Surfers 🏃‍♂️💨",
+  "subtitle": "A fast, colorful, endless runner where you dash through subway tracks, dodge trains 🚆, collect coins 💰, and outrun the grumpy Inspector 👮‍♂️🐶 — all while pulling off stylish tricks!",
+  "trailer": "https://www.youtube.com/embed/h4jImKVdxEE",
+
+
+
+
+
+
+
+
+
+  "developer": "SYBO Games",
+  "releaseYear": "2012",
+  "genre": "Endless Runner / Action / Arcade 🎮",
+
+  "about": "<p>Subway Surfers is one of the most iconic mobile games ever made — fast, flashy, and incredibly addicting ⚡. You play as Jake (or other unlockable characters) as you race through vibrant subway cities 🌍. The goal? Run as far as possible while escaping the Inspector and his dog 👮‍♂️🐕. But of course, it’s not just running — you’ll hoverboard 🛹, jump 🆙, roll, collect coins 💰, complete missions 📜, unlock characters, and enjoy a never-ending world tour of new cities.</p>",
+
+  "overview": "<p>With simple swipe-based controls 👆, Subway Surfers is easy for beginners but surprisingly challenging for high scorers 🏆. Every run is unique — obstacles spawn randomly, power-ups appear in new patterns ⚡, and trains keep you alert. Weekly events 📅, seasonal updates 🎉, and global leaderboards 🌐 make the game fresh even after years. Whether you're chasing high scores or unlocking rare characters, there’s always something fun waiting.</p>",
+
+  "story": "<p>No deep story — Jake and his friends are graffiti artists 🎨 who get caught spraying trains and must run for their lives! The Inspector and his dog chase you across tracks, tunnels, and rooftops 🏃‍♂️💨. It’s simple: run fast, dodge obstacles, grab coins 💰, and don’t get caught!</p>",
+
+  "platforms": [
+    { "name": "PC 💻", "icon": "img/pc.png", "available": true },
+    { "name": "Mobile 📱", "icon": "img/mobile.png", "available": true },
+    { "name": "PlayStation 🎮", "icon": "img/ps.png", "available": false },
+    { "name": "Xbox 🟩", "icon": "img/xbox.png", "available": false },
+    { "name": "Nintendo Switch 🎴", "icon": "img/switch.png", "available": false },
+    { "name": "Cloud Gaming ☁️", "icon": "img/cloud.png", "available": true }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Swipe to run, jump, and roll 👆",
+      "Endless runner with increasing speed 🏃‍♂️💨",
+      "Hoverboards to prevent crashes 🛹",
+      "Jetpack, Super Sneakers, Coin Magnet, and more ⚡",
+      "Daily challenges & missions 📅",
+      "Unlock characters & hoverboards 🧑‍🎨",
+      "World Tour updates 🌍",
+      "High-score competition with friends 🏆"
+    ],
+    "genre": [
+      "Endless Runner",
+      "Arcade 🎯",
+      "Casual",
+      "Action ⚔️"
+    ],
+    "modes": [
+      "Singleplayer 🎮"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/6nJ7_2i4GQ4/maxresdefault.jpg",
+      "title": "Official Subway Surfers Trailer 🎥"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/UY7fI1Oe0Qw/maxresdefault.jpg",
+      "title": "Gameplay Showcase 🔥"
+    }
+  ],
+
+  "tips": [
+    "Complete daily challenges for easy rewards 🎁.",
+    "Use hoverboards in tricky zones — they save you from one crash 🛹.",
+    "Upgrade your Jetpack first for maximum coins 💰.",
+    "Stay on top of trains for better visibility 🚆.",
+    "Use keys wisely — don’t revive on low-score runs 🔑.",
+    "Use head-starts only when going for high scores 🚀."
+  ],
+
+  "features": [
+    "Fast-paced endless running 🏃‍♂️💨",
+    "Beginner-friendly swipe controls 👆",
+    "Many characters & hoverboards to unlock 🧑‍🎨🛹",
+    "Monthly World Tour updates 🌍✈️",
+    "Exciting power-ups ⚡",
+    "Daily & weekly events 📅🎉",
+    "Smooth animations & bright graphics 🌈",
+    "Global high-score leaderboards 🏆🌐"
+  ],
+
+  "whyPlay": "Because Subway Surfers is easy, addictive, colorful 🌈, and updated constantly. Perfect for quick fun — whether you have 30 seconds or 30 minutes! 🏃‍♂️🔥",
+
+  "playstation": {
+    "ps4": [ "Not available ❌" ],
+    "ps4pro": [ "Not available ❌" ],
+    "ps5": [ "Not available ❌" ]
+  },
+
+  "other": {
+    "xbox": [ "Not available ❌" ],
+    "switch": [ "Not available ❌" ],
+    "cloud": [ "Playable via emulators or cloud platforms ☁️" ]
+  },
+
+  "android": {
+    "minimum": [
+      "Android 5.0+ 📱",
+      "1 GB RAM",
+      "Dual-core CPU",
+      "300 MB storage"
+    ],
+    "recommended": [
+      "Android 10+",
+      "2–4 GB RAM",
+      "Quad-core CPU",
+      "400 MB storage"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6s+ 📱",
+      "iPad models with iOS 11+"
+    ],
+    "performance": [
+      "Smooth 60 FPS 🎯",
+      "Low battery usage 🔋",
+      "Runs great even on older devices 👍"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Subway Surfers endless? 🔁",
+      "answer": "Yes! The game never ends — it keeps getting faster 🚀."
+    },
+    {
+      "question": "Can I play offline? 📡",
+      "answer": "Yes, offline works fine. Only leaderboards need internet 🌐."
+    },
+    {
+      "question": "Is it pay-to-win? 💵❓",
+      "answer": "No, you can unlock everything by playing — no pressure!"
+    },
+    {
+      "question": "Best power-ups? ⚡",
+      "answer": "Jetpack & Coin Magnet — kings of coin farming 👑💰."
+    },
+    {
+      "question": "How to get high scores? 🏆",
+      "answer": "Survive longer, upgrade power-ups, and stay on top of trains 🚆."
+    }
+  ]
+}
