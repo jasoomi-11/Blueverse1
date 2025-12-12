@@ -805,6 +805,26 @@
   ],
   "thumb": "/assets/thumb/subway-surfers.webp",
   "path": "/Game/subway-surfers.html"
+},
+
+{
+  "title": "Delta Force 🎖️",
+  "slug": "delta-force",
+  "badge": "Tactical Shooter | Multiplayer | Action",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Team Jade (TiMi Studio Group)",
+  "tags": [
+    "delta force",
+    "delta force guide",
+    "mobile shooter game",
+    "multiplayer action",
+    "tactical shooter"
+  ],
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/delta-force.webp",
+  "path": "/Game/delta-force.html"
 }
 
 

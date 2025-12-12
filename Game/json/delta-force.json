@@ -1,0 +1,143 @@
+{
+  "title": "Delta Force Mobile",
+  "subtitle": "Tactical shooting, epic firefights, and squad-based warfare in your pocket! 🎯🔥",
+  "trailer": "https://www.youtube.com/embed/YOUR_DELTA_FORCE_TRAILER",
+
+  "developer": "Team Jade",
+  "releaseYear": "2022",
+  "genre": "Tactical Shooter / Multiplayer / Survival",
+
+  "about": "<p>Delta Force Mobile is the ultimate pocket-sized tactical shooter, giving you full squad-based combat action with crisp graphics, dynamic maps, and realistic weapon handling. 💥 Whether you’re storming a desert base or holding down an urban zone, every firefight keeps your heart racing and your thumbs busy.</p><p>Unlike casual shooters, Delta Force Mobile rewards strategy, teamwork, and precision. Players can customize loadouts, coordinate with squads, and use advanced combat mechanics like lean, cover, and tactical grenades. 🪖 Expect realistic bullet physics, recoil patterns, and explosive effects that make every encounter feel epic.</p><p>With multiple modes including Team Deathmatch, Capture the Flag, Battle Royale, and Special Ops missions, Delta Force Mobile offers endless replayability. Its optimization ensures smooth performance even on mid-range devices, making tactical warfare accessible to all. 📱💨</p>",
+
+  "overview": "<p>Delta Force Mobile drops squads of 4–5 players into highly detailed maps featuring urban battlegrounds, forests, industrial zones, and desert bases. Players must use weapons, grenades, armor, and vehicles to survive and complete objectives. 🏙️🌲🚁</p><p>The combat system emphasizes cover, positioning, and smart rotations. Use walls, crates, and natural terrain to avoid enemy fire. Long-range snipers? Check. Close-range shotguns? Check. Explosions everywhere? Absolutely. 💣😎</p><p>Dynamic events like helicopter drops, supply crates, and zone shrinkage keep the action intense. Each map is designed to promote tactical thinking and squad coordination, so teamwork is more than encouraged—it’s mandatory. 🤝🎯</p>",
+
+  "story": "<p>Delta Force Mobile doesn’t have a linear story, but the lore is juicy. You’re part of an elite international task force called 'Delta Unit' tasked with quelling global crises, rogue warlords, and unpredictable AI experiments gone rogue. 🕵️‍♂️🌍</p><p>Characters have personalities (yes, even virtual ones can have swagger 😏) and unique combat skills like faster reloads, grenade mastery, or stealth bonuses. Seasonal updates introduce new factions, weapons, and sometimes, ridiculous cosmetics like golden helmets or tactical banana hats. 🍌🥷</p>",
+
+  "platforms": [
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Squad-based tactical firefights 🎯",
+      "Cover, lean, and crouch mechanics 🛡️",
+      "Customizable loadouts with assault rifles, snipers, and shotguns 🔫",
+      "Grenades, molotovs, and tactical utilities 💣🔥",
+      "Dynamic maps with destructible terrain 🌆🌳",
+      "Fast-paced matches 10–15 minutes ⏱️",
+      "Character perks and skill upgrades 💪",
+      "Voice chat and team coordination 🎤🤝",
+      "Ranked modes with global leaderboards 🏆",
+      "Special Ops and seasonal events 🎖️"
+    ],
+    "genre": [
+      "Tactical Shooter",
+      "Multiplayer",
+      "Survival"
+    ],
+    "modes": [
+      "Team Deathmatch",
+      "Capture the Flag",
+      "Battle Royale",
+      "Special Ops",
+      "Ranked Mode",
+      "Squad Training Grounds",
+      "Limited-Time Events",
+      "Custom Games"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/YOUR_DELTA_FORCE_TRAILER/maxresdefault.jpg",
+      "title": "Delta Force Mobile Official Trailer 🎬"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/YOUR_DELTA_FORCE_GAMEPLAY/maxresdefault.jpg",
+      "title": "Delta Force Mobile Gameplay Showcase 🔥"
+    }
+  ],
+
+  "tips": [
+    "Always use cover and lean mechanics to peek safely 🛡️👀",
+    "Coordinate with your squad using voice chat 🎤🤝",
+    "High ground = best advantage for snipers 🎯🏔️",
+    "Use grenades to flush enemies out of cover 💣😎",
+    "Choose weapons that fit your style: sniper for patience, shotgun for chaos 🔫💥",
+    "Rotate early to avoid getting third-partied 🏃‍♂️💨",
+    "Check corners! Every crate can hide a sneaky enemy 😏📦",
+    "Upgrade perks to give your squad an extra edge 💪🪖"
+  ],
+
+  "features": [
+    "Ultra HD graphics with realistic effects 🌟",
+    "Squad-based tactical gameplay 🎯",
+    "Variety of weapons, grenades, and utilities 🔫💣",
+    "Customizable characters with unique perks 🪖",
+    "Fast-paced matches 10–15 mins ⏱️",
+    "Ranked ladders and global leaderboards 🏆",
+    "Seasonal events and limited-time modes 🎖️",
+    "Dynamic, destructible maps 🌆🌲",
+    "Optimized for mid-range devices for smooth FPS 📱💨",
+    "Occasional funny cosmetics because why not? 🍌😎"
+  ],
+
+  "whyPlay": "Delta Force Mobile is the perfect mix of tactical strategy, fast-paced action, and squad coordination. With HD graphics, destructible environments, unique perks, and a little bit of silliness (looking at you, banana helmets 🍌), it’s the mobile shooter that keeps you coming back for more!",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 625 / Helio G85 🤖",
+      "RAM: 3GB",
+      "Storage: 2.5–3GB free 💾",
+      "Android 7 or above 📱"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 720G / Helio G95 ⚡",
+      "RAM: 4–6GB",
+      "Storage: 3GB+ free 💾",
+      "Android 10+ 🔥"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 7 and newer 🍏",
+      "iPad 6th Generation and newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or newer ⚡",
+      "Smooth gameplay with HD textures enabled 🌟",
+      "Compatible with iOS 11+ 📱"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Delta Force Mobile free to play?",
+      "answer": "Yes! Totally free. Your wallet can stay in the safe zone 😎💸"
+    },
+    {
+      "question": "Can I play with friends on different devices?",
+      "answer": "Absolutely! Cross-platform squads make victory sweeter 🎉🤝"
+    },
+    {
+      "question": "How much storage does Delta Force Mobile need?",
+      "answer": "Around 2.5–3GB for maps, weapons, and all that tactical goodness 💾🎮"
+    },
+    {
+      "question": "Is Delta Force Mobile heavy for phones?",
+      "answer": "Not really. Optimized for mid-range devices, but don’t expect your old potato phone to survive 😅🥔"
+    },
+    {
+      "question": "Does Delta Force Mobile support controllers?",
+      "answer": "Yes, but Bluetooth controllers work better than your cat walking on the screen 🐱🎮"
+    }
+  ]
+}
