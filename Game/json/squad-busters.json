@@ -1,0 +1,129 @@
+{
+  "title": "Squad Busters",
+  "subtitle": "A fast-paced party-action game where Supercell heroes form chaotic squads, fight monsters, steal gems, and betray friends (nicely 😄).",
+  "trailer": "https://www.youtube.com/embed/aFHM24c86p0",
+
+
+
+
+
+
+
+
+  "developer": "Supercell",
+  "publisher": "Supercell",
+  "releaseYear": "2024",
+  "genre": "Action / Party / Casual / Squad-Based Strategy",
+
+  "about": "<p>Squad Busters is Supercell’s wildest experiment yet — a colorful, chaotic, and surprisingly strategic squad-based action game that combines characters from Clash of Clans, Clash Royale, Boom Beach, and Brawl Stars into one fast-paced experience. Instead of controlling one hero, you build a <strong>squad</strong> during the match by opening chests, merging characters, and adapting to randomness.</p><p>Each match drops players into a small map filled with monsters, events, and other squads. The goal is simple but stressful 😅: <strong>collect gems, survive encounters, and outplay other players</strong>. But here’s the twist — when your squad gets wiped, you lose everything. Yes… EVERYTHING 💀.</p><p>The game shines in its unpredictability. You never start with the same squad twice. Sometimes you get a powerful tank early, sometimes you’re stuck with weak units and vibes only. This randomness keeps matches fresh and forces players to think fast, take risks, or play safe depending on the situation.</p><p>Squad Busters is easy to pick up, hard to master. Casual players can enjoy quick matches and funny moments, while competitive players will learn squad synergies, fusion timing, map control, and risk management. It’s less about perfect aim and more about smart decisions under pressure.</p>",
+
+  "overview": "<p>Each match lasts around 4 to 6 minutes and features multiple players competing on the same map. Players start solo and gradually build their squad by opening chests, defeating monsters, and fusing identical characters into stronger versions.</p><p>The game focuses heavily on positioning, timing, and knowing when to fight or run. Aggressive play can give big rewards, but one bad fight can instantly end your run. Squad Busters rewards smart rotations, map awareness, and patience — sometimes the best fight is the one you avoid 😎.</p>",
+
+  "story": "<p>Squad Busters doesn’t follow a deep narrative but lives inside the Supercell multiverse. Characters from different games come together in chaotic arenas, driven by pure competition, greed for gems, and questionable teamwork.</p><p>The fun comes from seeing familiar heroes interact in unexpected ways — like a Barbarian fighting alongside a Witch, or a Hog Rider running into total chaos. The story is light, silly, and focused on gameplay rather than lore.</p>",
+
+  "platforms": [
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": false },
+    { "name": "Console", "icon": "/assets/icons/console.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Squad-based combat with multiple characters",
+      "Chest system for recruiting new units",
+      "Fusion system to upgrade squad members",
+      "Real-time PvP encounters",
+      "Monster farming for resources",
+      "Risk vs reward decision making",
+      "Short, high-intensity matches",
+      "Randomized squad builds every game",
+      "Zone control and map awareness"
+    ],
+    "genre": [
+      "Action",
+      "Casual",
+      "Party",
+      "Strategy"
+    ],
+    "modes": [
+      "Free-for-All Matches",
+      "Event-Based Maps",
+      "Limited-Time Modifiers",
+      "Solo Competitive Matches"
+    ]
+  },
+
+  "tips": [
+    "Don’t fight every squad you see — survival > ego 😅.",
+    "Fusion is powerful but risky; timing matters.",
+    "Farm monsters early to build a strong base squad.",
+    "Avoid crowded zones unless your squad is strong.",
+    "Watch the map edges — sneaky squads love ambushes.",
+    "Adapt your playstyle based on what units you get.",
+    "Sometimes running away is the real pro move 🏃‍♂️."
+  ],
+
+  "features": [
+    "Iconic Supercell characters in one game",
+    "Fast and chaotic squad-based gameplay",
+    "Simple controls with deep strategy",
+    "Short matches perfect for quick play",
+    "High replayability due to randomness",
+    "Bright visuals and smooth animations",
+    "Casual-friendly but skill-rewarding design"
+  ],
+
+  "whyPlay": "Squad Busters is pure Supercell chaos — quick matches, funny moments, clutch escapes, and heart-breaking squad wipes. If you enjoy fast decision-making, unpredictable gameplay, and multiplayer madness, this game is dangerously fun 😎.",
+
+  "android": {
+    "minimum": [
+      "Chipset: Snapdragon 660 / Helio G70",
+      "RAM: 3GB",
+      "Storage: 1.5GB free",
+      "Android 8.0 or above"
+    ],
+    "recommended": [
+      "Chipset: Snapdragon 855 / Dimensity 900+",
+      "RAM: 4–6GB",
+      "Storage: 2GB+ free",
+      "Android 10+"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 and newer",
+      "iPad 7th Gen or newer",
+      "iPad Mini 5+",
+      "iPad Air 3+"
+    ],
+    "performance": [
+      "Stable 60 FPS on A12 Bionic or newer",
+      "Smooth visuals with high effects",
+      "Compatible with iOS 12+"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Squad Busters free to play?",
+      "answer": "Yes, Squad Busters is free to download and play with optional in-game purchases."
+    },
+    {
+      "question": "Is Squad Busters competitive?",
+      "answer": "It can be casual or competitive depending on how seriously you play — chaos is guaranteed either way 😄."
+    },
+    {
+      "question": "Are characters from Clash of Clans included?",
+      "answer": "Yes, characters from multiple Supercell games appear in Squad Busters."
+    },
+    {
+      "question": "How long is one match?",
+      "answer": "Most matches last between 4 to 6 minutes."
+    },
+    {
+      "question": "Does Squad Busters require internet?",
+      "answer": "Yes, an active internet connection is required to play."
+    }
+  ]
+}

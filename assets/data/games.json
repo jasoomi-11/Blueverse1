@@ -817,15 +817,50 @@
   ],
   "developer": "Team Jade (TiMi Studio Group)",
   "tags": [
-    "delta force",
-    "delta force guide",
-    "mobile shooter game",
-    "multiplayer action",
-    "tactical shooter"
+    "delta force"
+   
   ],
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/delta-force.webp",
   "path": "/Game/delta-force.html"
+},
+
+{
+  "title": "Squad Busters 🧩🔥",
+  "slug": "squad-busters",
+  "badge": "Action | Strategy | Casual Multiplayer",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Supercell",
+  "tags": [
+    "squad busters",
+    "supercell squad busters",
+    "squad busters mobile game"
+  ],
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/squad-busters.webp",
+  "path": "/Game/squad-busters.html"
+},
+
+{
+  "title": "Brawl Stars ⭐💥",
+  "slug": "brawl-stars",
+  "badge": "Action | MOBA | Casual Multiplayer",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Supercell",
+  "tags": [
+    "brawl stars",
+    "supercell brawl stars",
+    "brawl stars mobile game",
+    "brawl stars multiplayer"
+  ],
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-stars.webp",
+  "path": "/Game/brawl-stars.html"
 }
+
 
 
 
