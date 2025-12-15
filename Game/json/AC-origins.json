@@ -1,152 +1,152 @@
 {
-"title": "Assassin’s Creed Origins",
-"subtitle": "A vast open-world action RPG set in Ancient Egypt, where you uncover the birth of the Assassin Brotherhood through exploration, combat, and storytelling.",
-"trailer": "https://www.youtube.com/embed/cUuKIpCM2o0",
+  "title": "Assassin’s Creed Origins",
+  "subtitle": "An epic open-world RPG set in Ancient Egypt 🐫, where revenge, justice, and the birth of the Assassin Brotherhood collide under the blazing desert sun.",
+  "trailer": "https://www.youtube.com/embed/cUuKIpCM2o0",
 
-"developer": "Ubisoft Montreal",
-"releaseYear": "2017",
-"genre": "Open-World / Action-Adventure / RPG",
+  "developer": "Ubisoft Montreal",
+  "releaseYear": "2017",
+  "genre": "Open-World / Action-Adventure / RPG",
 
-"about": "<p>Assassin’s Creed Origins is an expansive open-world RPG that takes you deep into Ancient Egypt during the age of pharaohs and legendary dynasties. You play as Bayek, a Medjay protector whose personal journey leads to the creation of the Assassin Brotherhood. The game blends exploration, historical world-building, RPG combat, and deep storytelling in a beautifully recreated ancient world full of deserts, pyramids, cities, and hidden secrets.</p>",
+  "about": "<p>Assassin’s Creed Origins takes you back to where it all began 📜. Set in Ancient Egypt, the game follows Bayek of Siwa, a Medjay whose duty to protect the people slowly turns into a much larger mission. From golden deserts and towering pyramids to lively cities along the Nile, Origins blends history, mystery, and RPG combat into a world that feels alive, dangerous, and endlessly explorable.</p>",
 
-"overview": "<p>Origins shifts the series toward a full RPG experience, giving players freedom to explore Egypt, upgrade gear, unlock abilities, and complete quests in any order. Whether you're exploring bustling cities like Alexandria and Memphis or venturing into vast deserts and ancient tombs, every region offers unique wildlife, myths, and side stories. The game features a new combat system, enemy levels, skill trees, and loot-based progression, making it the most dynamic AC experience of its era.</p>",
+  "overview": "<p>With Origins, the Assassin’s Creed series reinvented itself as a full RPG ⚔️. Players can explore Egypt freely, take on quests in any order, level up Bayek, and customize weapons and gear. Combat is more tactical, enemies have levels, and exploration rewards curiosity. Whether you're hunting animals, looting ancient tombs, or getting distracted by side quests (again), the game constantly pulls you into its world.</p>",
 
-"story": "<p>The story follows Bayek of Siwa, one of the last Medjays, whose mission for justice sets him on a path across Egypt. Along with his wife Aya, he uncovers a powerful secret order influencing the kingdom from the shadows. Their journey spans political conflicts, royal conspiracies, and ancient mysteries, ultimately leading to the foundation of the Assassin Brotherhood. The narrative connects personal tragedy with the larger struggle for freedom and justice, forming the roots of the creed.</p>",
+  "story": "<p>The story centers on Bayek, one of the last Medjays, whose personal tragedy pushes him into a fight against a secret order controlling Egypt from the shadows 🐍. Alongside Aya, his journey uncovers political schemes, royal betrayals, and ancient conspiracies. This emotional narrative lays the foundation for the Assassin Brotherhood and explains why the Creed exists in the first place.</p>",
 
-"platforms": [
-{ "name": "PC", "icon": "img/pc.png", "available": true },
-{ "name": "Mobile", "icon": "img/mobile.png", "available": false },
-{ "name": "PlayStation", "icon": "img/ps.png", "available": true },
-{ "name": "Xbox", "icon": "img/xbox.png", "available": true },
-{ "name": "Nintendo Switch", "icon": "img/switch.png", "available": false },
-{ "name": "Cloud Gaming", "icon": "img/cloud.png", "available": true }
-],
+  "platforms": [
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": true },
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": true }
+  ],
 
-"gameplay": {
-"mechanics": [
-"Open-world exploration across Egypt",
-"RPG leveling and ability skill tree",
-"Gear upgrades and loot system",
-"Desert, city, and underwater discovery",
-"Eagle vision through Bayek’s eagle Senu",
-"Quest-based progression with side missions",
-"Stealth infiltration and parkour movement",
-"Mounted travel and dynamic world events"
-],
-"genre": [
-"Action-Adventure",
-"Open-World",
-"Role-Playing",
-"Historical Exploration"
-],
-"modes": [
-"Singleplayer"
-]
-},
+  "gameplay": {
+    "mechanics": [
+      "Massive open-world exploration across Ancient Egypt 🏜️",
+      "RPG leveling system with skill upgrades",
+      "Weapon variety including bows, swords, and heavy blades",
+      "Stealth, parkour, and tactical combat",
+      "Eagle scouting using Bayek’s companion Senu 🦅",
+      "Side quests that add story depth and rewards",
+      "Animal hunting and crafting mechanics",
+      "Dynamic day-night and weather system"
+    ],
+    "genre": [
+      "Action-Adventure",
+      "Open-World",
+      "Role-Playing",
+      "Historical Exploration"
+    ],
+    "modes": [
+      "Singleplayer"
+    ]
+  },
 
-"gameplayTrailers": [
-{
-"thumb": "https://img.youtube.com/vi/cUuKIpCM2o0/maxresdefault.jpg",
-"title": "Official Assassin’s Creed Origins Trailer"
-},
-{
-"thumb": "https://img.youtube.com/vi/SmT1vY8U-6E/maxresdefault.jpg",
-"title": "Gameplay Showcase"
-}
-],
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/cUuKIpCM2o0/maxresdefault.jpg",
+      "title": "Official Assassin’s Creed Origins Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/SmT1vY8U-6E/maxresdefault.jpg",
+      "title": "Extended Gameplay Preview"
+    }
+  ],
 
-"tips": [
-"Upgrade your hidden blade and gear early to handle higher-level enemies.",
-"Use Senu frequently to tag enemies and plan stealth approaches.",
-"Complete side quests—they give essential XP and gear.",
-"Explore tombs for crafting materials and hidden abilities.",
-"Prioritize skills that boost health and damage for balanced combat.",
-"Use different weapon types to deal with various enemy styles."
-],
+  "tips": [
+    "Upgrade your gear early—levels matter more than bravery 💪.",
+    "Use Senu often to scout enemies and loot locations.",
+    "Side quests aren’t filler; they’re key to leveling fast.",
+    "Explore tombs for rare upgrades and hidden secrets 🏺.",
+    "Mix weapon types to handle different enemy styles.",
+    "Don’t rush the story—Egypt rewards patience."
+  ],
 
-"features": [
-"Massive open-world inspired by Ancient Egypt",
-"Evolving RPG combat with unique weapon classes",
-"Explorable pyramids, tombs, and underwater ruins",
-"Dynamic wildlife and environmental systems",
-"Deep story introducing the origins of the Brotherhood",
-"Skill-based progression with multiple ability paths",
-"Visually rich landscapes from deserts to bustling cities",
-"High replay value with exploration-focused design"
-],
+  "features": [
+    "A richly detailed Ancient Egypt to explore 🐫",
+    "Origins story of the Assassin Brotherhood",
+    "Revamped RPG combat and progression system",
+    "Explorable pyramids, tombs, and ruins",
+    "Living world with wildlife and dynamic events",
+    "Skill trees allowing multiple playstyles",
+    "Stunning visuals and atmospheric music",
+    "Strong narrative with emotional depth"
+  ],
 
-"whyPlay": "Because Assassin’s Creed Origins delivers one of the most immersive historical worlds ever created, blending exploration, storytelling, and RPG systems with the mystery of Ancient Egypt.",
+  "whyPlay": "Because Assassin’s Creed Origins offers a breathtaking historical world 🌍, a powerful origin story, and RPG gameplay that makes exploration feel rewarding rather than rushed.",
 
-"playstation": {
-"ps4": [
-"1080p Resolution",
-"30 FPS Stable",
-"High-quality textures"
-],
-"ps4pro": [
-"1440p Upscaled Output",
-"Improved visual sharpness",
-"More stable performance"
-],
-"ps5": [
-"4K Upscaled Output",
-"60 FPS Boost Mode",
-"Near-instant loading"
-]
-},
+  "playstation": {
+    "ps4": [
+      "1080p Resolution",
+      "Stable 30 FPS",
+      "Detailed environments"
+    ],
+    "ps4pro": [
+      "1440p Upscaled Output",
+      "Sharper visuals",
+      "Improved performance"
+    ],
+    "ps5": [
+      "4K Upscaled Output",
+      "60 FPS Boost Mode",
+      "Fast loading times ⚡"
+    ]
+  },
 
-"other": {
-"xbox": [
-"Xbox One: 1080p 30 FPS",
-"Xbox One X: 4K 30 FPS",
-"Xbox Series S/X: 60 FPS Boost"
-],
-"switch": [
-"Not Available on Nintendo Switch"
-],
-"cloud": [
-"Available on Amazon Luna & other cloud platforms"
-]
-},
+  "other": {
+    "xbox": [
+      "Xbox One: 1080p at 30 FPS",
+      "Xbox One X: 4K at 30 FPS",
+      "Xbox Series S/X: 60 FPS Boost Mode"
+    ],
+    "switch": [
+      "Not available on Nintendo Switch"
+    ],
+    "cloud": [
+      "Playable via Amazon Luna and other cloud services ☁️"
+    ]
+  },
 
-"android": {
-"minimum": [
-"Not available on Android devices"
-],
-"recommended": [
-"Not available on Android devices"
-]
-},
+  "android": {
+    "minimum": [
+      "No native Android version available"
+    ],
+    "recommended": [
+      "Playable only through cloud gaming services"
+    ]
+  },
 
-"ios": {
-"devices": [
-"Not available on iOS devices except through cloud services"
-],
-"performance": [
-"Performance depends on cloud streaming quality"
-]
-},
+  "ios": {
+    "devices": [
+      "No native iOS version available"
+    ],
+    "performance": [
+      "Cloud performance depends on internet speed and service quality"
+    ]
+  },
 
-"faqs": [
-{
-"question": "Is Assassin’s Creed Origins open world?",
-"answer": "Yes, it features a massive open world covering deserts, cities, rivers, pyramids, and ancient tombs."
-},
-{
-"question": "Is Assassin’s Creed Origins an RPG?",
-"answer": "Yes, the game uses RPG systems including leveling, gear upgrades, skill trees, and loot mechanics."
-},
-{
-"question": "Is this game beginner friendly?",
-"answer": "Yes, Origins is beginner friendly with flexible difficulty and guided exploration tools like Senu."
-},
-{
-"question": "How long is the game?",
-"answer": "A full playthrough can take 35–60 hours, while completionist runs may exceed 80+ hours."
-},
-{
-"question": "Is AC Origins available on mobile?",
-"answer": "No, the game is not available on Android or iOS natively. It can only be played via cloud streaming services."
-}
-]
+  "faqs": [
+    {
+      "question": "Is Assassin’s Creed Origins fully open world?",
+      "answer": "Yes, the game features a massive open world covering deserts, cities, rivers, pyramids, and ancient tombs."
+    },
+    {
+      "question": "Does Origins focus on RPG elements?",
+      "answer": "Yes, Origins introduced leveling, skill trees, gear upgrades, and loot-based progression to the series."
+    },
+    {
+      "question": "Is Assassin’s Creed Origins good for new players?",
+      "answer": "Absolutely 👍. Its flexible difficulty and guided exploration make it beginner friendly."
+    },
+    {
+      "question": "How long does it take to complete the game?",
+      "answer": "The main story takes around 35–60 hours, while full completion can exceed 80+ hours."
+    },
+    {
+      "question": "Can Assassin’s Creed Origins be played on mobile?",
+      "answer": "There is no native mobile version, but it can be played through cloud gaming services in supported regions."
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "title": "Bloodborne (PS4)",
-  "subtitle": "A brutal, gothic action-RPG masterpiece set in the cursed city of Yharnam — fast-paced combat, terrifying creatures, and deep lore.",
+  "subtitle": "Step into Yharnam, a gothic nightmare city where everything wants to eat you — fast reflexes, brains, and courage required! 🩸🦇",
   "trailer": "https://www.youtube.com/embed/G203e1HhixY",
 
   "developer": "FromSoftware",
   "releaseYear": "2015",
-  "genre": "Action RPG / Soulslike / Horror",
+  "genre": "Action RPG / Soulslike / Gothic Horror",
 
-  "about": "<p>Bloodborne is one of the most iconic PlayStation exclusives ever created — a dark, atmospheric action RPG set in the plague-stricken city of Yharnam. Players take the role of a Hunter on the Night of the Hunt, unraveling a mysterious and horrifying curse that is spreading through the city and transforming people into beasts. Mixing gothic horror, Lovecraftian themes, fast-paced combat, and deep lore, Bloodborne delivers a difficult yet unforgettable experience.</p><p>Unlike traditional Souls games, Bloodborne removes shields and rewards aggressive combat. The game features quick dodges, well-timed gun parries, visceral attacks, and a wide range of trick weapons that transform mid-fight — offering a new approach to every battle. The world is filled with hidden paths, secrets, NPC quests, and interconnected environments that reward exploration.</p><p>FromSoftware’s signature world design shines here: every area is layered with lore, environmental storytelling, and haunting visuals. Bosses are massive, unpredictable, and beautifully horrifying, pushing players to master their weapons and learn enemy patterns. With rich replay value, Chalice Dungeons, optional bosses, deep builds, and a mysterious ending system, Bloodborne remains one of the greatest action RPGs ever made.</p>",
+  "about": "<p>Bloodborne is a dark, thrilling action-RPG that pushes your reflexes and courage to the limit. You play as a Hunter roaming the cursed city of Yharnam, where a mysterious blood-borne illness has turned citizens into horrific beasts. Every street, alley, and cathedral hides danger — and sometimes, a story fragment that will make you go 'Whoa, what?!' 🩸🕯️</p><p>The game encourages aggressive combat over defense: dodge, parry, and strike with visceral precision. Trick Weapons transform mid-battle, keeping fights unpredictable. Exploration is rewarded — secret paths, hidden bosses, and eerie environments make each playthrough unique. Bloodborne isn’t just a game; it’s a gothic adventure dripping with tension, atmosphere, and occasional panic screams.</p>",
 
-  "overview": "<p>Bloodborne combines fast-paced melee combat with challenging enemy encounters and deep customization. Trick Weapons allow players to switch between two modes (light / heavy) mid-combat, changing speed, range, and attack style. Firearms are not used for damage but for timed parries, creating opportunities for powerful Visceral Attacks.</p><p>The world is handcrafted with complex pathways, shortcuts, hidden bosses, and secret areas that encourage exploration. Enemies range from infected villagers to monstrous horrors, eldritch creatures, and nightmares straight from cosmic terror. Each area has its own personality, difficulty curve, and unique weapons or runes to discover.</p><p>Bloodborne also offers Chalice Dungeons — randomized dungeons where players can farm loot, fight new bosses, and challenge themselves with harder layouts. With deep RPG builds, weapon upgrades, and multiple endings, the game offers extremely high replay value.</p>",
+  "overview": "<p>Bloodborne blends fast-paced melee combat, terrifying enemies, and mysterious lore into an unforgettable gothic experience. Trick Weapons allow you to swap between two modes mid-combat, changing speed, reach, and attack style. Firearms aren’t for damage but for parries, opening up devastating Visceral Attacks. 🗡️💥</p><p>The city of Yharnam is a maze of interconnected streets, alleys, and hidden dungeons. Enemies range from plague-ridden humans to nightmarish eldritch horrors. Chalice Dungeons offer randomized challenges and loot, keeping gameplay fresh and punishing even veteran Hunters. Whether you’re exploring, fighting, or uncovering lore, Bloodborne rewards curiosity and patience… and maybe a scream or two.</p>",
 
-  "story": "<p>The story of Bloodborne follows a nameless Hunter who arrives in the ancient city of Yharnam, seeking a cure for a mysterious blood-borne illness. What begins as a hunt for a medical remedy slowly evolves into a nightmarish journey uncovering the truth behind the Healing Church, forbidden blood rituals, and cosmic beings known as the Great Ones.</p><p>The narrative is told indirectly through cryptic dialogue, item descriptions, and world details, encouraging players to piece the mystery together. As the Hunt progresses, the line between dreams, nightmares, and reality becomes increasingly blurred. The deeper the Hunter delves, the closer they come to understanding the terrifying source of Yharnam’s curse.</p>",
+  "story": "<p>You are a nameless Hunter entering Yharnam on the infamous Night of the Hunt. What starts as a mission to cure a mysterious blood disease quickly descends into nightmare as you uncover the secrets of the Healing Church, forbidden rituals, and cosmic entities called the Great Ones. 🦇</p><p>The narrative is told subtly — through item descriptions, NPC dialogue, and the environment itself — encouraging players to piece together the story like a grim, gothic puzzle. Dreams, reality, and nightmares blur, making every step feel tense, eerie, and totally thrilling.</p>",
 
   "platforms": [
     { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
@@ -22,13 +22,14 @@
 
   "gameplay": {
     "mechanics": [
-      "Fast-paced dodge-based combat",
-      "Gun parries and visceral attacks",
-      "Transformable trick weapons",
-      "Deep stat builds and upgrade paths",
-      "Aggressive risk-reward healing mechanic",
-      "Nightmare-style level design",
-      "Chalice Dungeons for replay value"
+      "Dodge, parry, and counter with precision 🏹",
+      "Trick Weapons that morph mid-battle for surprise combos",
+      "Firearms used strategically for parries and visceral attacks",
+      "Aggressive combat rewards timing and skill",
+      "Deep RPG stat builds and weapon upgrades",
+      "Chalice Dungeons with randomized bosses and loot",
+      "Nightmare-level enemies with varied attack patterns",
+      "Exploration of interconnected gothic streets and cathedrals"
     ],
     "genre": [
       "Action RPG",
@@ -46,35 +47,36 @@
   "gameplayTrailers": [
     {
       "thumb": "https://img.youtube.com/vi/G203e1HhixY/maxresdefault.jpg",
-      "title": "Bloodborne – Official Trailer"
+      "title": "Bloodborne – Official Trailer 🩸"
     },
     {
       "thumb": "https://img.youtube.com/vi/lEg0lWt8L-E/maxresdefault.jpg",
-      "title": "Bloodborne – Gameplay Overview"
+      "title": "Bloodborne – Gameplay Overview 👹"
     }
   ],
 
   "tips": [
-    "Master dodging — timing matters more than blocking.",
-    "Use your firearm for parries, not damage.",
-    "Upgrade your Trick Weapon early for massive power boosts.",
-    "Always explore — shortcuts and hidden items are everywhere.",
-    "Manage stamina carefully during long boss fights.",
-    "Farm Blood Echoes in Central Yharnam early game.",
-    "Use Fire Paper and Bolt Paper on tough beasts."
+    "Dodge like your life depends on it — because it does! 🏃‍♂️💨",
+    "Use gun parries to set up devastating Visceral Attacks.",
+    "Upgrade your Trick Weapons early; nothing feels better than shredding a boss with style.",
+    "Explore every corner — hidden shortcuts and items are everywhere.",
+    "Stamina management is key during long boss fights. Don’t spam attacks.",
+    "Chalice Dungeons = loot heaven + death traps. Go prepared!",
+    "Experiment with Fire Paper and Bolt Paper for elemental fun ⚡🔥"
   ],
 
   "features": [
-    "Fast-paced, aggressive combat",
-    "Gothic and Lovecraft-inspired world",
-    "Transformable melee weapons",
-    "Multiple endings with deep lore",
-    "Chalice Dungeons for infinite replay",
-    "Terrifying boss fights and atmosphere",
-    "Rich RPG build variety"
+    "Intense, fast-paced combat for thrill-seekers",
+    "Gothic, Lovecraft-inspired world dripping with atmosphere 🕯️",
+    "Trick Weapons that transform mid-fight",
+    "Chalice Dungeons for endless replayability",
+    "Multiple endings and deep lore to uncover",
+    "Terrifying boss fights that demand skill and patience",
+    "Rich RPG build variety with unique weapons and upgrades",
+    "Secret paths, hidden NPCs, and creepy environmental storytelling"
   ],
 
-  "whyPlay": "Bloodborne is a must-play for fans of dark fantasy, intense action, and challenging gameplay — offering unmatched atmosphere, masterful world-building, and some of the best boss encounters in gaming history.",
+  "whyPlay": "Bloodborne is perfect for players who crave tense combat, gothic horror, and mind-bending lore. Every fight feels alive, every corner could hide a nightmare, and every discovery is worth a gasp. It’s a game that challenges your skills and keeps you hooked — and maybe screaming — for hours. 🩸👹",
 
   "playstation": {
     "ps4": [
@@ -84,43 +86,43 @@
       "40–45GB storage required"
     ],
     "ps4pro": [
-      "Improved stability",
-      "Better frame pacing",
-      "Faster loading times"
+      "Better frame pacing and stability",
+      "Improved loading times",
+      "Smoother performance in boss-heavy areas"
     ],
     "ps5": [
-      "Faster SSD loading",
-      "More stable performance",
-      "No native 60 FPS patch (requires PS4 version)"
+      "Lightning-fast SSD loading",
+      "More stable gameplay performance",
+      "PS4 version runs better but no native 60 FPS patch"
     ]
   },
 
   "other": {
-    "xbox": ["Not available"],
-    "switch": ["Not available"],
-    "cloud": ["Not officially supported"]
+    "xbox": ["Not available ❌"],
+    "switch": ["Not available ❌"],
+    "cloud": ["No official cloud version ☁️"]
   },
 
   "faqs": [
     {
-      "question": "Is Bloodborne available on PC?",
-      "answer": "No official PC version exists, and Sony has not announced one."
+      "question": "Can I play Bloodborne on PC?",
+      "answer": "Nope. It’s a PlayStation exclusive. PC fans will have to wait or emote in memes. 💻❌"
     },
     {
-      "question": "Does Bloodborne run at 60 FPS on PS5?",
-      "answer": "It runs with better stability, but there is no official 60 FPS patch."
+      "question": "Is Bloodborne hard?",
+      "answer": "Absolutely, but every death teaches you something. Dodge, parry, survive, repeat! ⚔️"
     },
     {
-      "question": "Is Bloodborne very difficult?",
-      "answer": "Yes, but it becomes easier once you understand dodging and parrying."
-    },
-    {
-      "question": "How long is Bloodborne?",
-      "answer": "A normal playthrough takes 30–45 hours, with extras pushing beyond 70 hours."
+      "question": "How long is the game?",
+      "answer": "30–45 hours for a normal playthrough, 70+ hours if you explore dungeons and secrets."
     },
     {
       "question": "Does Bloodborne have co-op?",
-      "answer": "Yes, players can summon others for boss fights and exploration."
+      "answer": "Yes, summon friends for boss fights or dungeon raids. Teamwork or betrayal — your choice! 👥"
+    },
+    {
+      "question": "Can I survive without learning parries?",
+      "answer": "It’s tough, but yes… barely. You’ll die a lot though. 🩸😅"
     }
   ]
 }

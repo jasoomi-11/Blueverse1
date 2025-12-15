@@ -1,147 +1,138 @@
 {
   "title": "Among Us (Mobile Edition)",
-  "subtitle": "A social deduction multiplayer game where teamwork, deception, and strategy decide who survives aboard the spaceship.",
+  "subtitle": "A chaotic spaceship adventure where trust is optional, deception is mandatory, and accusing your best friend is basically a cardio workout. 🚀👀",
   "trailer": "https://www.youtube.com/embed/CermGp8bwFE",
-
-
-
-
-
-
-
 
   "developer": "Innersloth",
   "releaseYear": "2018",
-  "genre": "Social Deduction / Online Multiplayer / Party Game",
+  "genre": "Social Deduction / Party Game / Online Multiplayer",
 
-  "about": "<p>Among Us Mobile is a wildly popular online multiplayer social deduction game developed by Innersloth. It places 4–15 players aboard a spaceship, planetary base, or airship where teammates must work together to complete tasks while identifying the hidden Impostors. The game became a global sensation due to its simple design, intense psychological gameplay, and hilarious communication-based interactions.</p><p>Players take on one of two roles — Crewmates or Impostors. Crewmates must complete their assigned tasks and work as a team, while Impostors blend in, sabotage systems, eliminate players, and manipulate discussions to avoid getting caught. What makes Among Us Mobile so special is its unpredictable gameplay, short rounds, cross-platform support, and constant tension created by not knowing who to trust.</p><p>The mobile version is fully optimized for Android and iOS, offering lightweight performance, smooth touch controls, and seamless online play. Frequent updates introduce new maps, cosmetics, roles, sabotage options, and gameplay mechanics that keep the experience fresh for casual and competitive players.</p>",
+  "about": "<p>Among Us Mobile throws you into a spaceship (or creepy planetary base) with 4–15 players, where someone is definitely sus. Your job? Finish your tasks if you’re a Crewmate, or quietly sabotage everything if you’re an Impostor. The charm is in the chaos: emergency meetings, frantic finger-pointing, and the occasional betrayal that leaves everyone yelling in chat. 🛠️💥</p><p>The game thrives on simple, lightweight mechanics: smooth touch controls, fast matchmaking, and quirky animations. Frequent updates keep things fresh, with new maps, cosmetic skins, fun roles like Engineer or Shapeshifter, and random events that make every round unpredictable.</p>",
 
-  "overview": "<p>Among Us Mobile revolves around teamwork, deception, and strategic communication. Each match randomly assigns players as Crewmates or Impostors. Crewmates must finish tasks, fix sabotages, and observe suspicious behavior. Impostors must create chaos, sneak around the map, and eliminate players without getting caught. After a dead body is reported or an emergency meeting is called, players discuss and vote someone out — whether innocent or guilty.</p><p>The game supports text chat, quick chat, cross-play, friends lists, private lobbies, and new roles such as the Scientist, Engineer, Shapeshifter, and Guardian Angel. Each map — The Skeld, Mira HQ, Polus, and The Airship — offers unique tasks, layouts, and hiding opportunities, making every match different.</p>",
+  "overview": "<p>Each match is a mini drama. Crewmates scramble to finish tasks while Impostors create confusion and eliminate players without getting caught. Dead bodies spark frantic meetings where alliances form, fingers are pointed, and trust evaporates faster than a Medbay scan. With crossplay, private rooms, and quick matches, every game is a hilarious test of social strategy.</p><p>Maps like The Skeld, Mira HQ, Polus, and The Airship each offer unique layouts, secret nooks, and fun task combos. New roles like Guardian Angel let you save players, while Shapeshifter keeps everyone guessing — including you.</p>",
 
-  "story": "<p>Among Us doesn’t follow a traditional story but takes place in a sci-fi universe where Crewmates perform missions across different maps. The lore is built through small hints in tasks, visuals, and official animations created by Innersloth. Characters are quirky astronauts working for The Crew Corporation, but their missions are frequently sabotaged by alien-like shapeshifting Impostors. While the game focuses on gameplay rather than narrative, its universe has expanded through fan theories, comics, collaborations, and official videos.</p>",
+  "story": "<p>There isn’t a heavy narrative, but Among Us has its own quirky lore. Crewmates work for the mysterious Crew Corporation, while alien-like Impostors sneak around and cause chaos. Lore pops up in subtle ways — hints in tasks, map designs, and animations. The community fills in the gaps with fan theories, memes, and hilarious backstories. Basically, the story is what you make of it… usually accusing your friends. 👽🎭</p>",
 
   "platforms": [
     { "name": "Mobile (Android)", "icon": "/assets/icons/mobile.png", "available": true },
     { "name": "Mobile (iOS)", "icon": "/assets/icons/mobile.png", "available": true },
-    { "name": "PC", "icon": "/assets/icons/pc.png", "available": false },
+    { "name": "PC", "icon": "/assets/icons/pc.png", "available": true },
     { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
     { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
     { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false },
-    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": false }
+    { "name": "Nintendo Switch", "icon": "/assets/icons/switch.png", "available": true }
   ],
 
   "gameplay": {
     "mechanics": [
-      "4–15 player online multiplayer matches",
-      "Basic roles: Crewmate and Impostor",
-      "Advanced roles: Scientist, Engineer, Shapeshifter, Guardian Angel",
-      "Task-based gameplay for Crewmates",
-      "Sabotage system for Impostors",
-      "Voting and discussion system",
-      "Hiding, venting, and deception mechanics",
-      "Multiple maps with unique tasks and layouts",
-      "Quick chat and normal chat modes",
-      "Crossplay between Mobile & PC consoles"
+      "Randomly assigned Crewmates and Impostors",
+      "Task completion for Crewmates with mini-games",
+      "Sabotage, stealth, and elimination for Impostors",
+      "Emergency meetings and voting system",
+      "Venting and sneaky movement mechanics",
+      "Special roles: Scientist, Engineer, Shapeshifter, Guardian Angel",
+      "Cross-platform multiplayer",
+      "Custom rooms and private lobbies",
+      "Multiple maps with unique layouts",
+      "Quick chat and full text chat options"
     ],
     "genre": [
       "Social Deduction",
       "Party Game",
-      "Online Multiplayer"
+      "Multiplayer Online"
     ],
     "modes": [
       "Online Multiplayer",
-      "Local Wi-Fi Multiplayer",
-      "Private Lobby",
-      "Quick Match",
-      "Freeplay (Practice Mode)"
+      "Private Lobbies",
+      "Local Wi-Fi Games",
+      "Practice Mode"
     ]
   },
 
   "gameplayTrailers": [
     {
       "thumb": "https://img.youtube.com/vi/NSJ4cESNQfE/maxresdefault.jpg",
-      "title": "Among Us Official Trailer"
+      "title": "Among Us Official Trailer 🚀"
     },
     {
       "thumb": "https://img.youtube.com/vi/0l8gT7SP2Bc/maxresdefault.jpg",
-      "title": "Among Us Gameplay Showcase"
+      "title": "Among Us Hilarious Gameplay Highlights 😱"
     }
   ],
 
   "tips": [
-    "As a Crewmate, always complete visual tasks first — they help prove your innocence.",
-    "Keep an eye on player movements and task faking behavior.",
-    "Stick with groups to reduce the chance of getting eliminated.",
-    "As an Impostor, sabotage often to split groups and create openings.",
-    "Close doors to isolate players before eliminating them.",
-    "Use vents carefully — players may see vent movement from a distance.",
-    "Always stay calm during discussions; panic leads to suspicion."
+    "Crewmates: Stick together, but don’t be clingy — Impostors love groups.",
+    "Check the cameras and vitals if the map has them; it’s like your personal detective gadget 🕵️‍♂️.",
+    "Impostors: Sabotage lights and communications to create panic — chaos is your best friend.",
+    "Always pretend to do tasks convincingly; fake it till you make it!",
+    "Use vents smartly, but remember, someone’s always watching 👀.",
+    "During meetings, stay calm and use reverse psychology — accusing the guilty sometimes makes you look innocent."
   ],
 
   "features": [
-    "Lightweight and smooth performance on all mobile devices",
-    "Highly addictive social deduction gameplay",
-    "Multiple maps with new ones added through updates",
-    "Tons of skins, pets, and hats for customization",
-    "Voice chat (third-party) and text chat support",
-    "Cross-platform multiplayer with PC and consoles",
-    "New roles for deeper strategy",
-    "Easy controls with simple UI",
-    "Private rooms for friends and community games",
-    "Regular updates with balance changes and events"
+    "Fast-paced, suspenseful social deduction gameplay",
+    "Cross-platform multiplayer (mobile, PC, Switch)",
+    "Multiple maps with unique environments and tasks",
+    "Customizable avatars, skins, pets, and hats 🐾🎩",
+    "Special roles that change gameplay dynamics",
+    "Private rooms for friends or community games",
+    "Quick matches and practice mode for casual play",
+    "Lightweight performance optimized for mobile devices",
+    "Regular updates with new features, skins, and events",
+    "Hilarious emergent stories every match creates"
   ],
 
-  "whyPlay": "Among Us Mobile is perfect for players who enjoy strategy, deception, teamwork, and unpredictable fun. Every match tells its own story — full of accusations, mind games, betrayals, and hilarious moments. Whether you play casually with friends or jump into global lobbies, Among Us delivers endless entertainment.",
+  "whyPlay": "Among Us is perfect for those who love lying, guessing, and dramatic plot twists with friends. Each match is a mini-comedy-thriller, full of betrayal, suspense, and laughter. Whether casually accusing your roommate or playing in a competitive global lobby, it’s chaos you can carry in your pocket. 😂🚀",
 
   "android": {
     "minimum": [
-      "Chipset: Snapdragon 450 / Helio P22",
-      "RAM: 2GB",
-      "Storage: 300–400MB free",
+      "Snapdragon 450 / Helio P22",
+      "2GB RAM",
+      "300–400MB storage",
       "Android 6.0 or above"
     ],
     "recommended": [
-      "Chipset: Snapdragon 660 / G70",
-      "RAM: 3–4GB",
-      "Storage: 500MB+ free",
+      "Snapdragon 660 / G70",
+      "3–4GB RAM",
+      "500MB+ storage",
       "Android 9+"
     ]
   },
 
   "ios": {
     "devices": [
-      "iPhone 6s and newer",
-      "iPad 5th Generation and newer",
+      "iPhone 6s or newer",
+      "iPad 5th Gen or newer",
       "iPad Mini 4+",
       "iPad Air 2+"
     ],
     "performance": [
-      "Stable 60 FPS on modern iPhones",
-      "Smooth gameplay with animations and effects",
-      "Compatible with iOS 10+"
+      "Smooth 60 FPS gameplay",
+      "Stable performance on modern iPhones",
+      "iOS 10 or higher recommended"
     ]
   },
 
   "faqs": [
     {
       "question": "Is Among Us free on mobile?",
-      "answer": "Yes, Among Us is free to download and play on Android and iOS, with optional in-game purchases."
+      "answer": "Yes! Free to download on Android and iOS, with optional cosmetic purchases."
     },
     {
-      "question": "Does Among Us support crossplay?",
-      "answer": "Yes. Mobile players can play with PC and console users in the same lobby."
+      "question": "Can I play with friends on different devices?",
+      "answer": "Absolutely! Crossplay works between mobile, PC, and Nintendo Switch."
     },
     {
-      "question": "How much storage does Among Us require?",
-      "answer": "The mobile version requires around 300–500MB depending on device and updates."
+      "question": "How much space do I need?",
+      "answer": "Roughly 300–500MB, depending on updates and maps."
     },
     {
-      "question": "Is Among Us safe for kids?",
-      "answer": "Yes, but text chat can include open communication, so parental guidance is recommended."
+      "question": "Is it safe for kids?",
+      "answer": "Yes, but text chat can be explicit; parental guidance recommended 👨‍👩‍👧‍👦."
     },
     {
-      "question": "Does Among Us work on low-end phones?",
-      "answer": "Yes. The game is extremely lightweight and can run smoothly on most low-end devices."
+      "question": "Will it run on a low-end phone?",
+      "answer": "Yes, Among Us is light and runs smoothly on most devices. Perfect for sneaky play anywhere!"
     }
   ]
 }
