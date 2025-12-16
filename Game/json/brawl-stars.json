@@ -1,17 +1,18 @@
 {
   "title": "Brawl Stars",
-  "subtitle": "Fast-paced 3v3 battles, chaotic solo showdowns, iconic Brawlers, and nonstop action — Brawl Stars is pure Supercell madness with skill, strategy, and a little bit of chaos 😄💥.",
+  "subtitle": "Fast-paced 3v3 battles, chaotic solo showdowns, iconic Brawlers, and nonstop action — Brawl Stars is pure Supercell madness where skill meets strategy… and sometimes pure chaos 😄💥.",
+
   "trailer": "https://www.youtube.com/embed/CaryjOdYFa0",
 
   "developer": "Supercell",
   "releaseYear": "2018",
   "genre": "Action / MOBA / Multiplayer / Arcade Shooter",
 
-  "about": "<p>Brawl Stars is one of the most energetic and addictive mobile games ever created by Supercell. Designed for quick matches, intense action, and endless replayability, the game throws players into fast 3v3 battles, solo survival modes, and special events that constantly change the way you play.</p><p>Each match lasts only a few minutes, but every second is packed with strategy, movement, aiming skill, and teamwork. Whether you're dodging shots, controlling objectives, or chasing that last enemy in Showdown, Brawl Stars keeps your adrenaline high at all times.</p><p>The heart of the game lies in its unique characters called Brawlers. Every Brawler has a distinct personality, attack style, Super ability, Gadgets, and Star Powers. Some rush head-first into battle, some control areas from afar, and others support teammates — choosing the right Brawler can completely change the outcome of a match.</p><p>With constant updates, new Brawlers, seasonal content, and competitive ranked play, Brawl Stars never feels old. It’s easy to learn, hard to master, and always fun — whether you're playing casually or grinding trophies like a pro.</p>",
+  "about": "<p>Brawl Stars is one of Supercell’s most explosive and fast-moving mobile games, built for players who love action without long waiting times ⏱️🔥. Every match is short, intense, and packed with decisions that can flip the game in seconds.</p><p>The gameplay focuses on tight controls, sharp aiming, smart positioning, and teamwork. Whether you’re holding gems, scoring goals, or surviving alone in Showdown, every movement matters. One mistake… and boom 💥 — back to the lobby.</p><p>What truly makes Brawl Stars special is its colorful cast of Brawlers. Each character has a unique attack, Super ability, Gadgets, and Star Powers that completely change how they play. Some dominate close range, others control maps, and a few exist purely to cause chaos 😏.</p><p>With constant updates, balance changes, new modes, and fresh Brawlers, the game never feels stale. It’s easy to pick up, hard to master, and dangerously addictive — just one more match… always 😄.</p>",
 
-  "overview": "<p>Brawl Stars focuses on short, action-heavy matches that reward quick thinking and teamwork. Controls are simple, but mastering movement, aiming, and Super timing separates average players from true legends.</p><p>The game features multiple modes like Gem Grab, Brawl Ball, Heist, Showdown, and Knockout — each with different objectives and strategies. Maps rotate daily, keeping gameplay fresh and forcing players to adapt instead of relying on one trick.</p><p>Progression revolves around unlocking Brawlers, upgrading them with Power Points, unlocking Gadgets and Star Powers, and climbing the Trophy Road. The higher you climb, the tougher (and smarter 😏) your opponents become.</p>",
+  "overview": "<p>Brawl Stars is designed around fast decision-making and mechanical skill. Matches usually last under three minutes, but those minutes demand focus, teamwork, and map awareness.</p><p>Multiple game modes like Gem Grab, Brawl Ball, and Showdown force players to adapt their strategies constantly. No single Brawler dominates everywhere — map knowledge and team synergy decide victories.</p><p>Progression feels rewarding without being overwhelming. Unlocking new Brawlers, upgrading abilities, and climbing the Trophy Road keeps players motivated, while competitive modes challenge skilled players who want to prove they’re not just button-spammers 😎.</p>",
 
-  "story": "<p>Brawl Stars doesn’t follow a traditional story mode, but each Brawler has their own lore, personality, and theme — from heroic protectors to sneaky troublemakers and chaotic wildcards.</p><p>The world of Brawl Stars feels like a cartoon action universe where anything can happen. Animated shorts, voice lines, seasonal themes, and hidden lore clues add depth and humor, making every Brawler feel alive rather than just another character.</p>",
+  "story": "<p>Brawl Stars doesn’t follow a traditional story campaign, but its universe is full of personality and hidden lore. Every Brawler has a backstory, voice lines, and visual style that adds charm and humor.</p><p>From mysterious theme parks to futuristic cities, the game’s seasonal themes and animations create a living cartoon world. It doesn’t take itself too seriously — and that’s exactly why it works 😄.</p>",
 
   "platforms": [
     { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
@@ -24,15 +25,15 @@
 
   "gameplay": {
     "mechanics": [
-      "Twin-stick shooting with smooth touch controls",
-      "Unique Supers for every Brawler",
-      "Gadgets and Star Powers for advanced gameplay",
-      "Fast-paced 3v3 and solo battles",
+      "Smooth twin-stick shooting with precise touch controls 🎯",
+      "Unique Supers that can instantly change a match",
+      "Gadgets and Star Powers for advanced playstyles",
+      "Fast 3v3 team battles and intense solo survival",
       "Destructible environments and map control",
-      "Skill-based aiming and movement",
-      "Team composition and synergy",
-      "Daily rotating maps and modes",
-      "Trophy-based matchmaking system"
+      "Skill-based aiming, dodging, and positioning",
+      "Team composition and Brawler synergy",
+      "Daily rotating maps to prevent repetitive gameplay",
+      "Trophy-based matchmaking for fair competition"
     ],
     "genre": [
       "Action",
@@ -63,29 +64,29 @@
   ],
 
   "tips": [
-    "Don’t rush blindly — patience wins more games than button mashing.",
+    "Don’t rush blindly — smart positioning wins more games than wild shooting 😄.",
     "Learn your Brawler’s range and play to their strengths.",
-    "Use walls wisely for cover and surprise attacks.",
-    "Save your Super for key moments, not just because it looks cool 😄.",
-    "Control the map instead of chasing kills.",
-    "Play with teammates who complement your Brawler.",
-    "Upgrade fewer Brawlers at first instead of spreading resources.",
-    "Watch replays to understand your mistakes (yes, even the painful ones)."
+    "Use walls for cover, ambushes, and escapes.",
+    "Save your Super for clutch moments, not just because it looks cool 💥.",
+    "Focus on objectives, not just kills.",
+    "Play with teammates whose Brawlers complement yours.",
+    "Upgrade a few Brawlers instead of spreading resources thin.",
+    "Watch replays to learn from mistakes — yes, even the embarrassing ones 😅."
   ],
 
   "features": [
-    "Dozens of unique Brawlers with distinct abilities",
-    "Fast matches perfect for quick play sessions",
-    "Colorful cartoon art style with smooth animations",
-    "Regular updates with new characters and modes",
-    "Competitive ranked gameplay (Power League)",
-    "Seasonal events and themed content",
-    "Social play with clubs and friends",
-    "Balanced gameplay focused on skill",
-    "Humor-filled voice lines and animations"
+    "Wide roster of unique Brawlers with distinct abilities",
+    "Short matches perfect for quick gaming sessions",
+    "Bright cartoon art with fluid animations",
+    "Frequent updates and balance improvements",
+    "Competitive ranked mode for serious players",
+    "Seasonal themes and special events",
+    "Social gameplay with clubs and friends",
+    "Skill-focused gameplay over pure pay-to-win",
+    "Humorous voice lines and personality-driven characters"
   ],
 
-  "whyPlay": "Brawl Stars is perfect if you want a game that’s easy to jump into but hard to master. It blends fast action, strategy, teamwork, and humor into short matches that never feel boring — whether you’re playing seriously or just having fun blasting enemies after a long day.",
+  "whyPlay": "Brawl Stars is perfect for players who want instant action without long commitments. It rewards skill, teamwork, and smart play while keeping things fun, colorful, and unpredictable. Whether you’re grinding trophies or just having fun, every match feels fresh and exciting 😎🔥.",
 
   "android": {
     "minimum": [
@@ -123,19 +124,19 @@
     },
     {
       "question": "Can I play Brawl Stars solo?",
-      "answer": "Yes, modes like Solo Showdown allow you to play alone without teammates."
+      "answer": "Yes, Solo Showdown allows you to play alone without relying on teammates."
     },
     {
       "question": "Is Brawl Stars competitive?",
-      "answer": "Absolutely. Power League and high-trophy matchmaking offer serious competitive gameplay."
+      "answer": "Definitely. Power League and high-trophy matches offer serious competitive challenges."
     },
     {
       "question": "Does Brawl Stars require internet?",
-      "answer": "Yes, an active internet connection is required for all game modes."
+      "answer": "Yes, an active internet connection is required for all modes."
     },
     {
       "question": "Is Brawl Stars suitable for casual players?",
-      "answer": "Yes! You can play casually or competitively — the game supports both playstyles perfectly."
+      "answer": "Absolutely. You can enjoy quick casual matches or dive deep into competitive play — your choice 😄."
     }
   ]
 }

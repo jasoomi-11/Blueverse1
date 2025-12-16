@@ -1,23 +1,18 @@
 {
   "title": "Clash Royale",
-  "subtitle": "Real-time strategy card battles with troops, spells, arenas, and competitive multiplayer action.",
+  "subtitle": "Fast-paced real-time card battles where smart decks, perfect timing, and a bit of mind games decide who takes the crown 👑",
+
   "trailer": "https://www.youtube.com/embed/y9yCNrBhtgk",
-
-
-
-
-
-
 
   "developer": "Supercell",
   "releaseYear": "2016",
   "genre": "Real-Time Strategy / Card Battle / Competitive Multiplayer",
 
-  "about": "<p>Clash Royale is Supercell’s award-winning, real-time strategy and card-based multiplayer game that blends tower defense, MOBA-style gameplay, and tactical deck building. Every match places two players in fast-paced 1v1 or 2v2 battles where smart elixir management, precise troop placement, and counter-strategies decide victory.</p><p>The game features hundreds of cards including troops, buildings, and spells — from the powerful Mega Knight and Royal Giant to the strategic Miner and Goblin Barrel. Each card can be upgraded to improve hitpoints, damage, and utility. With balanced gameplay, seasonal updates, and global esports tournaments, Clash Royale continues to dominate the competitive mobile strategy scene.</p><p>Arena progression takes players from Goblin Stadium all the way to the legendary arenas, unlocking new cards, star levels, champions, banners, emotes, chests, and game mechanics. Daily tasks, seasons, trophy pushing, ranked leagues, Magic Items, and Clan Wars 2.0 give players long-term progression and constant rewards.</p><p>Clash Royale is famous for its quick battles — each match lasts 3 minutes (or longer in overtime). The game rewards creativity, timing, and strategic decision-making rather than just fast tapping. With millions of active players worldwide and frequent balance patches, Clash Royale delivers an ever-evolving competitive experience.</p>",
+  "about": "<p>Clash Royale is Supercell’s iconic real-time strategy card game that turns quick thinking and smart decisions into instant victory or painful defeat (sometimes in the last second 😅). The game mixes tower defense, MOBA-style lane control, and collectible card mechanics into intense 1v1 and 2v2 battles that last just a few minutes.</p><p>Players build an 8-card deck using troops, spells, and buildings, then manage elixir in real time to attack enemy towers and defend their own. From heavy hitters like Mega Knight and P.E.K.K.A to sneaky cards like Miner, Goblin Barrel, and Skeletons, every card has a purpose — and every mistake is punished.</p><p>Arena progression keeps things exciting. As players climb from Goblin Stadium to legendary arenas, they unlock new cards, champions, banners, emotes, star levels, and ranked leagues. Regular seasons, balance changes, Magic Items, and Clan Wars 2.0 ensure the meta never stays the same for too long.</p><p>Clash Royale is famous for its fast matches — 3 minutes of regulation followed by intense overtime where one wrong move can cost the game. Skill, timing, and prediction matter more than speed, making it one of the most competitive strategy games on mobile.</p>",
 
-  "overview": "<p>Clash Royale’s core gameplay revolves around constructing an 8-card battle deck that synergizes with your playstyle. Players must manage a constant elixir flow to deploy troops, counter enemy units, and destroy opponent towers. Crown Towers help defend but must also be protected through smart positioning.</p><p>The game features multiple arenas with unique themes and unlock rewards. Players rise through leagues by earning trophies, while seasonal resets keep competition intense. With tower damage rebalancing, champions, and rotation-based card cycles, every match feels dynamic and strategically rich.</p><p>Both solo and team-based modes allow players to enjoy competitive play, casual matches, practice battles, and special events.</p>",
+  "overview": "<p>The core of Clash Royale is deck-building strategy. Each deck contains eight cards that must work together smoothly. Players manage elixir flow, rotate cards efficiently, and place troops carefully to counter enemy pushes while building their own offense.</p><p>Different arenas introduce new cards and mechanics, pushing players to adapt constantly. Trophy Road and the Path of Legends offer ranked progression, while seasonal resets keep competition fresh and challenging.</p><p>Whether playing solo ladder, teaming up in 2v2, or fighting clan battles, Clash Royale offers both casual fun and serious competitive depth.</p>",
 
-  "story": "<p>Clash Royale does not follow a traditional story but exists in the shared universe of Supercell’s Clash franchise. Characters like the Archer Queen, Barbarian King, Royal Ghost, and Hog Rider originate from Clash of Clans, bringing their personalities and lore into the arena. The world revolves around clans competing in friendly battles, clan wars, and seasonal events.</p><p>While there is no linear narrative, players uncover character identities and relationships through card descriptions, animations, arena themes, and event updates.</p>",
+  "story": "<p>Clash Royale doesn’t follow a single storyline but exists in the shared Clash universe. Familiar faces from Clash of Clans — like the Barbarian King, Archer Queen, Hog Rider, and Royal Ghost — enter the arena with big personalities and even bigger emotes.</p><p>Each arena has its own theme, atmosphere, and visual storytelling. Card descriptions, animations, and seasonal events quietly expand the lore, giving life to the world without slowing down the action.</p>",
 
   "platforms": [
     { "name": "Android", "icon": "/assets/icons/mobile.png", "available": true },
@@ -30,16 +25,16 @@
 
   "gameplay": {
     "mechanics": [
-      "Real-time 1v1 and 2v2 strategic card battles",
-      "Elixir management and troop cycling",
-      "Arena progression from Goblin Stadium to Legendary Arena",
-      "Champions with unique abilities (Monk, Archer Queen, Skeleton King, Golden Knight)",
-      "Deck building strategy with 8-card combinations",
-      "Spells, troops, and buildings with counter mechanics",
-      "Tower defense + offensive lane control strategy",
-      "Seasonal balance changes and meta shifts",
-      "Clan Wars 2.0 with river races and clan progression",
-      "Star Levels for cosmetic upgrades"
+      "Real-time 1v1 and 2v2 competitive battles",
+      "Elixir-based card deployment and rotation",
+      "Arena and league progression system",
+      "Champions with active abilities",
+      "8-card deck-building strategy",
+      "Lane-based offense and defense",
+      "Counter-based gameplay and prediction",
+      "Seasonal balance changes",
+      "Clan Wars 2.0 progression",
+      "Cosmetic Star Levels and banners"
     ],
     "genre": [
       "Real-Time Strategy",
@@ -47,11 +42,11 @@
       "MOBA-Lite"
     ],
     "modes": [
-      "1v1 Battles",
+      "1v1 Ladder Battles",
       "2v2 Team Battles",
       "Clan Wars 2.0",
-      "Trophy Road Battles",
-      "Ranked Path of Legends",
+      "Trophy Road",
+      "Path of Legends",
       "Special Event Modes",
       "Party Modes",
       "Training Camp"
@@ -61,39 +56,39 @@
   "gameplayTrailers": [
     {
       "thumb": "https://img.youtube.com/vi/Ob8aS7jQp2s/maxresdefault.jpg",
-      "title": "Clash Royale Official Launch Trailer"
+      "title": "Clash Royale – Official Trailer"
     },
     {
       "thumb": "https://img.youtube.com/vi/gnXUfxIJIvA/maxresdefault.jpg",
-      "title": "Clash Royale Gameplay Showcase"
+      "title": "Clash Royale – Gameplay Showcase"
     }
   ],
 
   "tips": [
-    "Always track opponent’s elixir and cycle to predict their next card.",
-    "Use cheap cycle cards like Skeletons and Ice Spirit for faster rotations.",
-    "Only overcommit when you know your opponent is low on elixir.",
-    "Defend efficiently using building placements instead of overspending.",
-    "Study meta decks but adjust them to fit your playstyle.",
-    "Push opposite lane after defending a big push.",
-    "Never waste elixir; leaking gives opponent free advantage.",
-    "Use champions smartly — their abilities can win entire trades."
+    "Always keep track of opponent elixir — it wins more games than luck.",
+    "Cheap cycle cards help you out-rotate heavy decks.",
+    "Defend first, then counter-push for maximum value.",
+    "Never leak elixir unless you enjoy giving free advantage 😄.",
+    "Buildings save elixir when used correctly.",
+    "Split pushes can overwhelm slow decks.",
+    "Adapt to the meta, but don’t blindly copy decks.",
+    "Champion abilities can flip entire matches — timing is everything."
   ],
 
   "features": [
-    "Fast-paced real-time multiplayer matches",
-    "Hundreds of cards including champions, troops, spells, and buildings",
-    "Season-based updates with new rewards and balance changes",
-    "Clan Wars 2.0 with coordinated team progression",
-    "Path of Legends competitive ranked ladder",
-    "Daily challenges, tournaments, and event modes",
-    "Advanced progression with gold, star points, magic items, and chests",
-    "Team-based 2v2 battles for casual fun",
-    "Esports scene with global championships",
-    "Strategic depth through card synergies and counters"
+    "Short, intense real-time matches",
+    "Large collection of cards and champions",
+    "Constant seasonal updates and balance patches",
+    "Competitive ranked ladder system",
+    "Clan Wars 2.0 team progression",
+    "Special events and limited-time modes",
+    "Deep strategy through counters and synergies",
+    "2v2 modes for relaxed gameplay",
+    "Global esports tournaments",
+    "Iconic Supercell art style and animations"
   ],
 
-  "whyPlay": "Clash Royale is perfect for players who love strategy, quick competitive battles, and deep deck-building. Its fast-paced gameplay, frequent updates, balanced meta, and global multiplayer scene make it one of the most addictive and rewarding strategy games ever released.",
+  "whyPlay": "Clash Royale is perfect for players who love fast strategy, mind games, and competitive matches that reward skill over grind. Every battle feels different, every win feels earned, and every mistake teaches a lesson — sometimes the hard way 😅.",
 
   "android": {
     "minimum": [
@@ -113,13 +108,13 @@
   "ios": {
     "devices": [
       "iPhone 6s and newer",
-      "iPad 5th Generation and newer",
+      "iPad 5th Gen and newer",
       "iPad Mini 4+",
       "iPad Air 2+"
     ],
     "performance": [
-      "Stable 60 FPS on A11 Bionic or newer",
-      "Smooth gameplay with high animation settings",
+      "Stable 60 FPS on supported devices",
+      "Smooth animations and effects",
       "Compatible with iOS 11+"
     ]
   },
@@ -127,23 +122,23 @@
   "faqs": [
     {
       "question": "Is Clash Royale free to play?",
-      "answer": "Yes, Clash Royale is completely free to download and play on Android and iOS."
+      "answer": "Yes, Clash Royale is free to download and play with optional in-app purchases."
     },
     {
-      "question": "Does Clash Royale have pay-to-win elements?",
-      "answer": "Progress can be faster with purchases, but skilled players can reach high leagues without spending money."
+      "question": "Is Clash Royale pay-to-win?",
+      "answer": "Progress can be faster with spending, but skilled players can compete at high levels without paying."
     },
     {
-      "question": "Are there esports tournaments in Clash Royale?",
-      "answer": "Yes, Supercell hosts official global championships and regional events every season."
+      "question": "Does Clash Royale have esports?",
+      "answer": "Yes, official global and regional tournaments are held regularly."
     },
     {
       "question": "Can Clash Royale be played offline?",
-      "answer": "No, an active internet connection is required."
+      "answer": "No, an internet connection is required for all matches."
     },
     {
-      "question": "Is Clash Royale suitable for beginners?",
-      "answer": "Yes, the game includes Training Camp, beginner arenas, and easy starter decks."
+      "question": "Is Clash Royale beginner-friendly?",
+      "answer": "Yes, Training Camp and early arenas help new players learn the basics."
     }
   ]
 }

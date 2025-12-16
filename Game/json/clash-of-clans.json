@@ -1,24 +1,18 @@
 {
   "title": "Clash of Clans",
-  "subtitle": "Build your village, train powerful armies, and fight millions of players in Supercell’s legendary strategy game.",
+  "subtitle": "Build your village, command legendary armies, and prove your strategy skills in Supercell’s timeless multiplayer war game 🏰",
+
   "trailer": "https://www.youtube.com/embed/hdi8Fp874_U",
-
-
-
-
-
-
-
 
   "developer": "Supercell",
   "releaseYear": "2012",
   "genre": "Strategy / Base-Building / Online Multiplayer",
 
-  "about": "<p>Clash of Clans is one of the world’s most successful strategy games, combining base-building, real-time battles, hero upgrades, clan wars, and long-term progression into one addictive package. Developed by Supercell, the game lets players build and upgrade their village, train troops, unlock heroes, and battle opponents in PvP and PvE modes.</p><p>Players must manage gold, elixir, and dark elixir to strengthen defenses, unlock new troops, and improve their attacking power. Heroes like the Barbarian King, Archer Queen, Grand Warden, Royal Champion, and Battle Machine add depth, each with abilities that change attack strategies. With Clan Wars, Clan War Leagues, Clan Games, challenges, events, and Builder Base 2.0, Clash of Clans offers constant updates, balanced gameplay, and competitive action.</p><p>The game rewards strategy, planning, and teamwork. Whether you're a casual player building slowly or a competitive player grinding trophies and leagues, the game offers endless progression through Town Hall levels, new troops, new defenses, and new mechanics added yearly.</p>",
+  "about": "<p>Clash of Clans is not just a game — it’s a long-term strategy journey that rewards patience, planning, and smart decision-making. Developed by Supercell, this legendary title lets players design powerful villages, train diverse armies, unlock heroes, and battle millions of players worldwide in real-time PvP combat.</p><p>The heart of Clash of Clans lies in progression. Gold, Elixir, and Dark Elixir must be managed carefully to upgrade defenses, strengthen troops, and level up heroes. Iconic heroes like the Barbarian King, Archer Queen, Grand Warden, Royal Champion, and Battle Machine bring personality and tactical depth, often deciding the outcome of battles (and yes, Queen Walks still rule 👑).</p><p>From casual farming to intense Clan War Leagues, the game offers something for everyone. Regular updates, balance changes, and new features ensure that Clash of Clans never feels outdated, even after more than a decade of dominance.</p>",
 
-  "overview": "<p>Clash of Clans centers around building your home village, defending it from raids, and launching your own attacks to gain loot. Every building, troop, and hero is part of your long-term strategy. Upgrading your Town Hall unlocks new layers of gameplay, including advanced defenses, new troops, siege machines, and hero abilities.</p><p>The game features two major modes: the Home Village and the Builder Base. Home Village focuses on strategic attacks, clan wars, farming, and trophy pushing. Builder Base (including Builder Base 2.0) offers real-time versus battles, unique troops, and powerful mechanics like the Battle Machine and Mega Mini.</p><p>Players can also join clans, participate in Clan Wars, Clan Games, and CWL (Clan War Leagues), and compete in monthly events. Supercell regularly adds new challenges, skins, magic items, hero equipment, and seasonal rewards to keep the experience fresh and competitive.</p>",
+  "overview": "<p>Clash of Clans revolves around two main goals: build an unbreakable village and destroy enemy bases for loot and trophies. Every upgrade matters — from walls and defenses to troop levels and hero abilities. Advancing your Town Hall unlocks new mechanics, stronger units, siege machines, and deeper strategic options.</p><p>The Home Village focuses on traditional attacks, clan wars, farming, and trophy pushing, while the Builder Base introduces real-time versus battles and unique troops. Builder Base 2.0 adds faster pacing, better rewards, and more strategic depth, making it more than just a side mode.</p><p>Clan activities play a huge role. Clan Wars, Clan War Leagues, and Clan Games encourage teamwork, coordination, and smart planning. Seasonal events, Gold Pass rewards, magic items, and hero equipment keep progression exciting and rewarding.</p>",
 
-  "story": "<p>Clash of Clans doesn't follow a linear story but takes place in a fantasy world filled with warriors, wizards, giants, dragons, and heroes. The lore suggests a world of magical forces, ancient kingdoms, and legendary warriors competing for resources and territory.</p><p>The Home Village represents your growing kingdom, while the Builder Base reveals a mysterious island ruled by Master Builder, who crafts unique inventions. As Supercell releases new troops, heroes, and gameplay features, the world expands with subtle storytelling through events, challenges, and character designs.</p>",
+  "story": "<p>Clash of Clans doesn’t tell a single fixed story, but it lives in a fantasy world filled with brave warriors, powerful magic, and endless rivalries. Barbarians charge fearlessly, Wizards rain fireballs, Dragons dominate the skies, and heroes stand as legends of the battlefield.</p><p>The Home Village represents your growing kingdom, while the Builder Base hints at mysterious engineering and ancient inventions led by the Master Builder. Through new troops, skins, sceneries, and events, Supercell subtly expands the lore without ever slowing down gameplay.</p>",
 
   "platforms": [
     { "name": "Android", "icon": "/assets/icons/mobile.png", "available": true },
@@ -33,16 +27,16 @@
 
   "gameplay": {
     "mechanics": [
-      "Upgrade your Town Hall to unlock powerful defenses and new buildings",
-      "Attack other villages for loot and trophies",
-      "Train troops from multiple tiers including elixir, dark elixir, and super troops",
-      "Deploy heroes with unique abilities in battle",
-      "Strategically plan your base to defend against enemy raids",
-      "Participate in Clan Wars and Clan War Leagues",
-      "Compete in Builder Base versus battles",
-      "Unlock and upgrade siege machines for high-level attacks",
-      "Use hero equipment to boost combat power",
-      "Progress through leagues for better rewards"
+      "Town Hall progression unlocking new gameplay layers",
+      "Strategic village design to counter enemy attack styles",
+      "Multiple troop types including Super Troops",
+      "Heroes with powerful active abilities",
+      "Siege machines for advanced base breaking",
+      "Clan Wars and Clan War Leagues competition",
+      "Builder Base real-time versus battles",
+      "Hero equipment customization",
+      "League system for trophy pushing",
+      "Long-term upgrade planning and resource management"
     ],
     "genre": [
       "Base-Building Strategy",
@@ -66,39 +60,39 @@
   "gameplayTrailers": [
     {
       "thumb": "https://img.youtube.com/vi/eyvM6pZmQjU/maxresdefault.jpg",
-      "title": "Clash of Clans Official Trailer"
+      "title": "Clash of Clans – Official Trailer"
     },
     {
       "thumb": "https://img.youtube.com/vi/DvVevTqTbx4/maxresdefault.jpg",
-      "title": "Clash of Clans Update Gameplay"
+      "title": "Clash of Clans – Major Update Gameplay"
     }
   ],
 
   "tips": [
-    "Always upgrade offense (troops, spells, heroes) before maxing defense.",
-    "Use armies suited to your Town Hall level like BARCH, GiWi, Dragon, Hybrid, or Electro Dragons.",
-    "Save magic items for important upgrades like Town Hall, heroes, and lab.",
-    "Join an active clan to participate in Wars and Clan Games.",
-    "Plan your base with anti-3-star or anti-rush layouts depending on your goal.",
-    "Upgrade your Laboratory constantly—troop strength is everything.",
-    "Use Super Troops for powerful farming and war strategies.",
-    "Farm in lower leagues to get easy bases with high loot."
+    "Always upgrade troops, spells, and heroes before heavy defenses.",
+    "Choose armies based on Town Hall level, not trends.",
+    "Use magic items wisely — patience saves months.",
+    "Active clans = faster progress and better rewards.",
+    "Anti-3-star bases are best for wars, farming bases for loot.",
+    "Never let your Laboratory sleep — upgrades win wars.",
+    "Super Troops can make farming ridiculously easy.",
+    "Drop trophies if loot feels dry — smart farming beats pride 😄."
   ],
 
   "features": [
-    "Massive progression system from Town Hall 1 to 17",
-    "Home Village and Builder Base gameplay",
-    "Clan Wars and Clan War Leagues competitive modes",
-    "Powerful heroes with unique abilities",
-    "Super Troops and siege machine strategies",
-    "Seasonal Gold Pass with skins and perks",
-    "Magic items for boosts and instant upgrades",
-    "Regular balance updates and new content",
-    "Friendly battles and live clan training",
-    "Worldwide competitive esports events"
+    "Town Hall progression from 1 to 17",
+    "Two distinct villages with unique mechanics",
+    "Deep clan-based competitive gameplay",
+    "Iconic heroes with evolving abilities",
+    "Super Troops and siege strategies",
+    "Gold Pass with skins and boosts",
+    "Magic items for faster progression",
+    "Frequent updates and balance patches",
+    "Friendly battles for practice",
+    "One of the largest mobile gaming communities"
   ],
 
-  "whyPlay": "Clash of Clans delivers deep strategy, smart progression, and nonstop updates. Whether you enjoy building, attacking, competing, or grinding, CoC gives endless long-term goals and a thriving global community.",
+  "whyPlay": "Clash of Clans rewards smart thinking, long-term planning, and teamwork. It’s a game where patience pays off, strategy beats speed, and every upgrade feels meaningful — making it one of the greatest mobile strategy games ever created.",
 
   "android": {
     "minimum": [
@@ -121,8 +115,8 @@
       "iPad Air 2+"
     ],
     "performance": [
-      "Runs smoothly at 60 FPS on A10 chip or newer",
-      "Supports high-quality animations and effects",
+      "Smooth 60 FPS on supported devices",
+      "Stable performance during wars and raids",
       "Compatible with iOS 11+"
     ]
   },
@@ -130,23 +124,23 @@
   "faqs": [
     {
       "question": "Is Clash of Clans free to play?",
-      "answer": "Yes, Clash of Clans is completely free with optional in-app purchases."
+      "answer": "Yes, the game is free with optional in-app purchases."
     },
     {
       "question": "Does Clash of Clans support cross-platform?",
-      "answer": "Yes, progress is synced through Supercell ID across Android and iOS."
+      "answer": "Yes, progress syncs across Android and iOS using Supercell ID."
     },
     {
-      "question": "How much storage does Clash of Clans require?",
-      "answer": "Approximately 500MB to 1GB depending on device and updates."
+      "question": "How much storage does Clash of Clans need?",
+      "answer": "Around 500MB to 1GB depending on updates."
     },
     {
-      "question": "What is the maximum Town Hall level?",
-      "answer": "The current maximum Town Hall level is 17."
+      "question": "What is the highest Town Hall level?",
+      "answer": "Currently, the maximum Town Hall level is 17."
     },
     {
-      "question": "Can you play Clash of Clans on PC?",
-      "answer": "Yes, using Android emulators like BlueStacks or official Google Play Games (where available)."
+      "question": "Can Clash of Clans be played on PC?",
+      "answer": "Yes, via Android emulators or Google Play Games on PC (where supported)."
     }
   ]
 }
