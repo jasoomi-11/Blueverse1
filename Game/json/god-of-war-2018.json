@@ -1,17 +1,17 @@
 {
-  "title": "God of War (2018) – Console Edition",
-  "subtitle": "A cinematic action-adventure masterpiece — rebuilt from the ground up with a Norse mythology setting, emotional storytelling, brutal combat, and incredible PlayStation optimization.",
+  "title": "God of War (2018) – Console Edition 🪓",
+  "subtitle": "A bold reinvention of a legendary series — blending Norse mythology, emotional storytelling, brutal axe combat, and cinematic perfection into one unforgettable PlayStation experience.",
   "trailer": "https://www.youtube.com/embed/K0u_kAWLJOA",
 
   "developer": "Santa Monica Studio",
   "releaseYear": "2018",
   "genre": "Action Adventure / Story-Driven Combat",
 
-  "about": "<p>God of War (2018) redefines the legendary PlayStation franchise, introducing a deeper, more emotional story and a complete overhaul of gameplay. Set in the world of Norse mythology, the game follows Kratos and his son Atreus on a dangerous journey across the realms to fulfill a final wish. With cinematic presentation, seamless combat, and a single-shot camera technique, the game offers one of the most immersive experiences ever created for consoles.</p><p>The game features a brand-new combat system built around the Leviathan Axe — a magical weapon that can be thrown, recalled, and upgraded with runic abilities. Exploration is richer and more organic, blending puzzles, lore, and semi-open world regions. Every encounter feels meaningful, from small enemy skirmishes to massive boss battles tied directly to the story. The game utilizes PlayStation hardware to deliver high-end visuals, atmospheric lighting, and detailed world-building.</p><p>God of War (2018) received global acclaim, winning multiple Game of the Year awards for its storytelling, direction, gameplay innovation, and presentation. The father-son dynamic, combined with its emotional depth and expertly-crafted world, solidified its place as one of the greatest PlayStation exclusives ever made.</p>",
+  "about": "<p>God of War (2018) is not just a sequel — it’s a complete rebirth of the franchise 🔥. Moving away from Greek mythology, the game places Kratos in the cold, dangerous world of Norse legends, where monsters are brutal, gods are unpredictable, and parenting is somehow even harder than fighting dragons.</p><p>The story follows Kratos and his son Atreus on a deeply personal journey to fulfill a final promise. Along the way, the game delivers emotional storytelling, unforgettable character moments, and a rare balance between action and heart ❤️. The single-shot camera (no cuts, no loading screens breaking immersion) makes the entire adventure feel like one continuous cinematic experience.</p><p>Combat has been completely redesigned around the Leviathan Axe — a weighty, magical weapon that can be thrown, recalled, and customized with devastating runic attacks. Combined with RPG-style upgrades, exploration, puzzles, and richly detailed environments, God of War (2018) stands as one of the highest-rated and most celebrated console games of all time.</p>",
 
-  "overview": "<p>God of War introduces a tighter and more strategic combat system compared to the previous Greek-era games. The Leviathan Axe, shield abilities, and Atreus' support create layered, skill-based combat that rewards timing, positioning, and tactical decision-making. Exploration includes large hub areas, boats, hidden paths, crafting, and collectibles.</p><p>The world blends mythology with cinematic storytelling — every area features secrets, lore, puzzles, and environmental challenges. The game is optimized for PS4 and runs even better on PS5 through backward compatibility, offering enhanced resolution and smoother performance.</p><p>With its iconic characters, powerful narrative, and polished gameplay, God of War (2018) stands as a defining benchmark for modern action-adventure games.</p>",
+  "overview": "<p>God of War introduces slower, more tactical combat compared to earlier entries, rewarding precision, positioning, and timing 🧠. The Leviathan Axe, defensive shield mechanics, and Atreus’ support abilities create layered battles where strategy matters more than button-mashing.</p><p>The semi-open world is packed with secrets — hidden paths, ancient puzzles, legendary gear, side quests (called Favors), and optional boss encounters. Players explore lakes, ruins, mountains, and mystical realms, all seamlessly connected without immersion-breaking cuts.</p><p>Optimized for PS4 and enhanced further on PS5, the game delivers smooth performance, stunning lighting, and incredible environmental detail — making every realm feel alive, dangerous, and worth exploring.</p>",
 
-  "story": "<p>The story begins with Kratos living in the Norse realm, far from his past in Greece. After the passing of his wife Faye, Kratos and his son Atreus set out to fulfill her final wish: scatter her ashes from the highest peak in all the realms. Their journey reveals ancient secrets, forgotten gods, and the growing bond between father and son. Along the way, Kratos struggles with his violent past while guiding Atreus to understand who he is and the power he holds. The narrative is emotional, intense, and unfolds through seamless gameplay, stunning cinematics, and rich world-building.</p>",
+  "story": "<p>After leaving behind the chaos of Greece, Kratos attempts to live a quieter life in the Norse realm with his son, Atreus. Following the death of his wife Faye, the two set out to scatter her ashes from the highest peak in the realms — a journey that quickly becomes far more dangerous than expected.</p><p>As gods, monsters, and ancient forces intervene, Kratos must confront his violent past while teaching Atreus discipline, survival, and control. The father-son relationship evolves naturally throughout the story, delivering emotional weight rarely seen in action games. It’s a tale of loss, growth, responsibility, and fate — told without ever taking control away from the player 🎭.</p>",
 
   "platforms": [
     { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": true },
@@ -22,13 +22,13 @@
 
   "gameplay": {
     "mechanics": [
-      "Leviathan Axe combat and elemental attacks",
-      "Shield-based parries and counters",
-      "Atreus support abilities and commands",
-      "Cinematic single-shot camera",
-      "Runic attacks and weapon upgrades",
-      "Semi-open world exploration",
-      "Lore, puzzles, dungeons and hidden paths"
+      "Leviathan Axe combat with elemental damage 🪓",
+      "Shield-based parries, blocks, and counters",
+      "Atreus support skills for crowd control",
+      "Continuous single-shot cinematic camera",
+      "Runic attacks and cooldown-based abilities",
+      "Semi-open world exploration and backtracking",
+      "Environmental puzzles, lore, and hidden areas"
     ],
     "genre": [
       "Action Adventure",
@@ -46,53 +46,53 @@
   "gameplayTrailers": [
     {
       "thumb": "https://img.youtube.com/vi/K0u_kAWLJOA/maxresdefault.jpg",
-      "title": "God of War – Official Story Trailer"
+      "title": "God of War – Official Story Trailer 🎬"
     },
     {
       "thumb": "https://img.youtube.com/vi/CJ_GCPaKywg/maxresdefault.jpg",
-      "title": "God of War – Combat Gameplay Trailer"
+      "title": "God of War – Combat Gameplay Trailer ⚔️"
     }
   ],
 
   "tips": [
-    "Upgrade the Leviathan Axe early to unlock stronger runic attacks.",
-    "Use Atreus frequently — he can stun, distract, and weaken enemies.",
-    "Learn enemy attack patterns for effective dodges and parries.",
-    "Explore every region to find Nornir chests, artifacts, and upgrades.",
-    "Focus on runic and cooldown stats for a strong ability-based build.",
-    "Fight Valkyries after upgrading gear — they are the toughest enemies.",
-    "Use your environment: ledges, traps, and explosive objects help a lot."
+    "Upgrade the Leviathan Axe early — it boosts damage and unlocks powerful runic attacks.",
+    "Use Atreus often; he can stun enemies and interrupt dangerous attacks.",
+    "Learn parry timing — perfect blocks turn defense into offense.",
+    "Explore thoroughly for Nornir chests, enchantments, and rare gear.",
+    "Focus on cooldown and runic stats for ability-heavy builds.",
+    "Tackle Valkyries only after upgrading gear — they hit very hard 😅.",
+    "Environmental hazards can do as much damage as your weapons."
   ],
 
   "features": [
-    "Single-shot cinematic camera (no cuts)",
-    "Brutal, skill-based Leviathan Axe combat",
-    "Semi-open world with layered exploration",
-    "Emotional father-son story",
-    "High-quality visuals and lighting",
-    "Armors, runes, talismans and upgrades",
-    "Valkyrie endgame boss encounters"
+    "Seamless single-shot cinematic camera",
+    "Heavy, skill-based axe and shield combat",
+    "Emotionally driven father-son narrative",
+    "Semi-open world with meaningful exploration",
+    "Deep RPG-style gear and upgrade systems",
+    "Optional endgame Valkyrie challenges",
+    "Stunning visuals and atmospheric sound design"
   ],
 
-  "whyPlay": "God of War (2018) offers a powerful blend of storytelling, combat, exploration, and cinematic presentation — setting a new standard for PlayStation-exclusive adventures. It’s the perfect mix of emotional depth, stunning visuals, and satisfying gameplay.",
+  "whyPlay": "God of War (2018) is a masterclass in modern game design — combining emotional storytelling, satisfying combat, and cinematic immersion into an experience that feels both epic and deeply personal. It’s not just a game, it’s a journey 🏔️.",
 
   "playstation": {
     "ps4": [
       "1080p resolution",
-      "Highly polished performance",
-      "Strong visuals and stable gameplay",
+      "Highly optimized performance",
+      "Stable frame rate and visuals",
       "50–60GB storage required"
     ],
     "ps4pro": [
       "4K checkerboard rendering",
-      "Enhanced visual clarity",
-      "Better performance modes"
+      "Improved visual clarity",
+      "Optional performance modes"
     ],
     "ps5": [
-      "4K 60FPS performance mode",
+      "Native 4K at 60 FPS mode 🚀",
       "Near-instant loading times",
-      "Smooth gameplay and higher resolutions",
-      "Improved texture quality"
+      "Smoother gameplay and responsiveness",
+      "Improved texture and lighting quality"
     ]
   },
 
@@ -111,23 +111,23 @@
   "faqs": [
     {
       "question": "Is God of War (2018) available on Xbox?",
-      "answer": "No, God of War (2018) is a PlayStation exclusive and is not available on Xbox consoles."
+      "answer": "No, God of War (2018) is a PlayStation exclusive."
     },
     {
-      "question": "Is God of War open world?",
-      "answer": "Not fully open-world, but it includes large semi-open regions with exploration, puzzles, and side quests."
+      "question": "Is God of War (2018) open world?",
+      "answer": "Not fully open-world, but it features large semi-open areas with exploration and side quests."
     },
     {
       "question": "How long is God of War (2018)?",
-      "answer": "The main story takes around 20–25 hours, while full completion can take 40–50 hours."
+      "answer": "The main story takes about 20–25 hours, while full completion can reach 40–50 hours."
     },
     {
       "question": "Are Valkyries optional?",
-      "answer": "Yes, Valkyries are optional but offer the toughest and most rewarding boss fights in the game."
+      "answer": "Yes, they are optional but offer the toughest and most rewarding fights."
     },
     {
-      "question": "Is there New Game Plus?",
-      "answer": "Yes, God of War includes New Game Plus with new gear, enchantments, and difficulty options."
+      "question": "Does God of War (2018) have New Game Plus?",
+      "answer": "Yes, New Game Plus adds new gear, enchantments, and higher difficulty challenges."
     }
   ]
 }
