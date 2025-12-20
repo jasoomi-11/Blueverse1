@@ -1,26 +1,17 @@
 {
   "title": "Genshin Impact",
-  "subtitle": "A massive open-world action RPG set across seven elemental nations.",
+  "subtitle": "Explore Teyvat — a breathtaking open-world RPG full of elemental magic, epic bosses, and adventure at every corner 🌍⚔️",
   "trailer": "https://youtube.com/embed/HLUY1nICQRY",
-
-
-
-
-
-
-
-
-
 
   "developer": "HoYoverse",
   "releaseYear": "2020",
   "genre": "Action RPG / Open World",
 
-  "about": "<p>Genshin Impact is a massive open-world action RPG that blends exploration, elemental combat and a rich character-driven experience. Built with a global audience in mind, the game offers a living world that rewards curiosity, experimentation and team-building strategy. From its anime-inspired art style to its polished world design, Genshin Impact stands out as one of the most successful cross-platform free-to-play titles ever released.</p><p>The game’s world, Teyvat, is divided into multiple nations—each inspired by real-world cultures and powered by a unique elemental philosophy. Players travel through these regions as the Traveler, uncovering secrets, solving puzzles, and forming a party of four characters, each with their own abilities and elemental strengths.</p><p>Unlike traditional RPGs, Genshin builds progression around exploration rather than grinding. Every region features hidden chests, world bosses, environmental puzzles, shrines, dungeons and special events. Its elemental reaction system—using Pyro, Hydro, Electro, Cryo, Dendro, Geo and Anemo—creates a deep combat experience that encourages combining abilities for powerful results.</p><p>Whether you play casually for story and exploration, or competitively through meta builds and artifact optimization, Genshin Impact caters to all styles with regular updates, new regions, and seasonal content that keeps the world evolving.</p>",
+  "about": "<p>Genshin Impact is the globe-trotting action RPG that makes every other mobile RPG feel like a training dummy. With a living, breathing open world, elemental combat, and hundreds of characters to collect, it’s perfect for explorers, strategists, and loot hunters alike. From the anime-style visuals to carefully crafted regions inspired by real-world cultures, Teyvat feels like a vacation — minus the airfare ✈️.</p><p>The game blends exploration, combat, and character growth seamlessly. Players assemble a party of four characters, experiment with elemental combos like Vaporize, Melt, and Bloom, and tackle puzzles, dungeons, world bosses, and seasonal events. With frequent updates and expansions, the adventure never runs out.</p>",
 
-  "overview": "<p>At its core, Genshin Impact is designed around freedom. Players can climb, swim and glide across enormous landscapes without loading screens. Each region introduces new enemies, traversal mechanics, puzzles and characters that expand gameplay variety. The multi-region design ensures that the game never becomes repetitive, as every environment has its own challenges, culture and world-building details.</p><p>The game is also highly accessible. It runs on PC, PlayStation, mobile devices and even cloud platforms, allowing players to enjoy the same experience across multiple systems with seamless cross-save support. This makes it one of the most flexible and beginner-friendly RPGs available today.</p>",
+  "overview": "<p>Freedom is the keyword: climb mountains, glide through valleys, swim rivers, and soar across Teyvat without tedious loading screens. Each region introduces unique enemies, environmental puzzles, and special traversal mechanics to keep gameplay fresh.</p><p>Genshin Impact is cross-platform and supports seamless save transfers across PC, PlayStation, mobile, and cloud, letting you swap devices without losing progress. It’s perfect for playing on the go, or sitting back with a high-res monitor for maximum eye candy 😎.</p>",
 
-  "story": "<p>Genshin Impact centers on the Traveler, a mysterious figure searching for their lost sibling across the elemental nations of Teyvat. Each nation has its own Archon, culture and storyline, giving players a mix of character-driven narrative, world lore and adventure. Instead of one continuous plot, the game expands through frequent chapter updates that slowly reveal the deeper mysteries of the world.</p>",
+  "story": "<p>Play as the Traveler, searching for your lost sibling across seven elemental nations. Each nation has its own culture, Archon, and storyline, blending mystery, politics, and personal character arcs. Updates expand the story with new regions, side quests, and events, making the narrative feel alive and constantly evolving.</p>",
 
   "platforms": [
     { "name": "PC", "icon": "/assets/icons/pc.png", "available": true },
@@ -33,65 +24,72 @@
 
   "gameplay": {
     "mechanics": [
-      "Elemental reaction combat system",
-      "Open-world exploration",
-      "Team-based character switching",
-      "Boss fights and weekly domains",
-      "Puzzle-solving and traversal freedom"
+      "Elemental reaction combat system with Pyro, Hydro, Electro, Cryo, Dendro, Geo, and Anemo ⚡🔥❄️",
+      "Open-world exploration with climb, glide, and swim mechanics",
+      "Dynamic team-based switching for strategic synergy",
+      "Epic boss fights, weekly domains, and event challenges",
+      "Puzzles, environmental hazards, and secret chests for rewards"
     ],
     "genre": [
       "Action RPG",
       "Open World",
-      "Adventure"
+      "Adventure",
+      "Strategy-lite"
     ],
     "modes": [
-      "Singleplayer",
-      "4-player Co-op (online)"
+      "Singleplayer story",
+      "4-player online Co-op",
+      "Seasonal events and challenge modes"
     ]
   },
 
-"gameplayTrailers": [
-  {
-    "thumb": "https://img.youtube.com/vi/HZtUOYiJRvE/maxresdefault.jpg",
-    "title": "Gameplay Trailer"
-  },
-  {
-    "thumb": "https://img.youtube.com/vi/QsHWebfAwpY/maxresdefault.jpg",
-    "title": "World & Characters Showcase"
-  }
-],
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/HZtUOYiJRvE/maxresdefault.jpg",
+      "title": "Genshin Impact – Gameplay Trailer"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/QsHWebfAwpY/maxresdefault.jpg",
+      "title": "Genshin Impact – World & Characters Showcase"
+    }
+  ],
 
   "tips": [
-    "Focus on building one main DPS and one support early on.",
-    "Prioritize artifact sets over random attacks or high-level weapons.",
-    "Use elemental reactions—Vaporize, Melt, Bloom—to maximize damage.",
-    "Explore every region for free Primogems, chests and ascension materials.",
-    "Daily commissions are the fastest way to gain XP and rewards."
+    "Focus on one main DPS and one dedicated support early — overleveling everyone is a trap ⚠️",
+    "Artifact sets > random stats — synergy is everything!",
+    "Use elemental reactions constantly; a Melt + Vaporize combo can make bosses cry 🥵",
+    "Explore everywhere: hidden chests, domains, and shrines give free Primogems and resources",
+    "Daily commissions are the quickest way to rack up XP and rewards",
+    "Farm bosses and weekly domains strategically — know when to go hard and when to chill",
+    "Build both AoE and single-target characters for flexible parties"
   ],
 
   "features": [
-    "Seven-element combat system",
-    "Massive open world with zero loading",
-    "Over 70 unique playable characters",
-    "Cross-platform play and cross-save",
-    "Beautiful anime-style visuals",
-    "Constant updates with new regions and events",
-    "Story-rich quests and exploration"
+    "Seven-element combat system with reaction-based gameplay",
+    "Massive open-world design with no loading interruptions",
+    "Over 70 unique playable characters with story and personality",
+    "Seamless cross-platform play and cross-save",
+    "Beautiful anime-inspired visuals and dynamic weather",
+    "Regular updates, new regions, seasonal events, and banners",
+    "Challenging boss fights, domains, puzzles, and exploration",
+    "Optimized for mobile, PC, PlayStation, and cloud streaming",
+    "Voice acting in multiple languages",
+    "Accessible for beginners but deep enough for meta players"
   ],
 
-  "whyPlay": "Genshin Impact offers a world-class open-world experience, deep elemental combat, stunning visuals and constant updates. Its combination of adventure, strategy and exploration makes it one of the most replayable RPGs today.",
+  "whyPlay": "Genshin Impact is a playground for adventurers and strategists alike. Stunning visuals, deep elemental combat, and constant world expansions make it one of the most replayable and engaging RPGs today. Whether you’re here for story, exploration, or crunching numbers on artifacts, there’s always something new to do 🌟.",
 
   "android": {
     "minimum": [
-      "Chipset: Snapdragon 845 / Kirin 810",
+      "Snapdragon 845 / Kirin 810",
       "RAM: 4GB",
-      "Storage: 20GB",
+      "Storage: 20GB free",
       "Android 8+"
     ],
     "recommended": [
-      "Chipset: Snapdragon 865+",
+      "Snapdragon 865+",
       "RAM: 6–8GB",
-      "Storage: 20GB+",
+      "Storage: 20GB+ free",
       "Android 10+"
     ]
   },
@@ -104,29 +102,29 @@
       "iPad Air 3+"
     ],
     "performance": [
-      "60 FPS supported on A12 and newer",
-      "Smooth on iOS 14+"
+      "Smooth 60 FPS on A12 Bionic or newer",
+      "Optimized for iOS 14+"
     ]
   },
 
   "pc": {
     "minimum": [
       "CPU: Intel Core i5 or equivalent",
-      "GPU: GTX 1030",
+      "GPU: GTX 1030 / equivalent",
       "RAM: 8GB",
       "Storage: 30GB",
       "OS: Windows 7/8/10"
     ],
     "recommended": [
-      "CPU: Intel i7",
-      "GPU: GTX 1060",
+      "CPU: Intel Core i7",
+      "GPU: GTX 1060 / RX 580",
       "RAM: 16GB",
-      "Storage: SSD",
+      "Storage: SSD 30GB+",
       "OS: Windows 10/11"
     ],
     "high": [
-      "CPU: Intel i7 12th Gen",
-      "GPU: RTX 3060",
+      "CPU: Intel i7 12th Gen / Ryzen 7",
+      "GPU: RTX 3060 / RX 6700 XT",
       "RAM: 16–32GB",
       "Storage: NVMe SSD",
       "OS: Windows 11"
@@ -134,46 +132,36 @@
   },
 
   "playstation": {
-    "ps4": [
-      "1080p 30 FPS",
-      "30GB+ required"
-    ],
-    "ps5": [
-      "4K 60 FPS",
-      "Fast loading via SSD",
-      "Enhanced graphics mode"
-    ]
+    "ps4": ["1080p 30 FPS", "30GB+ storage required"],
+    "ps5": ["4K 60 FPS", "Fast SSD loading", "Enhanced graphics mode"]
   },
 
   "other": {
-    "xbox": [
-      "Not officially available"
-    ],
-    "switch": [
-      "Version planned but not yet released"
-    ],
-    "cloud": [
-      "GeForce NOW supported",
-      "20 Mbps internet recommended"
-    ]
+    "xbox": ["Not officially available"],
+    "switch": ["Version planned but not yet released"],
+    "cloud": ["GeForce NOW supported", "20 Mbps recommended"]
   },
 
   "faqs": [
     {
       "question": "Is Genshin Impact free to play?",
-      "answer": "Yes, the game is fully free with optional cosmetic and character purchases."
+      "answer": "Yes! Fully free, with optional cosmetic and character purchases. No paywall for basic fun 🎮."
     },
     {
-      "question": "Does Genshin Impact support cross-platform?",
-      "answer": "Yes, you can play across PC, PlayStation and mobile with cross-save support."
+      "question": "Can I play on multiple devices?",
+      "answer": "Absolutely! Cross-save works between PC, PlayStation, mobile, and cloud platforms."
     },
     {
-      "question": "How big is the game?",
-      "answer": "Storage varies by platform, typically 20GB–35GB."
+      "question": "How much storage does it need?",
+      "answer": "Depends on platform, roughly 20–35GB, plus extra for optional high-res assets."
     },
     {
-      "question": "Is the game playable on low-end devices?",
-      "answer": "Yes, but performance improves significantly on recommended specs."
+      "question": "Will it run on low-end devices?",
+      "answer": "Yes, but smoother performance requires recommended specs for a buttery experience 🧈."
+    },
+    {
+      "question": "Does Genshin Impact have co-op?",
+      "answer": "Yes, up to 4 players can team up online for exploration, bosses, and events."
     }
   ]
 }
