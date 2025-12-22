@@ -859,6 +859,26 @@
   ],
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-stars.webp",
   "path": "/Game/brawl-stars.html"
+},
+
+{
+  "title": "Boom Beach 🏝️💣",
+  "slug": "boom-beach",
+  "badge": "Strategy | Base Building | Multiplayer",
+  "platforms": [
+    "Android",
+    "iOS"
+  ],
+  "developer": "Supercell",
+  "tags": [
+    "boom beach",
+    "supercell boom beach",
+    "boom beach strategy game",
+    "boom beach base building",
+    "boom beach multiplayer"
+  ],
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/boom-beach.webp",
+  "path": "/Game/boom-beach.html"
 }
 
 

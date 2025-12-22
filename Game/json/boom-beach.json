@@ -1,0 +1,136 @@
+{
+  "title": "Boom Beach 💣🏝️",
+  "subtitle": "A strategic island warfare game where smart planning, powerful troops, hero abilities, and precise attacks decide who rules the seas.",
+  "trailer": "https://www.youtube.com/embed/JlCkYQ2G7bY",
+
+  "developer": "Supercell",
+  "releaseYear": "2014",
+  "genre": "Strategy / Base Building / Real-Time Combat",
+
+  "about": "<p><strong>Boom Beach</strong> is Supercell’s tactical strategy game that blends base-building with real-time attacks in a tropical warzone 🏝️💥. Unlike fast-click games, Boom Beach rewards patience, planning, and intelligent troop deployment. Every battle feels like a puzzle — attack smart, or retreat in shame.</p><p>You command a growing island base while launching attacks against enemy strongholds controlled by the evil <strong>Blackguard</strong>. The goal isn’t just destruction — it’s domination through strategy, upgrades, and perfect timing ⏱️.</p><p>What makes Boom Beach special is its focus on offense-first gameplay. Instead of endless defense waiting, the game pushes players to attack, experiment with troop combinations, and learn from every mistake (yes, even the painful ones 😅).</p>",
+
+  "overview": "<p>In Boom Beach, players build and upgrade their headquarters, defenses, statues, and troops while exploring a massive ocean map filled with enemy bases, resource islands, and special events 🌊.</p><p>Each attack is launched from landing crafts, where troops march toward enemy defenses based on player commands. You control the battlefield using <strong>Gunboat Energy</strong> to deploy artillery, flares, shocks, and hero abilities.</p><p>The game emphasizes tactical decision-making — wrong landing spot? Troops wiped. Bad timing? Base survives. Perfect execution? Total destruction 💣.</p>",
+
+  "story": "<p>Boom Beach takes place in a vibrant tropical archipelago ruled by the ruthless <strong>Blackguard</strong>, an army obsessed with power and control 🧨.</p><p>You play as the commander of a resistance force, freeing islands, rescuing villagers, and uncovering secrets hidden beneath ancient statues and mysterious power stones 🗿.</p><p>As you progress, the conflict expands through Task Forces, Warships, and Operations — turning the fight into a full-scale island war.</p>",
+
+  "platforms": [
+    { "name": "Mobile", "icon": "/assets/icons/mobile.png", "available": true },
+    { "name": "PC (Emulator)", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "Cloud Gaming", "icon": "/assets/icons/cloud.png", "available": false },
+    { "name": "PlayStation", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox", "icon": "/assets/icons/xbox.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Real-time tactical attacks with troop control ⚔️",
+      "Island base building and strategic upgrades",
+      "Gunboat abilities like artillery, shocks, and flares",
+      "Hero units with powerful active skills 🦸",
+      "Statue system for boosting offense and defense",
+      "Large ocean map with enemy bases and events",
+      "Task Forces for cooperative gameplay",
+      "Warships competitive seasonal mode 🚢",
+      "PvE-focused progression with optional PvP"
+    ],
+    "genre": [
+      "Strategy",
+      "Base Builder",
+      "Real-Time Tactics"
+    ],
+    "modes": [
+      "Campaign (PvE)",
+      "Multiplayer Raids",
+      "Task Force Operations",
+      "Warships Mode",
+      "Special Events",
+      "Daily Challenges"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/JlCkYQ2G7bY/maxresdefault.jpg",
+      "title": "Boom Beach Official Trailer 🎬"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/0wJ8U9dp6wY/maxresdefault.jpg",
+      "title": "Boom Beach Gameplay & Strategy Showcase 🎮"
+    }
+  ],
+
+  "tips": [
+    "Offense upgrades matter more than defense — always 🧠",
+    "Use flares to control troop movement precisely",
+    "Shock launchers before they shock you (trust us 😅)",
+    "Upgrade landing crafts early for stronger attacks",
+    "Choose statues that boost damage and gunboat energy",
+    "Scout every base before attacking — never rush",
+    "Heroes can change battles, use abilities wisely",
+    "Retreating is better than losing all troops"
+  ],
+
+  "features": [
+    "Deep tactical combat with real-time control 🎯",
+    "Hero-based gameplay with unique abilities",
+    "Large tropical world map to explore",
+    "Statue system for strategic customization",
+    "Task Forces for cooperative missions",
+    "Warships competitive seasonal gameplay",
+    "No forced PvP pressure — play at your pace",
+    "Regular events and balance updates",
+    "Stylish art and smooth animations",
+    "Strategic gameplay that rewards thinking over speed"
+  ],
+
+  "whyPlay": "Boom Beach is perfect for players who enjoy smart strategy, tactical planning, and satisfying destruction without rushing. It rewards brains over buttons — and every victory actually feels earned 🏆.",
+
+  "android": {
+    "minimum": [
+      "RAM: 2GB",
+      "Storage: 500MB free",
+      "Android 6 or above"
+    ],
+    "recommended": [
+      "RAM: 3–4GB",
+      "Stable internet connection",
+      "Android 9+ for smoother performance"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 6s and newer",
+      "iPad Air 2 and newer",
+      "iPad Mini 4+"
+    ],
+    "performance": [
+      "Smooth gameplay on modern devices",
+      "Optimized for iOS strategy performance",
+      "Compatible with iOS 11+ 📱"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is Boom Beach free to play?",
+      "answer": "Yes, Boom Beach is free to play with optional in-game purchases."
+    },
+    {
+      "question": "Is Boom Beach more PvE or PvP?",
+      "answer": "Boom Beach is heavily PvE-focused, with optional PvP elements."
+    },
+    {
+      "question": "What makes Boom Beach different from Clash of Clans?",
+      "answer": "Boom Beach focuses more on offensive strategy, troop control, and real-time tactical attacks."
+    },
+    {
+      "question": "Can I play Boom Beach offline?",
+      "answer": "No, an internet connection is required to play."
+    },
+    {
+      "question": "Is Boom Beach still updated?",
+      "answer": "Yes, Supercell continues to support the game with events and seasonal content."
+    }
+  ]
+}
