@@ -1,0 +1,129 @@
+{
+  "title": "CSR Racing 2 🏎️🔥",
+  "subtitle": "A console-quality mobile drag racing game where perfect gear shifts, nitrous timing, and car obsession decide who rules the street — blink once and you’re eating dust 😄.",
+  "trailer": "https://www.youtube.com/embed/5IbbgX8O7Hc",
+
+  "developer": "NaturalMotion Games (Zynga)",
+  "releaseYear": "2016",
+  "genre": "Racing / Drag Racing / Mobile Simulation",
+
+  "about": "<p>CSR Racing 2 is one of the most visually impressive racing games ever released on mobile 📱. Instead of traditional circuit racing, the game focuses on high-intensity drag races where timing is everything ⏱️. Nail the launch, hit perfect shifts, time your nitrous boost, and you’ll fly past your opponent — mess it up, and even a slower car will embarrass you 😅.</p><p>The game features officially licensed cars from legendary manufacturers like Ferrari, Lamborghini, Bugatti, McLaren, and Porsche 🚗. Every car looks insanely realistic, from reflections on the paint to detailed interiors. CSR2 isn’t just about racing — it’s about collecting, upgrading, tuning, and showing off your dream garage.</p>",
+
+  "overview": "<p>CSR Racing 2 delivers short but intense drag races 🏁 designed perfectly for mobile play sessions. Races last only a few seconds, but the progression keeps you hooked for hours. You earn cash 💰, keys 🔑, and reputation points by beating opponents, completing events, and dominating live multiplayer races.</p><p>The game includes a deep upgrade and tuning system 🛠️. Upgrading engine parts, tires, turbo, nitrous, and transmission directly impacts performance. Tuning allows fine control over acceleration, top speed, and grip, rewarding players who understand their car rather than blindly upgrading everything.</p>",
+
+  "story": "<p>CSR Racing 2 places you in the role of an ambitious street racer climbing the underground drag racing scene 🏎️. You face multiple racing crews, each led by a powerful boss who won’t hand over their car without a fight 👑.</p><p>Defeat crew leaders, prove your timing skills, and win their cars as trophies. The story keeps things simple but effective — every boss race feels tense, and every victory feels well-earned.</p>",
+
+  "platforms": [
+    { "name": "Android 📱", "icon": "/assets/icons/android.png", "available": true },
+    { "name": "iOS 🍎", "icon": "/assets/icons/ios.png", "available": true },
+    { "name": "PC (Emulator) 💻", "icon": "/assets/icons/pc.png", "available": true },
+    { "name": "PlayStation 🎮", "icon": "/assets/icons/ps.png", "available": false },
+    { "name": "Xbox 🎮", "icon": "/assets/icons/xbox.png", "available": false }
+  ],
+
+  "gameplay": {
+    "mechanics": [
+      "Skill-based gear shifting and nitrous timing ⏱️",
+      "Perfect launch system for race advantage 🚦",
+      "Real-world licensed supercars 🚗",
+      "Deep car upgrade and tuning system 🛠️",
+      "Live PvP drag races against real players 🌐",
+      "Crew-based events and boss battles 👑",
+      "Seasonal live events and challenges 📆",
+      "Garage customization and visual upgrades 🎨"
+    ],
+    "genre": [
+      "Racing",
+      "Drag Racing",
+      "Simulation",
+      "Mobile Sports"
+    ],
+    "modes": [
+      "Singleplayer 🎧",
+      "Online Multiplayer 🌐"
+    ]
+  },
+
+  "gameplayTrailers": [
+    {
+      "thumb": "https://img.youtube.com/vi/5IbbgX8O7Hc/maxresdefault.jpg",
+      "title": "Official CSR Racing 2 Trailer 🎬"
+    },
+    {
+      "thumb": "https://img.youtube.com/vi/AGv0lL6xj7k/maxresdefault.jpg",
+      "title": "CSR Racing 2 Gameplay & Car Showcase 🚗"
+    }
+  ],
+
+  "tips": [
+    "Perfect launches matter — a bad start is hard to recover from 🏁.",
+    "Don’t upgrade everything blindly; upgrade parts that improve your race time 📉.",
+    "Always tune your car after major upgrades for best results ⚙️.",
+    "Save rare keys for special car events 🔑.",
+    "Learn boss race patterns before challenging them 👀.",
+    "Multiplayer races are the fastest way to earn cash and RP 💰."
+  ],
+
+  "features": [
+    "Console-quality graphics on mobile 📱✨",
+    "Huge collection of officially licensed cars 🚗",
+    "Skill-based drag racing mechanics 🎯",
+    "Live PvP multiplayer races 🌐",
+    "Deep upgrade and tuning systems 🛠️",
+    "Regular live events and updates 📆",
+    "Garage customization and visual upgrades 🎨",
+    "Optimized performance on mid-range devices"
+  ],
+
+  "whyPlay": "CSR Racing 2 proves that you don’t need complicated controls to enjoy high-quality racing on mobile 🏎️. With stunning visuals, real cars, and pure timing-based gameplay, every perfect shift feels insanely satisfying 😄.",
+
+  "android": {
+    "minimum": [
+      "Android 8.0 or higher",
+      "3 GB RAM",
+      "Approx. 3–4 GB free storage",
+      "Stable internet connection 🌐"
+    ],
+    "recommended": [
+      "Android 10+",
+      "4–6 GB RAM",
+      "Mid-range or higher GPU",
+      "Fast internet for multiplayer ⚡"
+    ]
+  },
+
+  "ios": {
+    "devices": [
+      "iPhone 8 or newer",
+      "iPad with A11 chip or higher"
+    ],
+    "performance": [
+      "Smooth 60 FPS on newer devices 🚀",
+      "High-quality visuals with realistic reflections",
+      "Internet connection required for most features 🌐"
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is CSR Racing 2 free to play?",
+      "answer": "Yes, CSR Racing 2 is free to download and play, with optional in-app purchases available."
+    },
+    {
+      "question": "Does CSR Racing 2 require internet?",
+      "answer": "Yes, an internet connection is required for most features including live events and multiplayer races 🌐."
+    },
+    {
+      "question": "Is CSR Racing 2 pay-to-win?",
+      "answer": "Spending money can speed up progress 💸, but skilled players can compete and progress without paying by racing smart and patiently."
+    },
+    {
+      "question": "Can I play CSR Racing 2 offline?",
+      "answer": "Only limited content works offline ❌; the full experience requires an internet connection."
+    },
+    {
+      "question": "Is CSR Racing 2 beginner friendly?",
+      "answer": "Yes 👍. Simple controls, tutorials, and early progression make it easy for new players to start racing."
+    }
+  ]
+}
